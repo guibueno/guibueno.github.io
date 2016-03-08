@@ -1,0 +1,3 @@
+[submodule "languagebug"]
+	path = languagebug
+	url = https://gobbueno@bitbucket.org/gobbueno/languagebug.git
