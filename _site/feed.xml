@@ -1,40 +1,372 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Your awesome title</title>
-    <description>Write an awesome description for your new site here. You can edit this line in _config.yml. It will appear in your document head meta (for Google search results) and in your feed.xml site description.
+    <title>LanguageBug</title>
+    <description>Thesis project @ MA Digital Media Design for Learning at NYU.
 </description>
-    <link>http://yourdomain.com/</link>
-    <atom:link href="http://yourdomain.com/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Mon, 14 Mar 2016 15:37:13 -0400</pubDate>
-    <lastBuildDate>Mon, 14 Mar 2016 15:37:13 -0400</lastBuildDate>
+    <link>http://guibueno.github.io/</link>
+    <atom:link href="http://guibueno.github.io/feed.xml" rel="self" type="application/rss+xml"/>
+    <pubDate>Wed, 16 Mar 2016 15:23:42 -0400</pubDate>
+    <lastBuildDate>Wed, 16 Mar 2016 15:23:42 -0400</lastBuildDate>
     <generator>Jekyll v3.1.2</generator>
     
       <item>
-        <title>Welcome to Jekyll!</title>
-        <description>&lt;p&gt;You’ll find this post in your &lt;code class=&quot;highlighter-rouge&quot;&gt;_posts&lt;/code&gt; directory. Go ahead and edit it and re-build the site to see your changes. You can rebuild the site in many different ways, but the most common way is to run &lt;code class=&quot;highlighter-rouge&quot;&gt;jekyll serve&lt;/code&gt;, which launches a web server and auto-regenerates your site when a file is updated.&lt;/p&gt;
+        <title>Blog#6 Research and expertise</title>
+        <description>&lt;p&gt;&lt;strong&gt;Prompt:&lt;/strong&gt; How has your research and/or design process so far changed your understanding (e.g., of your target audience, your technology, your content, the design process, etc.)? What caused this change, and what significance does it have?&lt;/p&gt;
 
-&lt;p&gt;To add new posts, simply add a file in the &lt;code class=&quot;highlighter-rouge&quot;&gt;_posts&lt;/code&gt; directory that follows the convention &lt;code class=&quot;highlighter-rouge&quot;&gt;YYYY-MM-DD-name-of-post.ext&lt;/code&gt; and includes the necessary front matter. Take a look at the source for this post to get an idea about how it works.&lt;/p&gt;
+&lt;p&gt;This week, I have finally submitted MILESTONE #1: Intro + Analysis [&lt;a href=&quot;https://docs.google.com/document/d/1HJNspW_1FpAf2zxLhBPS3MLtThYJXxSfYCy7lW-3k20/edit#&quot;&gt;Google Docs&lt;/a&gt;] [&lt;a href=&quot;https://drive.google.com/file/d/0B-D7NHTmyc54YlljNHFMc3Mxa1U/view&quot;&gt;PDF&lt;/a&gt;] to my committee members. I wish I had the time to celebrate this achievement, but I was actually way past all the flexible deadlines I had set myself. The assignment was initially due on October 4th, which means it took me almost two more months to finish it. I am not sure exactly why this has happened, but probably the less flexible deadlines for the other courses I am taking got in the way of my thesis work.&lt;/p&gt;
 
-&lt;p&gt;Jekyll also offers powerful support for code snippets:&lt;/p&gt;
+&lt;p&gt;Still, I am happy that things have progressed and I feel more focused in my thesis than at any other point of the semester. Today, Nicole Pallares, one of my peers and committee members has sent me her feedback on my fist milestone. Here is &lt;a href=&quot;https://docs.google.com/document/d/1YTY2nEUHJjT5hZnR5eq7owTjhzBaQOK8CWehFi1FWW8/edit&quot;&gt;the complete version&lt;/a&gt;, including all her comments, suggestions and concerns. It was great to see that she has invested so much time and energy into carefully reading my entire piece. I’m very glad with the high-talented people that are part of my committee.&lt;/p&gt;
 
-&lt;figure class=&quot;highlight&quot;&gt;&lt;pre&gt;&lt;code class=&quot;language-ruby&quot; data-lang=&quot;ruby&quot;&gt;&lt;span class=&quot;k&quot;&gt;def&lt;/span&gt; &lt;span class=&quot;nf&quot;&gt;print_hi&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;nb&quot;&gt;name&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;)&lt;/span&gt;
-  &lt;span class=&quot;nb&quot;&gt;puts&lt;/span&gt; &lt;span class=&quot;s2&quot;&gt;&quot;Hi, &lt;/span&gt;&lt;span class=&quot;si&quot;&gt;#{&lt;/span&gt;&lt;span class=&quot;nb&quot;&gt;name&lt;/span&gt;&lt;span class=&quot;si&quot;&gt;}&lt;/span&gt;&lt;span class=&quot;s2&quot;&gt;&quot;&lt;/span&gt;
-&lt;span class=&quot;k&quot;&gt;end&lt;/span&gt;
-&lt;span class=&quot;n&quot;&gt;print_hi&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;s1&quot;&gt;&#39;Tom&#39;&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;)&lt;/span&gt;
-&lt;span class=&quot;c1&quot;&gt;#=&amp;gt; prints &#39;Hi, Tom&#39; to STDOUT.&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/figure&gt;
+&lt;p&gt;Nicole has many times called my attention to the lack of research and citation throughout this M#1. This is not the first time that this happens, actually. I remember that the same exact thing went on when I was taking Andrew Gardner’s Educational Design for Media Environments course in the Fall 2014 semester, my first one in DMDL. Here is the link to &lt;a href=&quot;http://www.slideshare.net/gobbueno/earles-emissaries-presentation#18&quot;&gt;the presentation that Jie Ding, Brad and I worked at the time&lt;/a&gt;, where we showed Andrew calling our attention to the absence of citations.&lt;/p&gt;
 
-&lt;p&gt;Check out the &lt;a href=&quot;http://jekyllrb.com/docs/home&quot;&gt;Jekyll docs&lt;/a&gt; for more info on how to get the most out of Jekyll. File all bugs/feature requests at &lt;a href=&quot;https://github.com/jekyll/jekyll&quot;&gt;Jekyll’s GitHub repo&lt;/a&gt;. If you have questions, you can ask them on &lt;a href=&quot;https://talk.jekyllrb.com/&quot;&gt;Jekyll Talk&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;It seems that I’m always taking a design path that is at least a little weird: I make descriptions (target audience, problem statement) based on facts that I’m pretty sure are right, but I only look for research to back them up afterwards. It is funny, because it feels like if I were to investigate my target audience exhaustively before starting to write things down, I wouldn’t have delivered M#1. But now that I have written many assumptions, there are many facts that I need to check and back up.&lt;/p&gt;
 
+&lt;p&gt;Anyways, a few weeks ago Nissa and I were discussing how we could become experts in the field we are researching. For me, it felt like a true language learning and technology specialist would be completely aware of everything that is currently being done/released. I would probably have tested many different software and have a solid opinion about them. I would also need to be constantly learning languages. Finally, it would be nice to know where most of the research in the field happens.&lt;/p&gt;
+
+&lt;p&gt;As I realized how far I was from becoming a subject expert, I decided to do something simple, which hopefully will be helpful: creating a list of peer reviewed journals that I would like to follow from now on. My hope is that, by connecting with what is being published in different places in the world, I will have a better understanding of what the current field challenges are, what has already been accomplished, and which are the most common and well-accepted approaches. Well, here is that list:&lt;/p&gt;
+
+&lt;h2 id=&quot;journals&quot;&gt;Journals:&lt;/h2&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://getit.library.nyu.edu/link_router/index/139784105?umlaut.institution=NYU&quot;&gt;Language Learning&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://www.dliflc.edu/applied-language-learning/&quot;&gt;Applied Language Learning&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://getit.library.nyu.edu/link_router/index/139784119?umlaut.institution=NYU&quot;&gt;Language Learning Journal&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://getit.library.nyu.edu/link_router/index/139784141?umlaut.institution=NYU&quot;&gt;Language Learning in Higher Education&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;http://llt.msu.edu/&quot;&gt;Language learning &amp;amp; technology&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://getit.library.nyu.edu/link_router/index/139784177?umlaut.institution=NYU&quot;&gt;Innovation in language learning and teaching&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;http://www.jltl.org/index.php/jltl?statisticsYear=2015&quot;&gt;Journal of Language Teaching and Learning&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://getit.library.nyu.edu/link_router/index/139784228?umlaut.institution=NYU&quot;&gt;Language learning and development&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://getit.library.nyu.edu/link_router/index/139784247?umlaut.institution=NYU&quot;&gt;Computer assisted language learning&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;http://laclil.unisabana.edu.co/index.php/LACLIL/index&quot;&gt;Latin American Journal of Content &amp;amp; Language Integrated Learning&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;http://revistes.uab.cat/jtl3/issue/view/v8-n3/showToc&quot;&gt;Journal of Teaching and Learning Language and Literature&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;http://www.consortiacademia.org/index.php/ijrsll&quot;&gt;International Journal of Research Studies in Language Learning&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;http://perlinguam.journals.ac.za/pub&quot;&gt;Per Linguam&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://getit.library.nyu.edu/link_router/index/139847747?umlaut.institution=NYU&quot;&gt;Journal of Memory and Language&lt;/a&gt;&lt;/p&gt;
 </description>
-        <pubDate>Mon, 07 Mar 2016 22:10:26 -0500</pubDate>
-        <link>http://yourdomain.com/jekyll/update/2016/03/07/welcome-to-jekyll.html</link>
-        <guid isPermaLink="true">http://yourdomain.com/jekyll/update/2016/03/07/welcome-to-jekyll.html</guid>
+        <pubDate>Mon, 30 Nov 2015 22:09:42 -0500</pubDate>
+        <link>http://guibueno.github.io/blog/2015/11/30/blog6-research-and-expertise.html</link>
+        <guid isPermaLink="true">http://guibueno.github.io/blog/2015/11/30/blog6-research-and-expertise.html</guid>
         
         
-        <category>jekyll</category>
+        <category>blog</category>
         
-        <category>update</category>
+      </item>
+    
+      <item>
+        <title>Blog#5 Curent challenges and issues</title>
+        <description>&lt;p&gt;&lt;strong&gt;Prompt:&lt;/strong&gt; What is so far the most challenging thing about doing your thesis? Explain.&lt;/p&gt;
+
+&lt;p&gt;I can’t reinforce enough how much I like having this space for reflection. This time, instead of using my bi-weekly blog post to think about the thesis project itself, I will try and discuss the challenges I am currently facing, just like Nissa did in his brilliant &lt;a href=&quot;https://myfirstsony.wordpress.com/2015/10/28/thesis-reset/&quot;&gt;Thesis: Restart&lt;/a&gt; post.&lt;/p&gt;
+
+&lt;p&gt;Time: taking two courses besides thesis is not easy. On the one hand, in thesis I am doing exactly what I want to do, the deadlines are flexible, the results will be all mine. This is what I consider an ideal context for my own learning: freedom, interest, motivation. But on the other hand, this makes me prioritize the strict project deadlines and group work in my other two courses, which are more specific, shorter, and I force myself to finish within a few hours. Since the flow of assignments from these other courses is constant, I basically haven’t invested much time in thesis in the past weeks.&lt;/p&gt;
+
+&lt;p&gt;A set of possible solutions must include (1) breaking down the broad notion of a thesis project into smaller tasks with fixed deadlines; (2) forcing myself to work routinely on my thesis, no matter the workload from other classes; (3) doing my best to catch-up in the other courses; (4) waking up a little earlier and extending my schoolwork hours. I have tried to do that over the past week, so I’m thinking and hoping that this issue is going to be solved in the near future.&lt;/p&gt;
+
+&lt;p&gt;Another issue that has impacted my productivity in thesis is what Nissa called “fear of realization”:&lt;/p&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;My particular thesis project is based on an idea that’s been taking shape in the back (and sometimes front) of my mind for the better part of a decade now. There’s something daunting about finally doing focused work to actually bring it into being. And also to make it public.&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;Language learning and teaching is pretty much everything I have studied and thought about from the moment I started teaching to now. As a result, I can now discuss language learning for hours, strongly support my opinions and beliefs in a conversation, but creating a consistent project out of all these messy thoughts scares me - and not being able to do so frightens me.&lt;/p&gt;
+
+&lt;p&gt;Another challenge: being on top of the academic research. If I am doing a thesis design project in language learning, I am expecting to become an expert in language learning. As an expert, I feel like it would be my obligation to know by heart the most important controversies, discussions, and accomplishments of scientific research in the field. Rather than that, I feel like I know so little about it all, which shrinks the credibility (even to myself) of what I’m proposing.&lt;/p&gt;
+
+&lt;p&gt;My biggest challenge, however, comes from my background as a language teacher for a relatively brief period (only 6 months) at an incredibly alternative language school in Brazil. Most of what I know and believe in language learning comes from that experience, but the method and activities we used there are so unconventional that it’s hard to convince people they could be effective. In sum, it’s a ton of work to translate all that true experience I had into a solid design project, backed up by research. This, once again, brings me back to &lt;u&gt;fear of realization&lt;/u&gt;.&lt;/p&gt;
+
+&lt;p&gt;My last challenge is to not get so excited about programming, tangibles, and graphic design, which are my newest interests. I guess I might be using these things as escapes from working on thesis, but what really feels like is that I want to invest a lot of time into learning these valuable skills.&lt;/p&gt;
+
+&lt;p&gt;In my ideal world, I need to start living my thesis. I need to breath language learning, to practice a lot different languages everyday and get more experience as a learner, to know all the apps and services ever created to promote language learning, to read all the TESOL journals daily. In order to shape myself into that person, I will need a lot more time and many other blog posts as this one.&lt;/p&gt;
+</description>
+        <pubDate>Tue, 10 Nov 2015 15:47:02 -0500</pubDate>
+        <link>http://guibueno.github.io/blog/2015/11/10/blog5-current-challenges-and-issues.html</link>
+        <guid isPermaLink="true">http://guibueno.github.io/blog/2015/11/10/blog5-current-challenges-and-issues.html</guid>
+        
+        
+        <category>blog</category>
+        
+      </item>
+    
+      <item>
+        <title>Blog#4 Key themes and areas of knowledge</title>
+        <description>&lt;p&gt;&lt;strong&gt;Prompt:&lt;/strong&gt; What are specific key themes and/or areas of knowledge addressed by your thesis? Draw a diagram and explain their relationships.&lt;/p&gt;
+
+&lt;p&gt;Drawing a diagram was fun and helpful. It became easier to identify gaps in my assumptions through such “object to think with”. Just like all the other Thesis assignments ad blog posts, this is an on-going draft that I intend to keep improving. I appreciate any feedback. :)&lt;/p&gt;
+
+&lt;p&gt;&lt;span class=&quot;file&quot;&gt;&lt;a href=&quot;http://guibueno.me/sites/default/files/Blank%20Flowchart%20-%20Draft%201.0.jpeg#overlay-context=node/39&quot;&gt;Blank Flowchart - Draft 1.0.jpeg&lt;/a&gt;&lt;/span&gt;&lt;/p&gt;
+</description>
+        <pubDate>Mon, 26 Oct 2015 14:52:33 -0400</pubDate>
+        <link>http://guibueno.github.io/blog/2015/10/26/blog4-key-themes-and-areas-of-knowledge.html</link>
+        <guid isPermaLink="true">http://guibueno.github.io/blog/2015/10/26/blog4-key-themes-and-areas-of-knowledge.html</guid>
+        
+        
+        <category>blog</category>
+        
+      </item>
+    
+      <item>
+        <title>Blog#3 Broader personal/social impact</title>
+        <description>&lt;p&gt;&lt;strong&gt;Prompt&lt;/strong&gt;: How do you envision your project’s lifespan beyond your degree? What broader impact do you hope your project will have? What would you have to do (during, or beyond the program) to ensure your project realizes that impact?&lt;/p&gt;
+
+&lt;p&gt;I write this blog post as I’m thinking about the “Context &amp;amp; Setting” section of my (late) deliverable. Hopefully the blogging format, vocabulary, and sketchy tone will free me from being stuck with this part. Hopefully all blog entries will be useful as a means to think about future steps in my thesis.&lt;/p&gt;
+
+&lt;p&gt;Well, the prompt I chose makes me go back to the first semester, when I was taking Education Technology in a Global Context, with my adviser (and now committee member) Russell Neuman.&lt;/p&gt;
+
+&lt;p&gt;Russell has mentioned several times the importance of thinking about my career plan while doing all course readings and assignments. Basically, the question he taught me to ask was: “How can this thing I’m doing right now contribute to the career I am pursuing or intend to pursue?.&lt;/p&gt;
+
+&lt;p&gt;I’m not much of a planner and I’m even less of a career-oriented person. For example, the reason why I began to teach languages was that I needed money, and it was easier to just start teaching than going through a probably long hiring process at any media/design company. But once again, Russell motivated me to think about my goals, which ended up being connected all over with language learning and teaching. Then, since the end of Fall 2014, I began to focus most of my thoughts and efforts in languages. First time in my life I’m doing this!&lt;/p&gt;
+
+&lt;p&gt;And… who do I intend to be in the world of language learning and teaching? Not sure, of course, but the idea of being a language coach has stuck to me for a while. I certainly need to work on my own definition of this term (better than &lt;a href=&quot;https://www.google.com/url?q=https://en.wikipedia.org/wiki/Language_coaching&amp;amp;sa=D&amp;amp;usg=AFQjCNERNcrU8Z9wBngkeSudPMijFlw4aA&quot;&gt;this definition&lt;/a&gt;), but I’d be something like:&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;I will know a lot about language learning as a cognitive process, so I’ll be great at picking, presenting, and adapting effective strategies and activities for language learners.&lt;/li&gt;
+  &lt;li&gt;With such meta-knowledge about languages, I will be able to help people out even with languages I am not fluent in or don’t speak at all. Therefore, I’ll learn a lot as I go.&lt;/li&gt;
+  &lt;li&gt;I will not necessarily teach languages to people for an extensive period. Since language learning is a lifelong process, I’ll &lt;span class=&quot;c11&quot;&gt;&lt;strike&gt;teach&lt;/strike&gt;help them figure out how to learn languages.&lt;/span&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;In order to do this, I will have to deal with a lot of materials and contents from different sources. Could you just imagine what it’d be like to work with three people on the same day, one Spanish intermediate speaker, one advanced English and one Portuguese?&lt;/p&gt;
+
+&lt;p&gt;Keeping up with this scenario, it’d be nearly impossible to keep track of which strategies have proved to be effective with each learner (adaptivity), which vocabulary each person wants to be exposed to (meaningful learning), when to motivate each student (positive reinforcement), etc.&lt;/p&gt;
+
+&lt;p&gt;In other words, I need a highly customizable tool to be an efficient language coach. My thesis project seems to be taking the shape of that tool. Basically, I’d be designing for myself at first, which is an idea that may have &lt;a href=&quot;https://www.google.com/url?q=http://www.mindtheproduct.com/2014/06/design-products-one-else/&amp;amp;sa=D&amp;amp;usg=AFQjCNEJl59nqiOFlhesDbR9ofwo9dh2Kg&quot;&gt;upsides&lt;/a&gt;, but it’s usually not recommended, as far as I know:&lt;/p&gt;
+
+&lt;p&gt;“Wouldn’t this approach simply result in a product that is designed for a target market of one: you? How much of your own time, effort and money would you spend designing, building and testing something BEFORE you start to investigate whether there’s anyone else out there who shares your particular problem?” (comment from &lt;a href=&quot;https://www.google.com/url?q=http://upsides&amp;amp;sa=D&amp;amp;usg=AFQjCNG5lapbT1-dZbw6o7LKPVUBvqRJsA&quot;&gt;this page&lt;/a&gt;)&lt;/p&gt;
+
+&lt;p&gt;This is a nice clue to what I probably need to spend more time researching: my target audience.&lt;/p&gt;
+
+&lt;p&gt;But maybe I can see this from a different perspective. Maybe I’ll be actually designing a tool not for myself, but for the language learners whom I will be helping out. Yes, that definitely makes sense: I’ll design a tool for them to use with and/or without my assistance.&lt;/p&gt;
+
+&lt;p&gt;This all got to confusing, so let’s try to think of my design as having two functions:&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Planning lessons, that is, selecting and arranging the activities and exercises intended to help the user achieve specific competencies in a defined target language.&lt;/li&gt;
+  &lt;li&gt;Taking lessons, which is, of course, doing everything that has been planned.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;Now, let’s assume that my target audience can be divided into two groups: Teachers* &amp;amp; Learners. The array of possible scenarios of interaction would be something like this:&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;&lt;span class=&quot;c8&quot;&gt;Teachers:
+&lt;/span&gt;    &lt;ul&gt;
+      &lt;li&gt;Planning lessons for students.&lt;/li&gt;
+      &lt;li&gt;Planning lessons for self-improvement.&lt;/li&gt;
+      &lt;li&gt;Taking lessons for self-improvement.&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;span class=&quot;c8&quot;&gt;Learners:&lt;/span&gt;&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;Taking lessons assigned by teachers.&lt;/li&gt;
+  &lt;li&gt;Planning their own lesson.&lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;Taking their own lessons.&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;span class=&quot;c8&quot;&gt;Teachers + Students&lt;/span&gt;&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;Taking lessons during class.&lt;/li&gt;
+  &lt;li&gt;Planning lessons together.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;By teacher (*), I mean any tutor, educator, coach, or friend that guides or helps another learner through learning a desired target language. Actually, these bullet-points show that teachers and learners have basically the same goals and abilities. This makes me wonder…&lt;/p&gt;
+
+&lt;p&gt;Am I targeting language teachers (like myself) or am I targeting language learners (like myself)? This is precisely the broader impact I hope my project will have: to make language learners realize they can be their own language teachers. Does this make sense?&lt;/p&gt;
+
+&lt;p&gt;After a long and confusing blogs post, I feel like I’ve achieved my goal to understand a little better my context &amp;amp; setting (the target audience was a bonus) and to feel motivated to keep writing the first (and super late) deliverable. Cheers!&lt;/p&gt;
+</description>
+        <pubDate>Tue, 13 Oct 2015 00:19:26 -0400</pubDate>
+        <link>http://guibueno.github.io/blog/2015/10/13/blog3-broader-social-personal-impact.html</link>
+        <guid isPermaLink="true">http://guibueno.github.io/blog/2015/10/13/blog3-broader-social-personal-impact.html</guid>
+        
+        
+        <category>blog</category>
+        
+      </item>
+    
+      <item>
+        <title>Blog#2 Thesis Central Topics</title>
+        <description>&lt;p&gt;The prompt was “&lt;em&gt;Begin to identify the central topics your thesis will address&lt;/em&gt;”, but because there are still many question that I haven’t answered about my thesis, I opted to list all fields, theories and keywords that I could possibly look into.&lt;br /&gt;
+&lt;strong&gt;Content:&lt;/strong&gt;&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Language learning&lt;/li&gt;
+  &lt;li&gt;Language acquisition&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;&lt;strong&gt;Audience &amp;amp; Environment:&lt;/strong&gt;&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Adult learning / Andragogy&lt;/li&gt;
+  &lt;li&gt;Informal learning&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;&lt;strong&gt;Cognitive strategies:&lt;/strong&gt;&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Growth Mindset&lt;/li&gt;
+  &lt;li&gt;Aptitude Beliefs&lt;/li&gt;
+  &lt;li&gt;Metacognition&lt;/li&gt;
+  &lt;li&gt;Conceptual change&lt;/li&gt;
+  &lt;li&gt;Emotional learning&lt;/li&gt;
+  &lt;li&gt;Affective learning&lt;/li&gt;
+  &lt;li&gt;Meaningful Learning&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;&lt;strong&gt;Alternative strategies:&lt;/strong&gt;&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Intercultural communication&lt;/li&gt;
+  &lt;li&gt;Embodied cognition&lt;/li&gt;
+  &lt;li&gt;Cognitive Flexibility Theory&lt;/li&gt;
+  &lt;li&gt;Problem-based learning&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;&lt;strong&gt;Technology:&lt;/strong&gt;&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Computer-supported collaborative learning&lt;/li&gt;
+  &lt;li&gt;Open Educational Resources&lt;/li&gt;
+  &lt;li&gt;Universal Design&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+        <pubDate>Wed, 23 Sep 2015 23:14:20 -0400</pubDate>
+        <link>http://guibueno.github.io/blog/2015/09/23/blog2-thesis-central-topics.html</link>
+        <guid isPermaLink="true">http://guibueno.github.io/blog/2015/09/23/blog2-thesis-central-topics.html</guid>
+        
+        
+        <category>blog</category>
+        
+      </item>
+    
+      <item>
+        <title>Blog#1 Is Duolingo really the best we can do?</title>
+        <description>&lt;p&gt;&lt;a href=&quot;https://www.duolingo.com/&quot;&gt;Duolingo&lt;/a&gt; is a “free language-learning and &lt;u&gt;crowdsourced&lt;/u&gt; text translation platform”, says &lt;a href=&quot;http://en.wikipedia.org/wiki/Duolingo&quot;&gt;its entry on Wikipedia&lt;/a&gt;. As of January 2014, Duolingo had 60 million users, out of which about 20 million are [were] active, according to &lt;a href=&quot;http://www.forbes.com/sites/jordanshapiro/2015/01/08/duolingo-for-schools-may-change-the-edtech-market/&quot;&gt;Forbes Magazine&lt;/a&gt;, which adds that “Duolingo remains free of charge. No advertisements. No subscriptions. No upsells. No in-app purchasing”.&lt;/p&gt;
+
+&lt;p style=&quot;text-align: center&quot;&gt;&lt;a href=&quot;http://4.bp.blogspot.com/-bWUC3fBnuM0/VVlB7114yoI/AAAAAAAABXc/wNZWPlEch6A/s1600/21.%2BDuolingo.png&quot;&gt;&lt;img src=&quot;http://4.bp.blogspot.com/-bWUC3fBnuM0/VVlB7114yoI/AAAAAAAABXc/wNZWPlEch6A/s400/21.%2BDuolingo.png&quot; alt=&quot;&quot; /&gt;&lt;/a&gt;&lt;br /&gt;
+As always, the promise is broad, ambitious, and vague: to learn languages.&lt;/p&gt;
+
+&lt;p&gt;But who is the student population that will use Duolingo? Anyone, once again. Most of the online services dedicated to learning that I know are open to anyone that has access to Internet. It can can be viewed in different languages, it has a light design and it is completely free. So you don’t need to have a lot of money, a powerful computer, or to know any specific language to start using Duolingo.&lt;/p&gt;
+
+&lt;p style=&quot;text-align: center&quot;&gt;&lt;a href=&quot;http://2.bp.blogspot.com/-2USTVPmEfqk/VVlB757hD2I/AAAAAAAABXY/sPTVDpk_0R0/s1600/21.%2BDaily%2BGoal.png&quot;&gt;&lt;img src=&quot;http://2.bp.blogspot.com/-2USTVPmEfqk/VVlB757hD2I/AAAAAAAABXY/sPTVDpk_0R0/s1600/21.%2BDaily%2BGoal.png&quot; alt=&quot;&quot; /&gt;&lt;/a&gt;&lt;br /&gt;
+Great design, with a cute character and gamification.&lt;/p&gt;
+
+&lt;p&gt;The purposes also vary a lot. Teachers may use Duolingo to assign home practice, or they can use pieces of it in the classroom. For example, if I wanted to teach my students some specific vocabulary, it’d be much easier to open, let’s say, Duolingo’s &lt;a href=&quot;https://www.duolingo.com/skill/pt/Animals&quot;&gt;section on Animals in Portuguese&lt;/a&gt;, than spending a lot of my own time creating my own slides and presentations with pictures of animals.&lt;/p&gt;
+
+&lt;p style=&quot;text-align: center&quot;&gt;&lt;a href=&quot;http://1.bp.blogspot.com/-H0w3x5UyuyY/VVlB7fdJ79I/AAAAAAAABYA/MA2nFugW3j4/s1600/21.%2BCategories.png&quot;&gt;&lt;img src=&quot;http://1.bp.blogspot.com/-H0w3x5UyuyY/VVlB7fdJ79I/AAAAAAAABYA/MA2nFugW3j4/s320/21.%2BCategories.png&quot; alt=&quot;&quot; /&gt;&lt;/a&gt;&lt;br /&gt;
+Many different contents, separated by units.&lt;/p&gt;
+
+&lt;p&gt;If you intend to learn or practice a foreign/second language at home and by yourself, Duolingo can be even more useful. Their entire experience is designed for individual learners, so Duolingo will probably be much more effective when people are taking courses by themselves. Just like this little guy in the video below, who learned English by himself in only eight months. Incredible, right?&lt;/p&gt;
+
+&lt;iframe allowfullscreen=&quot;&quot; src=&quot;https://www.youtube.com/embed/tp4Z4EVFA0g&quot; frameborder=&quot;0&quot; height=&quot;372&quot; width=&quot;650&quot;&gt;&lt;/iframe&gt;
+&lt;p style=&quot;text-align: center&quot;&gt;Go to 2:50&lt;/p&gt;
+
+&lt;p&gt;I’ve tried Duolingo many times over the past years. As a language enthusiast, a former language teacher and, now, a language learning tool designer, it’s very often that people come to me and say: “Oh, Gui, you should try Duolingo, have you heard of it? It’s great!”. However, I could never get a sparkle of excitement about it. But why?&lt;/p&gt;
+
+&lt;p style=&quot;text-align: center&quot;&gt;&lt;a href=&quot;http://4.bp.blogspot.com/--vfEK3VD7VY/VVlB8cljcUI/AAAAAAAABXk/DsbeF4uME_Y/s1600/21.%2BRosettando.png&quot;&gt;&lt;img src=&quot;http://4.bp.blogspot.com/--vfEK3VD7VY/VVlB8cljcUI/AAAAAAAABXk/DsbeF4uME_Y/s320/21.%2BRosettando.png&quot; alt=&quot;&quot; /&gt;&lt;/a&gt;&lt;br /&gt;
+Isn’t it exactly the same as Rosetta-Stone or Livemocha?&lt;/p&gt;
+
+&lt;p&gt;Well, maybe, the reasons is &lt;u&gt;behaviorism&lt;/u&gt;. In my opinion, that’s all Duolingo is about, just like other platforms such as &lt;a href=&quot;http://www.rosettastone.com/&quot;&gt;Rosetta-Stone&lt;/a&gt; and &lt;a href=&quot;http://livemocha.com/&quot;&gt;Livemocha&lt;/a&gt;. In other words, it’s basically the same exact, limited view of what Language Education is, but with a whole new, fresh, appealing design idea, that makes people (and designers) excited.&lt;/p&gt;
+
+&lt;p style=&quot;text-align: center&quot;&gt;&lt;a href=&quot;http://3.bp.blogspot.com/-7Iqji1kse00/VVlB7Tz7l9I/AAAAAAAABXU/tp9_AnH_Mpc/s1600/21.%2BBehaviorism.png&quot;&gt;&lt;img src=&quot;http://3.bp.blogspot.com/-7Iqji1kse00/VVlB7Tz7l9I/AAAAAAAABXU/tp9_AnH_Mpc/s320/21.%2BBehaviorism.png&quot; alt=&quot;&quot; /&gt;&lt;/a&gt;&lt;br /&gt;
+Basic functionality of Duolingo.&lt;/p&gt;
+
+&lt;p&gt;You don’t need technical support do use Duolingo. Indeed, you barely need a mouse, since their design is so great that you can navigate through the lessons and exercises by only pressing the keys on your keyboard. Oh, and of course, if you ever need any help with anything (even though it’s all super intuitive), there’s an &lt;a href=&quot;https://www.duolingo.com/topic/647&quot;&gt;excited community of users willing to troubleshoot&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p style=&quot;text-align: center&quot;&gt;&lt;a href=&quot;http://3.bp.blogspot.com/-R8EDOU_PBI4/VVlB8YDdE7I/AAAAAAAABXo/mieaePiU03k/s1600/21.%2BWTF.png&quot;&gt;&lt;img src=&quot;http://3.bp.blogspot.com/-R8EDOU_PBI4/VVlB8YDdE7I/AAAAAAAABXo/mieaePiU03k/s320/21.%2BWTF.png&quot; alt=&quot;&quot; /&gt;&lt;/a&gt;&lt;br /&gt;
+I have never said this sentence in Portuguese. Why would someone learn that?&lt;/p&gt;
+
+&lt;p&gt;In my general assessment, Duolingo is the best that exists out there. It’s 1000x better than Rosetta-Stone, Livemocha, &lt;a href=&quot;http://www.mangolearning.com/&quot;&gt;Mango Learning&lt;/a&gt;, or anything else. The reason? The &lt;u&gt;network effect&lt;/u&gt;: Duolingo has millions of users that are well-connected. This is how Duolingo makes money, this is how it gets better, this is how new users arrive.&lt;/p&gt;
+
+&lt;p style=&quot;text-align: center&quot;&gt;&lt;a href=&quot;http://2.bp.blogspot.com/-yx0E5h9X99s/VVlB7asUE_I/AAAAAAAABXQ/4hYDj7zPkLM/s1600/21.%2BCrowded.png&quot;&gt;&lt;img src=&quot;http://2.bp.blogspot.com/-yx0E5h9X99s/VVlB7asUE_I/AAAAAAAABXQ/4hYDj7zPkLM/s320/21.%2BCrowded.png&quot; alt=&quot;&quot; /&gt;&lt;/a&gt;&lt;br /&gt;
+Incredibly clever.&lt;/p&gt;
+
+&lt;p&gt;I acknowledge that Duolingo has &lt;a href=&quot;http://www.technologyreview.com/news/506656/the-cleverest-business-model-in-online-education/&quot;&gt;the cleverest business model in online education&lt;/a&gt; I’ve ever seen, in addition to their nice user experience and graphic design. However, their methodology and their view on language learning itself is just the same as always. That’s frustrating, but also encouraging: I’d love to create something better.&lt;/p&gt;
+</description>
+        <pubDate>Wed, 16 Sep 2015 15:09:53 -0400</pubDate>
+        <link>http://guibueno.github.io/blog/2015/09/16/blog1-is-duolingo-really-the-best-we-can-do.html</link>
+        <guid isPermaLink="true">http://guibueno.github.io/blog/2015/09/16/blog1-is-duolingo-really-the-best-we-can-do.html</guid>
+        
+        
+        <category>blog</category>
+        
+      </item>
+    
+      <item>
+        <title>Blog#0 Initial Thesis Idea</title>
+        <description>&lt;h3 id=&quot;whats-your-driving-question-problem-issue-or-need&quot;&gt;What’s your driving question, problem, issue, or need?&lt;/h3&gt;
+
+&lt;p&gt;My topic is foreign and second language learning/acquisition, particularly the speaking skills.&lt;/p&gt;
+
+&lt;p&gt;I guess my most general &lt;a href=&quot;http://&quot;&gt;HMW&lt;/a&gt; question would be: “How might we make language learning more efficient and less frustrating?”. There are many other issues I can’t stop wondering about, such as:&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;What makes it so hard for most people to learn another language?&lt;/li&gt;
+  &lt;li&gt;Why do adults usually learn foreign/second languages with accents?&lt;/li&gt;
+  &lt;li&gt;How can polyglots/hyperglots learn languages so easily? What about children?&lt;/li&gt;
+  &lt;li&gt;Is living abroad the most effective way of learning a foreign language?&lt;/li&gt;
+  &lt;li&gt;Is language learning biologically linked to age (see &lt;a href=&quot;https://en.wikipedia.org/wiki/Critical_period_hypothesis&quot;&gt;critical period hypothesis&lt;/a&gt;)?&lt;/li&gt;
+  &lt;li&gt;How could a digital media help people develop such social/personal capacities?&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h3 id=&quot;who-are-your-target-users--participants-whats-the-context&quot;&gt;Who are your target users / participants? What’s the context?&lt;/h3&gt;
+
+&lt;p&gt;Maybe &lt;u&gt;immigrants&lt;/u&gt; that live in New York, but don’t speak English fluently?&lt;/p&gt;
+
+&lt;p&gt;I’m mostly interested in targeting &lt;u&gt;adult&lt;/u&gt; learners. That’s because there are many adults that really want to learn another language, that &lt;em&gt;understand&lt;/em&gt; the reasons and purposes for learning it, that are able to invest time and money into doing it, but cannot &lt;em&gt;succeed&lt;/em&gt; in it.&lt;/p&gt;
+
+&lt;p&gt;I’d love to investigate why this happens so often and how to help them achieve their goals. Also, I would like to work with adults who consider themselves “not good with languages” because of an &lt;u&gt;unsuccessful and frustrating&lt;/u&gt; past experience with language learning they might have had.&lt;/p&gt;
+
+&lt;p&gt;Preferably, I’d like to target adults with &lt;u&gt;minimal formal education&lt;/u&gt;. Speaking any language does not require knowing its rules and formalities, as I believe. On the contrary, grammar, verb conjugation charts, and vocabulary lists can make learners bored/less motivated.&lt;/p&gt;
+
+&lt;p&gt;Finally, I believe adult learners are likely to be too &lt;u&gt;shy&lt;/u&gt; to go beyond their own phonetic repertoire, therefore it’s very challenging for them to mimic accents and pronunciation in foreign languages.&lt;/p&gt;
+
+&lt;h3 id=&quot;what-solution-do-you-think-youll-propose-what-type-of-thesis-project-do-you-think-this-will-be-designed-media-research-study-etc&quot;&gt;What solution do you think you’ll propose? What type of thesis project do you think this will be (designed media, research study, etc.)?&lt;/h3&gt;
+
+&lt;p&gt;Because I’m asking too many questions, maybe a Research Study or a Scholarly Critical Inquiry Paper would suit best my needs. But I’m honestly getting tired of pure theory, so I’d rather focus on building something, hence I’ll definitely go for a &lt;u&gt;Design &amp;amp; Development of Media for Learning&lt;/u&gt;.&lt;/p&gt;
+
+&lt;p&gt;I’m thinking about using &lt;u&gt;Metacognition&lt;/u&gt; and &lt;u&gt;Growth Mindset&lt;/u&gt; to rethink language learning.&lt;/p&gt;
+
+&lt;p&gt;When polyglots explain how to learn languages efficiently, they usually refer much less to practical matters (the methods, exercises, drills, and sequences of learning), and much more to the attitude one should have towards language learning (see: [&lt;a href=&quot;https://www.youtube.com/watch?v=0x2_kWRB8-A&quot;&gt;1&lt;/a&gt;], [&lt;a href=&quot;https://www.youtube.com/watch?v=_GCLYYNmu5g&quot;&gt;2&lt;/a&gt;], [&lt;a href=&quot;https://www.youtube.com/watch?v=6a6vVIdQBd0&quot;&gt;3&lt;/a&gt;], [&lt;a href=&quot;https://www.youtube.com/watch?v=ssjvGjHPdYg&quot;&gt;4&lt;/a&gt;], [&lt;a href=&quot;http://vimeo.com/nyusteinhardt/review/114774164/c3862c4cda&quot;&gt;5&lt;/a&gt;], [&lt;a href=&quot;https://www.youtube.com/watch?v=eFpzeGoP-Kg&quot;&gt;6&lt;/a&gt;], [&lt;a href=&quot;https://www.youtube.com/watch?v=-WLHr1_EVtQ&quot;&gt;7&lt;/a&gt;], [&lt;a href=&quot;http://www.bbc.com/future/story/20150528-how-to-learn-30-languages&quot;&gt;8&lt;/a&gt;], and [&lt;a href=&quot;https://www.youtube.com/watch?v=p9hij0H8jp0&quot;&gt;9&lt;/a&gt;]).&lt;/p&gt;
+
+&lt;p&gt;Is language learning a matter setting up the right attitude? If so, how can we teach such attitude?&lt;/p&gt;
+
+&lt;p&gt;As of now, I think my project could be a set of language learning exercises that shifts focus to the learner’s emotions (shyness, frustration), motivation, and self-belief, as opposed to all the purely behaviourist, mechanical software that is available out there (Rosetta-Stone, Duolingo, …).&lt;/p&gt;
+
+&lt;h3 id=&quot;what-tools-platforms-resources-or-other-materials-are-you-considering&quot;&gt;What tools, platforms, resources, or other materials are you considering?&lt;/h3&gt;
+
+&lt;p&gt;&lt;u&gt;Interviews&lt;/u&gt; with language learners and teachers could be very useful in this process. NYC is the most linguistically diverse city in the world (as many as 800 languages are spoken here), which means there’s plenty of interesting people that I could possibly interview.&lt;/p&gt;
+
+&lt;p&gt;I could also study some &lt;u&gt;alternative methods&lt;/u&gt; of learning languages, since they can provide insights on how to deal with learners’ emotions. I have studied &lt;a href=&quot;http://www.mimicmethod.com/&quot;&gt;The Mimic Method&lt;/a&gt; in-depth, for example, whose approach is definitely different than anything else I had seen.&lt;/p&gt;
+
+&lt;p&gt;It’d be nice to check out as many language learning &lt;u&gt;Apps and services&lt;/u&gt; as possible, to know their strengths and weaknesses. Additionally, in Speech Pathology, there might be other services and apps that are both encouraging and precise in phonetic training.&lt;/p&gt;
+
+&lt;h3 id=&quot;what-challenges-do-you-anticipate-encountering-what-kind-of-help-do-you-think-youll-need&quot;&gt;What challenges do you anticipate encountering? What kind of help do you think you’ll need?&lt;/h3&gt;
+
+&lt;p&gt;&lt;u&gt;Focus&lt;/u&gt;: it’s going to be hard to narrow down my project to work within its length/budget constraints.&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;http://dictionary.reference.com/browse/megalomania&quot;&gt;Megalomania&lt;/a&gt;: I must always remind myself that my solution will be simple and won’t be perfect.&lt;/p&gt;
+
+&lt;p&gt;&lt;u&gt;Divergence&lt;/u&gt;: language learning involves a huge number of opposed theories, methods and beliefs.&lt;/p&gt;
+</description>
+        <pubDate>Wed, 16 Sep 2015 14:31:15 -0400</pubDate>
+        <link>http://guibueno.github.io/blog/2015/09/16/blog0-initial-thesis-ideas.html</link>
+        <guid isPermaLink="true">http://guibueno.github.io/blog/2015/09/16/blog0-initial-thesis-ideas.html</guid>
+        
+        
+        <category>blog</category>
         
       </item>
     

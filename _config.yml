@@ -7,14 +7,19 @@
 
 # Site settings
 title: LanguageBug
-# email: gob.bueno@gmail.com
+email: gob.bueno AT gmail.com
 description: > # this means to ignore newlines until "baseurl:"
-  Language learning software to teach novice spoken Portuguese.
-  MA in Digital Media Design for Learning at NYU thesis project.
+  Thesis project @ MA Digital Media Design for Learning at NYU.
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "http://guibueno.github.io" # the base hostname & protocol for your site
+tagline: "Portuguese"
 twitter_username: gobbueno2
 github_username:  guibueno
 
 # Build settings
 markdown: kramdown
+
+# Gui's new features
+collections:
+  principles:
+      output: true

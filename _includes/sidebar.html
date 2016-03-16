@@ -1,0 +1,11 @@
+
+<div class="sidebar column left">
+	<div>
+		<p>Menu</p>
+		<ul class="sidebar-menu">
+			{% for principle in site.principles %}
+				<li{% if forloop.last %} class="last"{% endif %}><a href="{{ principle.url | prepend: site.baseurl }}">{{ principle.title }}</a></li>
+			{% endfor %}
+		</ul>
+	</div>
+</div>

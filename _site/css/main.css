@@ -316,6 +316,24 @@ pre {
         font-size: 18px; } }
 
 /**
+* Navigation side-bar
+**/
+.sidebar.column {
+  /*background: #CCC;*/
+  width: 30%; }
+
+.left {
+  float: left; }
+
+.right {
+  float: right; }
+
+.home,
+.post-content {
+  width: 70%;
+  float: right; }
+
+/**
  * Syntax highlighting styles
  */
 .highlight {
