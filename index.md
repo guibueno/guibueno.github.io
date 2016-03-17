@@ -1,6 +1,7 @@
 ---
-layout: page
+layout: doc
 title: Doc
+permalink: /index.html
 ---
 
 #### **#1:** Intro + Analysis [(Google Docs)](https://docs.google.com/document/d/1HJNspW_1FpAf2zxLhBPS3MLtThYJXxSfYCy7lW-3k20/edit#) [(PDF)](https://drive.google.com/file/d/0B-D7NHTmyc54YlljNHFMc3Mxa1U/view) [(Feedback)](https://docs.google.com/document/d/1v0a3CZnuVvAmIFLVSc9UQ9fPWyTwmIykKppi3qOHUek/edit)
@@ -9,4 +10,4 @@ title: Doc
 
 #### **#3:** Storyboards + Prototype
 
-#### **#4:** Pilot + Work Plan
+#### **#4:** Pilot + Work Pland

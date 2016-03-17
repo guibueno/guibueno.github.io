@@ -1,0 +1,40 @@
+---
+layout: default
+sidebar: people
+---
+<article class="post">
+
+  <div class="post-content">
+
+	<header class="post-header">
+	  <h1 class="post-title">
+
+	  	{% if page.website %}
+
+		  	<a href="{{ page.website }}">{{ page.title }}</a>
+
+	  	{% else %}
+
+		  	{{ page.title }}
+
+	  	{% endif %}
+
+	  </h1>
+	  <p><strong>Role:</strong> {{ page.role }}</p>
+	  
+	  {% if page.bio %}
+	  <p><strong>Bio:</strong> {{ page.bio }}</p>
+	  {% endif %}
+	</header>
+
+
+  	{% if page.contributions %}
+
+    	<p><strong>Contributions:</strong> </p>
+	  	{{ content }}
+
+  	{% endif %}
+
+  </div>
+
+</article>

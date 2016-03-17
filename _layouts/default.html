@@ -11,7 +11,11 @@
 
       <div class="wrapper">
 
-        {% include sidebar.html %}
+        {% if layout.sidebar %}
+
+          {% include sidebar.html %}
+
+        {% endif %}
 
         {{ content }}
       </div>

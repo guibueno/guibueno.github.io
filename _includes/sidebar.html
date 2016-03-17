@@ -1,10 +1,28 @@
 <div class="sidebar column left">
 	<div>
-		<p>Table of Contents</p>
-		<ol class="sidebar-menu">
+		{% if layout.sidebar == "doc" %}
+
+			<p>Table of Contents</p>
+			<ol class="sidebar-menu">
+
 			{% for doc in site.docs %}
 				<li{% if forloop.last %} class="last"{% endif %}><a href="{{ doc.url | prepend: site.baseurl }}">{{ doc.title }}</a></li>
 			{% endfor %}
+
+		{% elsif layout.sidebar == "people" %}
+
+			<p>Committee</p>
+			<ul class="sidebar-menu">
+
+			{% for person in site.people %}
+				<li{% if forloop.last %} class="last"{% endif %}><a href="{{ person.url | prepend: site.baseurl }}">{{ person.title }}</a></li>
+			{% endfor %}
+		{% else %}
+
+			<h1>Sidebar not working</h1>
+
+		{% endif %}
+
 		</ol>
 	</div>
 </div>

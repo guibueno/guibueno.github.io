@@ -1,18 +1,18 @@
 {::comment}
 ---
-layout: page
-title: About
-permalink: /about/
+layout: people
+title: Us
+permalink: /us/
 ---
 
-This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage 
-documentation at [jekyllrb.com](http://jekyllrb.com/)
+I'm a second-year MA student in the Digital Media Design for Learning [(DMDL)](http://steinhardt.nyu.edu/alt/ect/ma/requirements/) program at NYU. 
 
-You can find the source code for the Jekyll new theme at:
-{% include icon-github.html username="jglovier" %} /
-[jekyll-new](https://github.com/jglovier/jekyll-new)
+I majored in Media Studies at [UNICAMP/Brazil](http://www.unicamp.br/unicamp/?language=en) (2009-2013), where I was granted two academic scholarships to study:
 
-You can find the source code for Jekyll at
-{% include icon-github.html username="jekyll" %} /
-[jekyll](https://github.com/jekyll/jekyll)
-{:/comment}
+* Journalism at the [Universidad Complutense de Madrid](ucm.es) (Fall 2011), and
+* [Media, Culture, and Communication](http://steinhardt.nyu.edu/mcc/) at NYU (Fall 2012-Spring 2013).
+
+I have worked as a Journalist for [Open Knowledge Brasil](http://br.okfn.org) and as a language teacher. 
+
+Now, I'm finishing my thesis in second and foreign language learning and acquisition. Human Centered Design, Growth Mindset, and Metacognition are my main topics of interest.
+{/:comment}

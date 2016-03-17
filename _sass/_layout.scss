@@ -253,16 +253,20 @@
 .left {
     float: left;
 }
-
-.right{
+.right {
     float: right;
 }
 
 .home,
 .post-content {
-    width:70%;
     float: right;
+    width: 70%;
+
 }
+
+/*.full {
+    width: 100%;
+}*/
 
 /**
 * Tables
@@ -289,4 +293,14 @@ tr.title, td.title {
     text-transform: uppercase;
     font-weight: bold;
     text-align: center;
+}
+
+/**
+* People
+*/
+
+h2.role {
+    /*display: block;*/
+    font-size: 16px;
+    /*font-style: italic;*/
 }
