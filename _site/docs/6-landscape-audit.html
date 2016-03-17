@@ -1,0 +1,457 @@
+<!DOCTYPE html>
+<html>
+
+  
+<head>
+  <meta charset="utf-8">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+
+  <title>Landscape Audit | LanguageBug</title>
+  <meta name="description" content="As described in the Introduction, the landscape of language learning tools and technologies is vast and diverse. This landscape audit only analyzes the async...">
+
+  <link rel="stylesheet" href="/css/main.css">
+  <link rel="canonical" href="http://guibueno.github.io/docs/6-landscape-audit.html">
+  <link rel="alternate" type="application/rss+xml" title="LanguageBug" href="http://guibueno.github.io/feed.xml">
+</head>
+
+
+  <body>
+
+    <header class="site-header">
+
+  <div class="wrapper">
+
+    <a class="site-title" href="/">LanguageBug</a>
+    Portuguese
+    <nav class="site-nav">
+      <a href="#" class="menu-icon">
+        <svg viewBox="0 0 18 15">
+          <path fill="#424242" d="M18,1.484c0,0.82-0.665,1.484-1.484,1.484H1.484C0.665,2.969,0,2.304,0,1.484l0,0C0,0.665,0.665,0,1.484,0 h15.031C17.335,0,18,0.665,18,1.484L18,1.484z"/>
+          <path fill="#424242" d="M18,7.516C18,8.335,17.335,9,16.516,9H1.484C0.665,9,0,8.335,0,7.516l0,0c0-0.82,0.665-1.484,1.484-1.484 h15.031C17.335,6.031,18,6.696,18,7.516L18,7.516z"/>
+          <path fill="#424242" d="M18,13.516C18,14.335,17.335,15,16.516,15H1.484C0.665,15,0,14.335,0,13.516l0,0 c0-0.82,0.665-1.484,1.484-1.484h15.031C17.335,12.031,18,12.696,18,13.516L18,13.516z"/>
+        </svg>
+      </a>
+      <div class="trigger">
+        
+          
+          <a class="page-link" href="/me/">Me</a>
+          
+        
+          
+          <a class="page-link" href="/blog/">Blog</a>
+          
+        
+          
+          <a class="page-link" href="/committee/">Committee</a>
+          
+        
+          
+        
+          
+          <a class="page-link" href="/">Doc</a>
+          
+        
+          
+        
+      </div>
+    </nav>
+
+  </div>
+
+</header>
+
+
+    <div class="page-content">
+
+      <div class="wrapper">
+
+        <div class="sidebar column left">
+	<div>
+		<p>Table of Contents</p>
+		<ol class="sidebar-menu">
+			
+				<li><a href="/docs/1-introduction.html">Introduction</a></li>
+			
+				<li><a href="/docs/2-targetlearners.html">Target Learners</a></li>
+			
+				<li><a href="/docs/3-content.html">Content</a></li>
+			
+				<li><a href="/docs/4-context-settings.html">Context / Settings</a></li>
+			
+				<li><a href="/docs/5-goals.html">Goals</a></li>
+			
+				<li><a href="/docs/6-landscape-audit.html">Landscape Audit</a></li>
+			
+				<li><a href="/docs/7-logic-model.html">Logic Model</a></li>
+			
+				<li><a href="/docs/8-design-rationale.html">Design Rationale</a></li>
+			
+				<li class="last"><a href="/docs/references.html">References</a></li>
+			
+		</ol>
+	</div>
+</div>
+
+        <article class="post">
+
+  <header class="post-header">
+    <h1 class="post-title">Landscape Audit</h1>
+  </header>
+
+  <div class="post-content">
+    <p>As described in the Introduction, the landscape of language learning tools and technologies is vast and diverse. This landscape audit only analyzes the <strong>asynchronous</strong> <strong>language courses</strong> category, which also consists of a large group of services. These services can be roughly divided into two groups: (1) traditional, famous and widely used courses and (2) recent, innovative, approaches.</p>
+
+<p>Group (1) corresponds to services that have millions of registered users and typically cover many different languages. The multi-million dollar company Rosetta-Stone qualifies as its main example, followed by Duolingo, a much newer service (2011) that has grown incredibly fast. Other services include, but are not limited to: <a href="http://livemocha.com/">Livemocha</a>, <a href="https://www.busuu.com">Busuu</a>, <a href="https://www.memrise.com/">Memrise</a>, and <a href="https://www.babbel.com/">Babbel</a>.</p>
+
+<p>Group (2) includes services that are not as consolidated, therefore not as well-known, mainly because they were founded more recently. These services are supposedly challenging the most traditional approach to language learning in any manner. Some examples are: <a href="https://www.mangolanguages.com/">Mango Languages</a>, <a href="https://lingvist.io/">Lingvist</a>, <a href="http://www.fluentin3months.com/">Fluent in 3 Months</a>, <a href="http://add1challenge.com/">Add1Challenge</a>, <a href="http://baselang.com">Baselang</a> and <a href="http://mimicmethod.com/">The Mimic Method</a>.</p>
+
+<p>Group (1) represents the traditional hegemony of CALL systems, while Group (2) samples what is expected from the current new approaches. In a more detailed version of this landscape audit, I intend to analyze them separately based on how they foster learning and trying, as well as how much customization they allow users to perform.</p>
+
+<p><strong>LANDSCAPE AUDIT</strong></p>
+
+<p><strong>The Five Cornerstones Framework</strong></p>
+
+<p>As part of this Landscape Audit, I created a simple framework (which needs further development) to evaluate other language learning services in regards to the main theories/concepts that support this project: <strong>emotion</strong>, <strong>metacognition</strong>, <strong>Growth Mindset</strong>, <strong>risk-taking</strong>, and <strong>deliberate practice</strong>. During this section, I will refer to these concepts as <em>The Five Cornerstones</em>.</p>
+
+<p>For each of these terms, I listed a few examples of design feature indicators, that is, features that could indicate a deliberate intention to address each term. For example, let’s assume <em>Language Learning Service</em> <em>A</em>, at a certain point, displays to its user the following message:</p>
+
+<p><em>“**This section may seem a little complicated to some people at first, but you’ll be able to it!”</em></p>
+
+<p>In this case, it indicated that the design of <em>Language Learning Service A</em> addresses, in a deliberate and explicit way, the language learner’s emotions. Although it is impossible to cover all ways in which services may address each of The Five Cornerstones, this list does a good job in making it simpler to rate services in respect to different areas.</p>
+
+<p><em>Tables 1, 2, 3, 4, and 5</em> provide a reference to understand the rating and analysis of each service.</p>
+
+<table>
+  <tr class="diff title">
+    <td>Indicators of EMOTION</td>
+  </tr>
+  <tr>
+    <td>Difficulty acknowledgement: The service recognizes some of the difficulties faced by learners and explicitly points them out to the learner through statements or design features. e.g.: "You may find it difficult to speak this sentence at first, but keep practicing and you’ll make it".</td>
+  </tr>
+  <tr class="diff">
+    <td>“Have Fun!” attitude: The service endorses a loosen attitude towards language learning, thus allowing learners to work on their second/foreign languages in a relaxed way. E.g.: “You won’t memorize it all now, but this is fine”, “You’ll see this again”, etc.</td>
+  </tr>
+  <tr>
+    <td>Assessment of learner’s motivation: The service explicitly refers to, addresses, or measures the learner’s motivation, as a way to recognize possible issues and/or problems. E.g.: “You have been studying every day for the past week!”, badges, etc.</td>
+  </tr>
+  <tr class="diff">
+    <td>Anxiety strategies: The service addresses the issue of Foreign Language Anxiety and/or provides strategies that can help learners deal with it. E.g.: breathing techniques, speak-aloud incentives, placing priority on communication over perfection, etc.</td>
+  </tr>
+</table>
+
+<p><em>Table 1 - Indicators of EMOTION</em></p>
+
+<table>
+  <tr class="diff title">
+    <td>Indicators of METACOGNITION</td>
+  </tr>
+  <tr>
+    <td>Learning Strategies: The service, rather than merely displaying the content to be learned, instructs the learner/user on how to proceed with his/her learning experience. E.g.: "Try to find cognates in this text, because they are helpful", “Say this as fast as you can to gain speed”, etc.</td>
+  </tr>
+  <tr class="diff">
+    <td>Why you are learning this: The service explains why each content is important to the learning of a foreign language, rather than merely asking a passive user to memorize content. E.g.: “This is a very common expression that most people say in informal conversations”.</td>
+  </tr>
+  <tr>
+    <td>The learning science: The service provides to the learner with some insights or explanations on how to make his/her learning experience more efficient. E.g.: brief descriptions of how the brain works, how to memorize content more effectively, how to practice each section, etc.</td>
+  </tr>
+  <tr class="diff">
+    <td>Short-term and long-term goals: The service explains what is the purpose of each activity in order to keep learners focused on specific goals. E.g.: “Here we are going to practice speed, so don’t worry too much about vocabulary or pronunciation, but just try to answer these questions as fast as you can. This will help you make your language retrieval more automatic”</td>
+  </tr>
+  <tr>
+    <td>Personal troubleshooting: The service helps learner to identify where the problem is when something goes wrong, and also addresses such issues. E.g.: “If you are not able to understand this, it may be time to practice again in the Greetings section.</td>
+  </tr>
+  <tr class="diff">
+    <td>Alternative strategies: In case the learner is not finding a specific exercise useful or helpful, or the learner is facing any kind of difficulty with a specific activity, the service provides learner with alternative exercises to explore the same content. E.g.: “Change activity” button, which makes the content remain unchanged, but find a different approach to let user practice.</td>
+  </tr>
+</table>
+
+<p><em>Table 2 - Indicators of METACOGNITION</em></p>
+
+<table>
+  <tr class="diff title">
+    <td>Indicators of GROWTH MINDSET</td>
+  </tr>
+  <tr>
+    <td>Talents/Skills: the service addresses the topic of Growth Mindset either indirectly or by stating explicitly that skills and talents are not fixed, that is, it is possible to succeed in learning a foreign language with effort and the appropriate strategies. E.g.: "You are able to do this. Even if you struggled with it in the past, while it seemed easy to other people."</td>
+  </tr>
+  <tr class="diff">
+    <td>Get Better: rather than encouraging a “Be Good” mindset, the service instructs its learners to always improve themselves. E.g.: “Notice your progress! After only one week, you are able to complete this activity 2.3x faster than at the beginning”, etc.</td>
+  </tr>
+</table>
+
+<p><em>Table 3 - Indicators of GROWTH MINDSET</em></p>
+
+<table>
+  <tr class="diff title">
+    <td>Indicators of RISK-TAKING</td>
+  </tr>
+  <tr>
+    <td>Make mistakes: Rather than implying a corrective approach, the service makes it clear to its learners that making mistakes is an inevitable part of the learning process, thus it encourages them to make attempts, even if the chances to make a few mistakes is high. E.g.: choosing a "Get it right at the end" approach, rather than providing constant Corrective feedback (CF)</td>
+  </tr>
+  <tr class="diff">
+    <td>Focus on communication: Rather than pressuring the learner to achieve perfection in each new content, the service encourages learners to try communicating with other people from the very first lessons. E.g.: “Now introduce yourself in Portuguese to other learners”.</td>
+  </tr>
+  <tr>
+    <td>Contexts for trying: The service offers learners the possibility to interact with native speakers and/or other users of the same service to practice the target language and take risks.</td>
+  </tr>
+</table>
+
+<p><em>Table 4 - Indicators of RISK-TAKING</em></p>
+
+<table>
+  <tr class="diff title">
+    <td>Indicators of DELIBERATE PRACTICE</td>
+  </tr>
+  <tr>
+    <td>Timed practices: The service asks learners to engage in activities and/or exercises for a specific, limited time, which ensures that the learner will allow this time for practicing purposes.</td>
+  </tr>
+  <tr class="diff">
+    <td>Focused practices: The service offers activities and/or exercises that require the learner to have a high level of focus to complete. E.g.: "Let’s make it faster! Try speaking all these 10 self-introduction sentences in no more than 20 seconds in 3, 2, 1… start!".</td>
+  </tr>
+  <tr>
+    <td>Action prompts: In order to reduce the extraneous cognitive load of the learner, the service provides its learners with all activity prompts or commands, to which the learners respond. E.g.: “Say: ‘My name is ___’ in Portuguese. (3, 2, 1) Now say ‘I’m from the U.S. in Portuguese”, ...</td>
+  </tr>
+</table>
+
+<p><em>Table 5 - Indicators of DELIBERATE PRACTICE</em></p>
+
+<p>The Landscape Audit framework, based on <em>The Five Cornerstones</em> and its indicators, will function as a way to identify which of the main concepts is addressed by each service. Again, let’s take the *Language Learning Service A *as an example</p>
+
+<table>
+  <tr class="diff title">
+    <td></td>
+    <td>EMOTION</td>
+    <td>META-
+COGNITION</td>
+    <td>GROWTH MINDSET</td>
+    <td>RISK-TAKING</td>
+    <td>DELIBERATE PRACTICE</td>
+  </tr>
+  <tr>
+    <td>Language Learning Service A</td>
+    <td>---X---</td>
+    <td>---X---</td>
+    <td></td>
+    <td></td>
+    <td></td>
+  </tr>
+</table>
+
+<p><em>Table 6 - The Five Cornerstones Framework applied to example Language Learning Service A</em></p>
+
+<p>From this example, in my hypothetical analysis of <em>Language Learning Service A</em>, I found evidence (indicators) to support the idea that this service addresses the learner’s emotions and provides its learners with metacognitive support. On the other hand, it does not address explicitly the Growth Mindset, neither encourages risk-taking, nor provides learners with deliberate practice prompts.</p>
+
+<h2 id="services">Services</h2>
+
+<p>The landscape of language learning tools and technologies is very diverse. This landscape audit only analyzes asynchronous language learning courses and services, which is also vast by itself.</p>
+
+<p>These services can be roughly divided into two groups: (1) traditional, famous and widely used courses and (2) recent, innovative, approaches. Group (1) represents the traditional hegemony of CALL systems, while Group (2) samples what is expected from the current new approaches.</p>
+
+<p>Group (1) corresponds to services that have millions of registered users and typically cover many different languages. The multi-million dollar company Rosetta-Stone qualifies as its main example, followed by Duolingo, a much newer service (2011) that has grown incredibly fast. Other services include, but are not limited to:<a href="http://livemocha.com/"> Livemocha</a>,<a href="https://www.busuu.com"> Busuu</a>,<a href="https://www.memrise.com/"> Memrise</a>, and<a href="https://www.babbel.com/"> Babbel</a>.</p>
+
+<p>Group (2) includes services that are not as consolidated, therefore not as well-known, mainly because they were founded more recently. These services are supposedly challenging the most traditional approach to language learning in any manner. Some examples are:<a href="https://www.mangolanguages.com/"> Mango Languages</a>,<a href="https://lingvist.io/"> Lingvist</a>,<a href="http://www.fluentin3months.com/"> Fluent in 3 Months</a>,<a href="http://add1challenge.com/"> Add1Challenge</a>,<a href="http://baselang.com"> Baselang</a> and<a href="http://mimicmethod.com/"> The Mimic Method</a>.</p>
+
+<p>Due to the number and complexity of language learning services present in this landscape audit, rather than describing and addressing one by one, the <em>Five Cornerstones Framework</em> will be applied to both Group (1) and Group (2) on <em>Tables 7 and 8</em>. Following both tables, you can find a brief interpretation of the findings and results.</p>
+
+<table>
+  <tr class="diff title">
+    <td colspan="6">GROUP 1</td>
+  </tr>
+  <tr class="diff title">
+    <td></td>
+    <td>EMOTION</td>
+    <td>META-
+COGNITION</td>
+    <td>GROWTH MINDSET</td>
+    <td>RISK-TAKING</td>
+    <td>DELIBERATE PRACTICE</td>
+  </tr>
+  <tr>
+    <td>Rosetta-Stone</td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td>---X---</td>
+  </tr>
+  <tr class="diff">
+    <td>Duolingo</td>
+    <td>---X---</td>
+    <td>---X---</td>
+    <td></td>
+    <td></td>
+    <td>---X---</td>
+  </tr>
+  <tr>
+    <td>Livemocha</td>
+    <td></td>
+    <td>---X---</td>
+    <td></td>
+    <td>---X---</td>
+    <td>---X---</td>
+  </tr>
+  <tr class="diff">
+    <td>Busuu</td>
+    <td>---X---</td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td>---X---</td>
+  </tr>
+  <tr>
+    <td>Memrise</td>
+    <td></td>
+    <td>---X---</td>
+    <td></td>
+    <td></td>
+    <td>---X---</td>
+  </tr>
+  <tr class="diff">
+    <td>Babbel</td>
+    <td>---X---</td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td>---X---</td>
+  </tr>
+</table>
+
+<p><em>Table 7 - Comparative Analysis of Group 1</em></p>
+
+<p><em>Table 7</em> makes it possible to realize that most of the well-established online CALL systems rely on deliberate practice, while almost completely ignoring the learners’ emotions, risk-taking capacities, and mindset beliefs. In other words, the more traditional and well-established language learning services are usually the ones who least explore the potential of customization and user interaction that the web offers, besides leaving the psychology of learning almost completely aside.</p>
+
+<p>On the contrary, these services tend to merely reproduce the oldest, most common strategies in language teaching, based on approaches such as drilling, and exposition to content, while ignoring concrete academic evidence that these are not the most efficient ways to teach and learn languages. Being that they are, nonetheless, very successful, it might be the case that most language learners have a similar perception over language learning, that is, that to learn a language means to be exposed to segmented content and do drills as practice.</p>
+
+<p>Rosetta-Stone, as an example, in spite of being the most successful language learning technology business, is the one that has taken least consideration for the psychology of learning. In other words, Rosetta-Stone does not represent any real, concrete innovation in language learning, but only reproduces the traditional settings in an online environment. This is what differentiates it from the services in Group (2), which aim to challenge and disrupt the traditional approach to language learning, by offering methods that are supposedly more efficient and innovative.</p>
+
+<table>
+  <tr class="diff title">
+    <td colspan="6">GROUP 2</td>
+  </tr>
+  <tr class="diff title">
+    <td></td>
+    <td>EMOTION</td>
+    <td>META-
+COGNITION</td>
+    <td>GROWTH MINDSET</td>
+    <td>RISK-TAKING</td>
+    <td>DELIBERATE PRACTICE</td>
+  </tr>
+  <tr>
+    <td>Mango Languages</td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td>---X---</td>
+  </tr>
+  <tr class="diff">
+    <td>Lingvist</td>
+    <td></td>
+    <td>---X---</td>
+    <td></td>
+    <td></td>
+    <td>---X---</td>
+  </tr>
+  <tr>
+    <td>Fluent in 3 Months</td>
+    <td>---X---</td>
+    <td>---X---</td>
+    <td>---X---</td>
+    <td>---X---</td>
+    <td>---X---</td>
+  </tr>
+  <tr class="diff">
+    <td>Add1 Challenge</td>
+    <td>---X---</td>
+    <td>---X---</td>
+    <td>---X---</td>
+    <td>---X---</td>
+    <td>---X---</td>
+  </tr>
+  <tr>
+    <td>Baselang</td>
+    <td>---X---</td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td>---X---</td>
+  </tr>
+  <tr class="diff">
+    <td>The Mimic Method</td>
+    <td>---X---</td>
+    <td>---X---</td>
+    <td>---X---</td>
+    <td>---X---</td>
+    <td>---X---</td>
+  </tr>
+</table>
+
+<p><em>Table 8 - Comparative Analysis of Group 2</em></p>
+
+<p>Even from a first glance, <em>Table 8</em> is notably different from <em>Table 7</em>, and what differentiates both is the frequency of “X” in the table cells: while <em>Table 7</em> shows them very seldom, *Table 8 *has almost no blank spaces. This means that the services in Group (2), which represent the innovation and disruption in language learning, are the ones most concerned with the psychology of learning, therefore they target more often their learners’ emotions, metacognition, mindsets, risk-taking capacities, without missing deliberate practice.</p>
+
+<p>Besides that, most of these services claim to offer a new approach to language learning, which is supposedly more effective than the traditional one. For example, <em>Mango Languages</em> offers learners the opportunity to watch foreign films with interactive subtitles (that you can click on words to have them pronounced or translated) in both the user’s native and target languages.</p>
+
+<p>The <em>Mimic Method</em>, on the other hand, focuses exclusively in pronunciation, leaving aside any vocabulary, grammar, writing, and even communication skills. Its principle is that by learning how to speak the phonemes in the target language correctly, learners will be able to recognize better the sounds of this language, so they will also learn faster (but later, not in any course by the <em>Mimic Method</em>) all the vocabulary and structure that they need. <em>Baselang</em>, on the other hand, is basically a service of Spanish tutors that are available 24/7 both online and through SMS. Disregarding their teaching methods, their business model is innovative by itself, as learners can have as many lessons as they want with actual tutors for a fixed price.</p>
+
+<p><strong>Disclaimer</strong></p>
+
+<p>As most of these services are not only very complex and complete, but also paid, I was not able to perform an actual, complete, personal analysis of all of them. Some of my considerations were based on reviews by other authors, information collected on the Internet, informal conversations with users of each of those services and free trials of each service. Due to that, despite my effort to reduce the possibility of incorrect or imprecise information, there might be a few items that I could have addressed more precisely. I apologize for any possible misplaced information and I sincerely ask you to contact me in case you identify them.</p>
+
+  </div>
+
+</article>
+
+      </div>
+    </div>
+
+    <footer class="site-footer">
+
+  <div class="wrapper">
+
+    <h2 class="footer-heading">LanguageBug</h2>
+
+    <div class="footer-col-wrapper">
+      <div class="footer-col footer-col-1">
+        <ul class="contact-list">
+          <li>LanguageBug</li>
+          <li><a href="mailto:gob.bueno AT gmail.com">gob.bueno AT gmail.com</a></li>
+        </ul>
+      </div>
+
+      <div class="footer-col footer-col-2">
+        <ul class="social-media-list">
+          
+          <li>
+            <a href="https://github.com/guibueno"><span class="icon icon--github"><svg viewBox="0 0 16 16"><path fill="#828282" d="M7.999,0.431c-4.285,0-7.76,3.474-7.76,7.761 c0,3.428,2.223,6.337,5.307,7.363c0.388,0.071,0.53-0.168,0.53-0.374c0-0.184-0.007-0.672-0.01-1.32 c-2.159,0.469-2.614-1.04-2.614-1.04c-0.353-0.896-0.862-1.135-0.862-1.135c-0.705-0.481,0.053-0.472,0.053-0.472 c0.779,0.055,1.189,0.8,1.189,0.8c0.692,1.186,1.816,0.843,2.258,0.645c0.071-0.502,0.271-0.843,0.493-1.037 C4.86,11.425,3.049,10.76,3.049,7.786c0-0.847,0.302-1.54,0.799-2.082C3.768,5.507,3.501,4.718,3.924,3.65 c0,0,0.652-0.209,2.134,0.796C6.677,4.273,7.34,4.187,8,4.184c0.659,0.003,1.323,0.089,1.943,0.261 c1.482-1.004,2.132-0.796,2.132-0.796c0.423,1.068,0.157,1.857,0.077,2.054c0.497,0.542,0.798,1.235,0.798,2.082 c0,2.981-1.814,3.637-3.543,3.829c0.279,0.24,0.527,0.713,0.527,1.437c0,1.037-0.01,1.874-0.01,2.129 c0,0.208,0.14,0.449,0.534,0.373c3.081-1.028,5.302-3.935,5.302-7.362C15.76,3.906,12.285,0.431,7.999,0.431z"/></svg>
+</span><span class="username">guibueno</span></a>
+
+          </li>
+          
+
+          
+          <li>
+            <a href="https://twitter.com/gobbueno2"><span class="icon icon--twitter"><svg viewBox="0 0 16 16"><path fill="#828282" d="M15.969,3.058c-0.586,0.26-1.217,0.436-1.878,0.515c0.675-0.405,1.194-1.045,1.438-1.809c-0.632,0.375-1.332,0.647-2.076,0.793c-0.596-0.636-1.446-1.033-2.387-1.033c-1.806,0-3.27,1.464-3.27,3.27 c0,0.256,0.029,0.506,0.085,0.745C5.163,5.404,2.753,4.102,1.14,2.124C0.859,2.607,0.698,3.168,0.698,3.767 c0,1.134,0.577,2.135,1.455,2.722C1.616,6.472,1.112,6.325,0.671,6.08c0,0.014,0,0.027,0,0.041c0,1.584,1.127,2.906,2.623,3.206 C3.02,9.402,2.731,9.442,2.433,9.442c-0.211,0-0.416-0.021-0.615-0.059c0.416,1.299,1.624,2.245,3.055,2.271 c-1.119,0.877-2.529,1.4-4.061,1.4c-0.264,0-0.524-0.015-0.78-0.046c1.447,0.928,3.166,1.469,5.013,1.469 c6.015,0,9.304-4.983,9.304-9.304c0-0.142-0.003-0.283-0.009-0.423C14.976,4.29,15.531,3.714,15.969,3.058z"/></svg>
+</span><span class="username">gobbueno2</span></a>
+
+          </li>
+          
+        </ul>
+      </div>
+
+      <div class="footer-col footer-col-3">
+        <p>Thesis project @ MA Digital Media Design for Learning at NYU.
+</p>
+      </div>
+    </div>
+
+  </div>
+
+</footer>
+
+
+  </body>
+
+</html>

@@ -263,3 +263,30 @@
     width:70%;
     float: right;
 }
+
+/**
+* Tables
+**/
+
+table{
+    border-collapse: collapse;
+    border-spacing: 0;
+    border:2px solid $grey-color-dark;
+    width: 100%;
+}
+
+tr{
+    border:1px solid $grey-color-dark;
+}
+
+td{
+    padding: 3px;
+}
+tr.diff {
+    background: $grey-color-light;
+}
+tr.title, td.title {
+    text-transform: uppercase;
+    font-weight: bold;
+    text-align: center;
+}
