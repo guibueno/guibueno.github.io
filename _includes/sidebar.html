@@ -1,6 +1,6 @@
 <div class="sidebar column left">
 	<div>
-		{% if layout.sidebar == "doc" %}
+		{% if page.sidebar == "doc" or layout.sidebar == "doc" %}
 
 			<p>Table of Contents</p>
 			<ol class="sidebar-menu">
@@ -9,7 +9,7 @@
 				<li{% if forloop.last %} class="last"{% endif %}><a href="{{ doc.url | prepend: site.baseurl }}">{{ doc.title }}</a></li>
 			{% endfor %}
 
-		{% elsif layout.sidebar == "people" %}
+		{% elsif page.sidebar == "people" or layout.sidebar == "people" %}
 
 			<p>Committee</p>
 			<ul class="sidebar-menu">
