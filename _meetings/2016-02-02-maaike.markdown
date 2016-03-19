@@ -1,0 +1,26 @@
+---
+layout: meeting
+title: Landscape Audit Concerns
+date: 2016-02-02 00:00:00 -0700
+participants: Maaike Bouwmeester
+where: MAGNET
+duration: 30min
+topics:
+- The longstanding challenges of language learning
+- My brief background in Language Teaching
+- Russell’s role in defining the focus of my MA
+- Nicole’s suggestion to keep investigating myself
+- Defining the problem as an educational riddle
+- No single, right method to learn languages
+- The importance of language learning strategies
+- Emotional support, risk-taking, encouragement
+- With so many tools, why is it still very hard?
+- Deliberate practice, “fry your brain” exercises
+- "Target audience: self-motivated, shy, distrustful adults"
+- "Context: reduction of extraneous cognitive load"
+- "Content: novice Portuguese with focus on speaking"
+- "Metacognition: learn how to learn languages"
+- "Risk-taking: learn how to use languages best"
+- The five cornerstones need a lot of improvement. Not sure how
+results:
+---

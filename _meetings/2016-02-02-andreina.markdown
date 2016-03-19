@@ -1,0 +1,20 @@
+---
+layout: meeting
+title: Landscape Audit Concerns with Andreina Yulis
+date: 2015-02-02 00:00:00 -0700
+participants: Others
+where: MAGNET Room 821
+duration: 30min
+topics:
+- How to improve my Landscape Audit, since it is so linked to MILESTONE#1
+- It is clearly insufficient, but I’m not sure how I should approach it.
+- I depend on the main concepts/cornerstones, which are likely to change.
+- Too many services, so that was the only approach I could find to do it.
+results:
+- Dividing it into CATEGORIES is useful and helpful when there are too many products.
+- However, I should choose those categories based on DESIGN FEATURES, not concepts
+- It is too hard to visualize what metacognition, for example, means in a landscape audit
+- If I remain focused on the design features, it’ll remain valid.
+---
+
+![image alt text](2016-02-05-andreina_01.jpg)

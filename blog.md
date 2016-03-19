@@ -3,9 +3,9 @@ layout: page
 title: Blog
 permalink: /blog/
 ---	
-<div class="home" style="width: 100%">
+<div class="home">
 
-  <h1 class="page-heading" style="width: 100%">Posts</h1>
+  <h1 class="page-heading">Posts</h1>
 
   <ul class="post-list">
     {% for post in site.posts %}

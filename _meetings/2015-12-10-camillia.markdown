@@ -1,0 +1,21 @@
+---
+layout: meeting
+title: End-of-Semester Feedback
+date: 2015-12-10 00:00:00 -0700
+participants: Camillia Matuk
+where: MAGNET
+duration: 30min
+topics:
+- "Show current version of MILESTONE #1 "
+- Current design idea versus old design idea
+- End of the semester conversation
+- What have I accomplished?
+- Am I building a sample or is the sample the project?
+- Course requirements and priorities
+- What are the next steps?
+- "Landscape audit: the learner empowerment table"
+- Difficulty to start building it
+- Selection of media type
+- "Target audience: still confused"
+results:
+---

@@ -1,0 +1,36 @@
+---
+layout: meeting
+title: Logic Models vs. Design Rationales
+date: 2015-02-02 00:00:00 -0700
+participants: Nissa Syverson
+where: MAGNET Room 821
+duration: 60min
+topics:
+- The differences and similarities between Logic Models and Design Rationales
+- Next steps on improving the Design Rationale and adding Learning Theories
+- The difficulty and the challenges of making a real Landscape Audit in my case
+- Detailed explanation of current low-fi prototype sketch and current plans to develop it
+results:
+- Logic Models show design features in perspective with long-term goals.
+- Design Rationales show design in perspective with short-term goals.
+- Design Rationales links the design features with the learning theories
+- Both ones display the design features, with more or less detailed info
+- How to improve my current design rationale
+- Make it more visual. Maybe a table? Maybe a Logic Model structure? Mind-map?
+- Display my specific design decisions, rather than an overview of the functionality
+- Suggestions to work on the Landscape Audit
+- Work with the inherent intention to set the stage to show my product.
+- Expand the explanation on why a few (if not each) of the “X” was marked.
+- Reframe some of the cornerstones, maybe combine or adjust them as needed.
+- Preparing an informal pitch can be a great strategy to help explain the project.
+- It would be nice to add some “situated cognition” perspective, besides drilling.
+- The idea of having a SAMPLE of beginner learners is cool. But not only that.
+- Knowing the goals does tend to help increase motivation. This is Constructivism.
+- There is a need to define better DELIBERATE PRACTICE
+- Nissa does understand the kind of practice I’m looking for.
+- Though, it would be nice to differentiate this from others.
+- There are many ways to practice anything / many types of practice.
+- Maybe, the idea is to introduce to “Fry your brain” concept. How?
+- Keeping it challenging. (Speak to Shashank)
+- Making activities always fast-paced?
+---

@@ -253,15 +253,10 @@
 .left {
     float: left;
 }
-.right {
-    float: right;
-}
-
 .home,
 .post-content {
-    float: right;
+    float: left;
     width: 70%;
-
 }
 
 /*.full {
@@ -303,4 +298,29 @@ h2.role {
     /*display: block;*/
     font-size: 16px;
     /*font-style: italic;*/
+}
+
+
+/**
+* Logs
+**/
+
+.log-list {
+    margin-left: 0;
+    list-style: none;
+
+    > li {
+        margin-bottom: $spacing-unit;
+    }
+}
+
+.log-meta {
+    font-size: $small-font-size;
+    color: $grey-color;
+}
+
+.log-link {
+    display: block;
+    font-size: $small-font-size+2px;
+    margin: 0;
 }

@@ -1,0 +1,24 @@
+---
+layout: default
+sidebar: no
+---
+<p><strong>Where: </strong>{{ page.where }}</p>
+<p><strong>Participants: </strong>Gui Bueno, {{ page.participants }}</p>
+<p><strong>Duration: </strong>{{ page.duration }}</p>
+<p><strong>Topics:</strong></p>
+<ul>
+{% for item in page.topics %}
+	<li>{{ item in page.topics }}</li>
+{% endfor %}
+</ul>
+
+{{ content }}
+
+{% if page.results %}
+	<p><strong>Results:</strong></p>
+	<ul>
+	{% for item in page.results %}
+		<li>{{ item in page.results }}</li>
+	{% endfor %}
+	</ul>
+{% endif %}

@@ -4,6 +4,7 @@ name: Gui
 title: Me
 role: Project Manager
 contributions: no
+permalink: /me/
 bio: "
 
 <p>Hello, I'm Gui Bueno! I’m a second-year MA student in the Digital Media Design for Learning <a href='http://steinhardt.nyu.edu/alt/ect/ma/requirements/'>(DMDL)</a> program at NYU.</p>

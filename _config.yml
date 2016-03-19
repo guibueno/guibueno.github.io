@@ -27,3 +27,5 @@ collections:
       output: true
   people:
       output: true
+  meetings:
+      output: true

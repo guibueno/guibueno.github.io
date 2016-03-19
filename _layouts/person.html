@@ -27,13 +27,33 @@ sidebar: people
 	  {% endif %}
 	</header>
 
+  	{% if page.meetings %}
+
+  		<p><strong>Meetings:</strong></p>
+
+	  	<ul>
+
+		  	{% for meetings in site.meetings %}
+
+		    	{% if meetings.participants == page.title %}
+
+		    		<li><a class="log-link" href="{{ meetings.url | prepend: site.baseurl }}">[{{ meetings.date | date: "%b %-d, %Y" }}] {{ meetings.title }}</a></li>
+
+		    	{% endif %}
+		    
+		    {% endfor %}
+
+	    </ul>
+
+  	{% endif %}
 
   	{% if page.contributions %}
 
-    	<p><strong>Contributions:</strong> </p>
+  		<p><strong>Contributions:</strong></p>
+
 	  	{{ content }}
 
-  	{% endif %}
+	{% endif %}
 
   </div>
 

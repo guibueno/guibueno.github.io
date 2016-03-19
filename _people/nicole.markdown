@@ -2,7 +2,7 @@
 layout: person
 title: Nicole Pallares
 website: https://nicolepfthesis.wordpress.com/
-role: Peer Student
+role: Peer Student & Thesis Therapist
 contributions: yes
 ---
 

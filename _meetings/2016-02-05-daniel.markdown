@@ -1,0 +1,19 @@
+---
+layout: meeting
+title: IT Pre-Meeting
+date: 2016-02-05 00:00:00 -0700
+participants: Daniel Negri
+where: over the phone
+duration: 30min
+topics:
+- "Intro to thesis: the goals, the intended means, the underlying intended architecture"
+- Is it feasible? Is there anything you know that sounds anything similar to this?
+- Formal invitation to join the Thesis Committee for TI (and emotional!) support
+- Schedule in-person meeting (next week) and inquire what I should work on for now
+results:
+- Thesis briefly and successfully explained.
+- Yes, it seems to be feasible. Maybe not the whole architecture, but a working sample.
+- Yes, he knows of similar projects and he has experience working on them.
+- Yes, he accepted to join my committee and help me with IT issues.
+- Next meeting scheduled for Monday (02/08) in the afternoon, at MAGNET
+---

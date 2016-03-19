@@ -1,0 +1,24 @@
+---
+layout: meeting
+title: Initial Feedback
+date: 2015-10-14 00:00:00 -0700
+participants: Camillia Matuk
+where: MAGNET
+duration: 30min
+topics:
+- Explain current design idea.
+- Does it fit the thesis Design Project requirements?
+- Platform / Engine / System. Vocabulary issues.
+- Am I building a sample or is the sample the project?
+- Focus sample in English or Portuguese?
+- Show current version of #1 MILESTONE.
+- "Landscape audit: How to even start building it?"
+- The learner empowerment table.
+- Which media should I include?
+- "Metacognition and Growth Mindset: how to use them?"
+- "Target audience: teachers, learners, or both?"
+- How formal does it need to be?
+- Does this have to be my focus now?
+- "Project Schedule: trouble defining what to work on"
+results: no
+---
