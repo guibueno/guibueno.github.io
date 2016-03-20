@@ -1,6 +1,7 @@
 ---
 layout: page
-title: Blog
+title: Journal
+sidebar: log
 permalink: /blog/
 ---	
 <div class="home">

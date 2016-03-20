@@ -9,7 +9,7 @@
 title: LanguageBug
 email: gob.bueno AT gmail.com
 description: > # this means to ignore newlines until "baseurl:"
-  Thesis project @ MA Digital Media Design for Learning at NYU.
+  Thesis project. MA in Digital Media Design for Learning at NYU.
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "http://guibueno.github.io" # the base hostname & protocol for your site
 tagline: "Portuguese"
