@@ -253,7 +253,9 @@
 .left {
     float: left;
 }
-.home,
+.home {
+    
+}
 .post-content {
     float: left;
     width: 70%;
@@ -323,4 +325,16 @@ h2.role {
     display: block;
     font-size: $small-font-size+2px;
     margin: 0;
+}
+
+/*
+** 3-columns
+*/
+
+.three-col {
+    width: 30%;
+    background-color: #CCC;
+    display: block;
+    float: left;
+    margin: 10px;
 }

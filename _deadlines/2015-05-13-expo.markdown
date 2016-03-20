@@ -1,0 +1,9 @@
+---
+layout: deadline
+title: ECT Design Expo
+date: 2015-05-13 00:00:00 -0700
+missing:
+- Rehearse
+- Design Posters
+done: 
+---

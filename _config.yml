@@ -27,5 +27,9 @@ collections:
       output: true
   people:
       output: true
+  deadlines:
+      output: true
   meetings:
+      output: true
+  logs:
       output: true

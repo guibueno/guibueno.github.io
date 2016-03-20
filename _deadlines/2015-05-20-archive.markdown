@@ -1,0 +1,10 @@
+---
+layout: deadline
+title: Final Project Done
+date: 2015-05-20 00:00:00 -0700
+missing:
+- Final Editting
+- Final Proofreading
+- Print
+done: 
+---

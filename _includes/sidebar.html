@@ -6,8 +6,10 @@
 			<ol class="sidebar-menu">
 
 			{% for doc in site.docs %}
-				<li{% if forloop.last %} class="last"{% endif %}><a href="{{ doc.url | prepend: site.baseurl }}">{{ doc.title }}</a></li>
+				<li><a href="{{ doc.url | prepend: site.baseurl }}">{{ doc.title }}</a></li>
 			{% endfor %}
+
+			</ol>
 
 		{% elsif page.sidebar == "people" or layout.sidebar == "people" %}
 
@@ -15,14 +17,27 @@
 			<ul class="sidebar-menu">
 
 			{% for person in site.people %}
-				<li{% if forloop.last %} class="last"{% endif %}><a href="{{ person.url | prepend: site.baseurl }}">{{ person.title }}</a></li>
+				<li><a href="{{ person.url | prepend: site.baseurl }}">{{ person.title }}</a></li>
 			{% endfor %}
+
+			</ul>
+
+		{% elsif page.sidebar == "log" or layout.sidebar == "log" %}
+
+			<p>Project Logs:</p>
+			<ul class="sidebar-menu">
+
+			{% for log in site.logs %}
+				<li><a href="{{ log.url | prepend: site.baseurl }}">{{ log.title }}</a></li>
+			{% endfor %}
+
+			</ul>
+
 		{% else %}
 
 			<h1>Sidebar not working</h1>
 
 		{% endif %}
 
-		</ol>
 	</div>
 </div>

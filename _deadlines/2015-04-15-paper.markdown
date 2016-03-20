@@ -1,0 +1,13 @@
+---
+layout: deadline
+title: Thesis Paper Due
+date: 2015-04-15 00:00:00 -0700
+missing:
+- Landscape Audit
+- Design Raitonale
+- Mind Map
+- Storyboards
+- Prototype
+- Pilot Test
+done:
+---

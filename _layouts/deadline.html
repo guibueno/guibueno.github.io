@@ -1,0 +1,38 @@
+---
+layout: default
+sidebar: no
+---
+<p><strong>What: </strong>{{ page.title }}</p>
+<p><strong>When: </strong>{{ page.date | date: "%B %-d" }}</p>
+
+{% if page.missing %}
+
+	<p><strong>To do:</strong></p>
+	<ul>
+
+		{% for item in page.missing %}
+
+			<li>{{ item in page.missing }}</li>
+
+		{% endfor %}
+
+	</ul>
+
+{% endif %}
+
+{% if page.done %}
+
+	<p><strong>Done:</strong></p>
+	<ul>
+
+		{% for item in page.done %}
+
+			<li>{{ item in page.done }}</li>
+
+		{% endfor %}
+
+	</ul>
+
+{% endif %}
+
+{{ content }}
