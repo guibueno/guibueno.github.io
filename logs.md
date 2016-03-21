@@ -1,6 +1,7 @@
 ---
 layout: page
-title: Blog
+title: Logs
 sidebar: log
-permalink: /blog/
---- 
+permalink: /logs/
+---
+

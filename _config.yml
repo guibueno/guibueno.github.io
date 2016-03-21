@@ -33,3 +33,5 @@ collections:
       output: true
   logs:
       output: true
+  tasks:
+      output: true

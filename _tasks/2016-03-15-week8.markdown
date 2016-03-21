@@ -1,0 +1,10 @@
+---
+title: "Week 8"
+layout: week
+date: 2016-03-15 00:00:00 -0700
+goals:
+  - "Prototype ONE Exercise in reveal.js"
+  - "New design document format in Jekyll"
+nextclass: "Open share / problem solving"
+permalink: /logs/
+---

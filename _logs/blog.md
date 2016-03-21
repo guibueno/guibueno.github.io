@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Journal
+title: Blog
 sidebar: log
 permalink: /blog/
 ---	
