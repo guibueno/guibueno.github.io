@@ -1,7 +1,6 @@
 ---
-layout: page
+layout: log
 title: Deadlines
-sidebar: log
 permalink: /logs/deadlines/
 ---
 <div class="home">

@@ -1,7 +1,6 @@
 ---
-layout: page
+layout: log
 title: Meetings
-sidebar: log
 permalink: /logs/meetings/
 ---
 <div class="home">
