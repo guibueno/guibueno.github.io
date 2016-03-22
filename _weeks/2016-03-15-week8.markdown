@@ -1,0 +1,19 @@
+---
+title: "Week 8"
+layout: week
+date: 2016-03-15 00:00:00 -0700
+goals:
+  - "Prototype ONE Exercise in reveal.js"
+  - "New design document format in Jekyll"
+nextclass: "Open share / problem solving"
+permalink: /logs/
+todo:
+  - "(03/22) Plan thesis document writing over next weeks"
+  - "(03/22) Schedule Maaike's office hours for next week"
+  - "(03/22) Update course progress board and weekly Schedule"
+  - "(03/22) Create Self-Introduction Prototype"
+done:
+  - "(03/21) Write blog post about developing new website"
+  - "(03/21) Update website address and ask for feedback"
+  - "(03/22) Ping Nick about new thesis website"
+---

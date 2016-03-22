@@ -33,5 +33,5 @@ collections:
       output: true
   logs:
       output: true
-  tasks:
+  weeks:
       output: true

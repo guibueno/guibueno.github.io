@@ -23,6 +23,24 @@ sidebar: log
 
 		</ul>
 
+		<p>Specifically, my tasks are:</p>
+
+		<ul>
+			
+			{% for item in page.done %}
+
+				<li class="done">{{ item in page.done }}</li>
+
+			{% endfor %}
+
+			{% for item in page.todo %}
+
+				<li class="todo">{{ item in page.todo }}</li>
+
+			{% endfor %}
+
+		</ul>
+
 		<p>In our next class, I'll be in the <strong>{{ page.nextclass }}</strong> group.
 
 		{{ content }}

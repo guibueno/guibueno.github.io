@@ -33,13 +33,17 @@ sidebar: people
 
 	  	<ul>
 
-		  	{% for meetings in site.meetings %}
+		  	{% for meetings in site.meetings reversed %}
 
-		    	{% if meetings.participants == page.title %}
+		  		{% for item in meetings.participants %}
 
-		    		<li><a class="log-link" href="{{ meetings.url | prepend: site.baseurl }}">[{{ meetings.date | date: "%b %-d, %Y" }}] {{ meetings.title }}</a></li>
+			    	{% if item == page.title %}
 
-		    	{% endif %}
+			    		<li><a class="log-link" href="{{ meetings.url | prepend: site.baseurl }}">[{{ meetings.date | date: "%b %-d, %Y" }}] {{ meetings.title }}</a></li>
+
+			    	{% endif %}
+
+			    {% endfor %}
 		    
 		    {% endfor %}
 
