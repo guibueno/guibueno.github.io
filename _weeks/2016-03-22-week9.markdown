@@ -1,0 +1,14 @@
+---
+title: "Week 9"
+layout: week
+date: 2016-03-23 00:00:00 -0700
+goals:
+  - 
+  - 
+nextclass: "Open share / problem solving"
+todo:
+  - "(03/29) Prepare for Maaike's Office Hours"
+done:
+schedule:
+  - "(03/29) 3:30-4pm Maaike's Office Hours"
+---

@@ -45,6 +45,20 @@ sidebar: log
 
 		{{ content }}
 
+		{% if page.schedule %}
+
+			<p><strong>Schedule:</strong></p>
+
+			<ul>
+
+				{% for item in page.schedule %}
+
+					<li>{{ item }}</li>
+
+				{% endfor %}
+
+		{% endif %}
+
   </div>
 
 </article>
