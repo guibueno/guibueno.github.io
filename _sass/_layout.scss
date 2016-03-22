@@ -250,18 +250,21 @@
     display: block;
     width: 30%;
     overflow: hidden;
+    @include media-query($on-palm) {
+        width: 100%;
+    }
 }
 
 .left {
     float: left;
 }
-.home {
-    
-}
 .post-content {
     float: left;
     width: 70%;
     display: block;
+    @include media-query($on-palm) {
+        width: 100%;
+    }
 }
 
 .full {
