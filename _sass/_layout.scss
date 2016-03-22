@@ -247,6 +247,7 @@
 
 .sidebar.column {
     /*background: #CCC;*/
+    display: block;
     width: 30%;
 }
 
@@ -259,6 +260,7 @@
 .post-content {
     float: left;
     width: 70%;
+    display: block;
 }
 
 /*.full {
