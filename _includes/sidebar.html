@@ -6,7 +6,19 @@
 			<ol class="sidebar-menu">
 
 			{% for doc in site.docs %}
-				<li><a href="{{ doc.url | prepend: site.baseurl }}">{{ doc.title }}</a></li>
+				<li>
+
+				{% if doc.hide %}
+
+					{{ doc.title }}
+
+				{% else %}
+
+					<a href="{{ doc.url | prepend: site.baseurl }}">{{ doc.title }}</a>
+
+				{% endif %}
+
+				</li>
 			{% endfor %}
 
 			</ol>

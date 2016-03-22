@@ -11,9 +11,13 @@ From an instructional design standpoint, these questions represent an unsolved c
 
 ### From the designer methods to the Post-Method Era
 
+[![Image 1 - Drill & Kill](/images/doc1-intro-methods.jpg)](/images/doc1-intro-methods.jpg)
+_Image 1 - Methods & The Post-Method Era_
+{: style="text-align: center"}
+
 In the 1970s, "in a burst of innovation" (Brown, 2000, p. 10), several language teaching learning methods were created. Nunan (1989) calls these the “designer” methods: Community Language Learning, the Silent Way, Suggestopedia, Total Physical Response, and others.
 
-Brown (2000) states that such "designer" methods should be applauded “for their innovative flair”, but acknowledges that they were “not the godsend that their inventors and marketers hoped they would be” (p. 25). Brown (2002, p. 10) also lists reasons to give up this obsession with methods:
+Brown (2000) states that such "designer" methods should be applauded “for their innovative flair”, but acknowledges that they were “not the godsend that their inventors and marketers hoped they would be” (p. 25) (Image 1). Brown (2002, p. 10) also lists reasons to give up this obsession with methods:
 
 * It is hard to empirically test, verify, and validate language pedagogy
 
@@ -39,7 +43,11 @@ But when it comes to language learning technology, are we shifting towards the "
 
 Warschauer & Healey (1998) roughly divide the history of Computer-Assisted Language Learning (CALL), into three stages: behaviouristic CALL, communicative CALL, and integrative CALL.
 
-In the behaviouristic CALL period (1960s and 1970s), computers mostly featured the "repetitive language drills, referred to as drill-and-practice (or, pejoratively, as 'drill-and-kill')" (p. 57). In other words, computer were merely “mechanical tutors which never grew tired” (p. 57), that prompted automated, linear, fixed exercises. Learners could not customize or adapt neither the content nor the nature of those exercises, which negatively impacted their motivation.
+In the behaviouristic CALL period (1960s and 1970s), computers mostly featured the "repetitive language drills, referred to as drill-and-practice (or, pejoratively, as 'drill-and-kill')" (p. 57) (Image 2). In other words, computer were merely “mechanical tutors which never grew tired” (p. 57), that prompted automated, linear, fixed exercises. Learners could not customize or adapt neither the content nor the nature of those exercises, which negatively impacted their motivation.
+
+[![Image 2 - Drill & Kill](/images/doc1-intro-drills.jpg)](/images/doc1-intro-drills.jpg)
+_Image 2 - Drill & Kill_
+{: style="text-align: center"}
 
 Subsequently, the communicative CALL period emerged in the late 1970s, rejecting behaviouristic approaches at the theoretical and the pedagogical level:
 

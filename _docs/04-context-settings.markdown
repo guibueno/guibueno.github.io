@@ -92,7 +92,11 @@ Each option in Table 2 brings new questions to the language learner. If, for exa
 
 **Table 3 **- Singing along: the immediate questions and decisions that learners have to face
 
-Having to deal with so many questions and decisions will most likely distance the learner from an effective practice. Rather than focusing completely on the practice itself, the learner’s attention will be divided into answering such questions (and re-assessing the answers), operating different tools (to play and pause the song, to follow the lyrics), and actually singing along.
+Having to deal with so many questions and decisions will most likely distance the learner from an effective practice (Image 1) Rather than focusing completely on the practice itself, the learner’s attention will be divided into answering such questions (and re-assessing the answers), operating different tools (to play and pause the song, to follow the lyrics), and actually singing along.
+
+[![Image 1 - So many tools out there!](/images/doc4-context-somanytools.jpg)](/images/doc4-context-somanytools.jpg)
+_Image 1 - So Many Tools Out There!_
+{: style="text-align: center"}
 
 In other words, extraneous cognitive load will be using too much of the learner’s working memory resources, in lieu of productive learning (Sweller, 2010, p. 43). As a result, not only those simple tasks could become very hard to execute, they would also become much less effective and less pleasant. Such issues can be addressed through design, which is the purpose of this project:
 
