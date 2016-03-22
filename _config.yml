@@ -35,3 +35,5 @@ collections:
       output: true
   weeks:
       output: true
+  indies:
+      output: true

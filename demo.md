@@ -11,6 +11,6 @@ This project is a work in-progress. That being said, I'll be adding demos on a r
   * Speak out loud
 
 * Exercises
-  * Self-introduction
+  * [Self-introduction](www.guibueno.me/languagebug/exercise_selfintro.html)
   * Numbers
   * ...
