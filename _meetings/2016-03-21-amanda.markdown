@@ -1,0 +1,29 @@
+---
+layout: meeting
+title: Creative Brief
+date: 2016-03-21 11:00:00 -0700
+participants: Amanda Letícia
+where: home
+duration: 45min
+topics:
+  - Understand the next steps in terms of Graphic Design
+  - What are the current graphic design priorities?
+  - How can Amanda help me with Graphic Design?
+  - What ideas do I have to guide Amanda's input on this?
+results:
+  - "Target audience consists of adults. More 'serious' tone."
+  - "Focus on reality: real people speech and figures, for example"
+  - Maybe make the Portugues course look a little Brazilian?
+  - Focus on a general design structure and guidelines for all languages.
+  - Working together on a CSS Theme to apply on reveal.js slides.
+  - "LanguageBug current doesn't look at all like an App.
+      <ul><li>Is it good/bad to be against the zeitgeist? How so?</li>
+      <li>How to convey the differences, but also make it look familiar?</li></ul>"
+  - "Key words to think about a logo (and maybe re-think the name):
+      <ul><li>strategy, strategic</li>
+      <li>practice</li>
+      <li>language coach</li>
+      <li>exercise</li>
+      <li>fast</li>
+      <li>open source</li></ul>"
+---

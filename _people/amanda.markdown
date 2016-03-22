@@ -4,6 +4,7 @@ title: Amanda Letícia
 role: Graphic Design Expert
 website: https://www.linkedin.com/in/amanda-leticia
 contributions: yes
+meetings: yes
 
 ---
 
