@@ -2,7 +2,7 @@
 title: "Week 9"
 layout: week
 date: 2016-03-23 00:00:00 -0700
-permalink: /week9/
+permalink: /logs/
 goals:
   - "<a href='/indies/week9-projectwriting.html'>Crazy rapid thesis document writing</a>"
   - 
@@ -10,6 +10,7 @@ nextclass: "Visual Design"
 todo:
   - "(03/29) Prepare for Maaike's Office Hours"
 done:
+  - "(03/23) Evaluate/use Duolingo for one hour"
 schedule:
   - "(03/29) 3:30-4pm Maaike's Office Hours"
 ---

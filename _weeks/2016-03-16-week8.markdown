@@ -6,7 +6,7 @@ goals:
   - "Prototype ONE Exercise in reveal.js"
   - "New design document format in Jekyll (Accomplished)"
 nextclass: "portfolio / resume"
-permalink: /logs/
+permalink: /week8/
 todo:
 done:
   - "(03/22) Plan <a href='/indies/week9-projectwriting.html'>thesis document writing</a> for the next weeks"
