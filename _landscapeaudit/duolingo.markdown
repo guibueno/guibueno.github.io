@@ -1,6 +1,127 @@
 ---
 title: Duolingo
 layout: la
+website: "https://www.duolingo.com/"
+about: "Duolingo is a free language-learning platform that includes a language-learning website and app, as well as a digital language proficiency assessment exam. Duolingo is ad-free and offers all its language courses free of charge. As of February 2016, the language-learning website and app offer 54 different language courses across 23 languages; with 28 additional courses in development. The app is available on iOS, Android and Windows 8 and 10 platforms with over 120 million registered users across the world."
+about-source: "https://en.wikipedia.org/wiki/Duolingo"
+version: ""
+cover:
+  - 1
+  - 2
+  - 3
+  - 4
+
+## LEARNING
+learning-overview: ""
+learning-images:
+  - 1
+  - 2
+  - 3
+  - 4
+learning-legenda: no
+learning-remarks:
+  - name: "Speaking"
+    balance: "-"
+    text: ""
+  - name: "Content"
+    balance: "-"
+    text: ""
+  - name: "Estimated duration"
+    balance: "-"
+    text: ""
+  - name: "Relevance"
+    balance: "-"
+    text: ""
+  - name: "Focus"
+    balance: "-"
+    text: ""
+  - name: "Right"
+    balance: "+"
+    text: ""
+  - name: "Wrong"
+    balance: "-"
+    text: ""
+  - name: "Challenge"
+    balance: "-"
+    text: ""
+  - name: "Metaphor"
+    balance: "+"
+    text: ""
+  - name: "Metacotnigion"
+    balance: "+"
+    text: ""
+
+## AUDIO
+audio-overview: ""
+audio-images:
+  - 1
+  - 2
+  - 3
+audio-legenda: ""
+audio-remarks:
+  - name: ""
+    balance: "-"
+    text: ""
+  - name: ""
+    balance: "-"
+    text: ""
+  - name: ""
+    balance: "+"
+    text: ""
+
+
+## SPEECH
+speech-overview: ""
+speech-images: no
+speech-legenda: no
+speech-remarks: no
+
+
+## KEYBOARD
+keyboard-overview: ""
+keyboard-images:
+  - 1
+  - 2
+keyboard-legenda: ""
+keyboard-remarks:
+  - name: ""
+    balance: "+"
+    text: ""
+  - name: ""
+    balance: "+"
+    text: ""
+  - name: ""
+    balance: "-"
+    text: ""
+
+## ADDITIONAL REMARKS
+additional-remarks:
+  - name: ""
+    balance: ""
+    img: 1
+    text: ""
+
+## SELF-EFFICACY
+self-efficacy-overview: ""
+self-efficacy-images:
+  - 1
+  - 2
+  - 3
+  - 4
+self-efficacy-legenda: 
+self-efficacy-remarks:
+  - name: ""
+    balance: "+"
+    text: ""
+  - name: ""
+    balance: "-"
+    text: ""
+  - name: ""
+    balance: "+"
+    text: ""
+  - name: ""
+    balance: "-"
+    text: ""
 ---
 
 Duolingo Portuguese

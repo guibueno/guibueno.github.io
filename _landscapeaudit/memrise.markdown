@@ -1,5 +1,5 @@
 ---
-title: Memrise
+title: "Memrise"
 layout: la
 website: "https://www.memrise.com/"
 about: "Memrise is an online learning tool with courses created by its community. Its courses are mainly used to teach languages, but are also used for other academic and nonacademic subjects (such as trivia, video game trivia, and pop cultural). Memrise uses flashcards augmented with mnemonics—partly gathered through crowdsourcing—and the spacing effect to boost the speed and ease of learning."
@@ -52,7 +52,7 @@ learning-remarks:
     text: "'Words Learned' (short-term memory) and 'Words Mastered' (long-term memory)"
 
 ## AUDIO
-audio-overview: "The app uses audio as one of the main forms of exercise prompts. For example, the user listens to the audio and finds the appropriate translation among several options. Most of these prompts, at least in the beginning, consist of single words, or very short sentences.</p><p>Besides that, whenever a new word is being introduced, the app plays its spoken version and also displays its written form and its translation."
+audio-overview: "The app uses audio as one of the main forms of exercise prompts. For example, the user listens to the audio and finds the appropriate translation among several options. Most of these prompts, at least in the beginning, consist of single words, or very short sentences. Also, the introduction of a new word consists of displaying the written side by side with its translation and a button to hear it spoken"
 audio-images:
   - 1
   - 2
@@ -102,7 +102,7 @@ additional-remarks:
     text: "Other users may submit images to help learners understand the meaning of words. Although this is not crucial to the learning process, it might foster in its users the feeling of belonging to a community."
 
 ## SELF-EFFICACY
-self-efficacy-overview: "The goal of each lesson, of each exercise, and the overall long-term goal of the course are not clear to the user. As a consequence, it is hard for the user to evaluate his/her learning process and remain focused in his/her language learning goals. On the other hand, the app offers a few important tools to maintain the schedule of the exercises."
+self-efficacy-overview: "The goal of each lesson, of each exercise, and the overall long-term goal of the course are not clear to the user. As a consequence, it is hard for users to evaluate their learning processes and remain focused on their goals. What the  the app does offer is a few important tools to help maintain the schedule of exercises."
 self-efficacy-images:
   - 1
   - 2

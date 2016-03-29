@@ -1,0 +1,127 @@
+---
+title: 
+layout: la
+website: ""
+about: ""
+about-source: ""
+version: ""
+cover:
+  - 1
+  - 2
+  - 3
+  - 4
+
+## LEARNING
+learning-overview: ""
+learning-images:
+  - 1
+  - 2
+  - 3
+  - 4
+learning-legenda: no
+learning-remarks:
+  - name: "Speaking"
+    balance: "-"
+    text: ""
+  - name: "Content"
+    balance: "-"
+    text: ""
+  - name: "Estimated duration"
+    balance: "-"
+    text: ""
+  - name: "Relevance"
+    balance: "-"
+    text: ""
+  - name: "Focus"
+    balance: "-"
+    text: ""
+  - name: "Right"
+    balance: "+"
+    text: ""
+  - name: "Wrong"
+    balance: "-"
+    text: ""
+  - name: "Challenge"
+    balance: "-"
+    text: ""
+  - name: "Metaphor"
+    balance: "+"
+    text: ""
+  - name: "Metacotnigion"
+    balance: "+"
+    text: ""
+
+## AUDIO
+audio-overview: ""
+audio-images:
+  - 1
+  - 2
+  - 3
+audio-legenda: ""
+audio-remarks:
+  - name: ""
+    balance: "-"
+    text: ""
+  - name: ""
+    balance: "-"
+    text: ""
+  - name: ""
+    balance: "+"
+    text: ""
+
+
+## SPEECH
+speech-overview: ""
+speech-images: no
+speech-legenda: no
+speech-remarks: no
+
+
+## KEYBOARD
+keyboard-overview: ""
+keyboard-images:
+  - 1
+  - 2
+keyboard-legenda: ""
+keyboard-remarks:
+  - name: ""
+    balance: "+"
+    text: ""
+  - name: ""
+    balance: "+"
+    text: ""
+  - name: ""
+    balance: "-"
+    text: ""
+
+## ADDITIONAL REMARKS
+additional-remarks:
+  - name: ""
+    balance: ""
+    img: 1
+    text: ""
+
+## SELF-EFFICACY
+self-efficacy-overview: ""
+self-efficacy-images:
+  - 1
+  - 2
+  - 3
+  - 4
+self-efficacy-legenda: 
+self-efficacy-remarks:
+  - name: ""
+    balance: "+"
+    text: ""
+  - name: ""
+    balance: "-"
+    text: ""
+  - name: ""
+    balance: "+"
+    text: ""
+  - name: ""
+    balance: "-"
+    text: ""
+---
+
+Conclusion remarks
