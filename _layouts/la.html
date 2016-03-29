@@ -1,0 +1,272 @@
+---
+layout: default
+sidebar: no
+---
+
+<article class="post">
+
+  <div class="post-content full">
+    
+	<header class="post-header">
+	  <h1 class="post-title">
+	  	{{ page.title }}
+	  	<img src="{{ page.title }}/logo.png" width="50" height="50" class="noborder">
+	  </h1>
+	  <p><a href="{{ page.website }}" target="_blank">{{ page.website }}</a></p>
+	</header>
+
+    <p><strong>About:</strong>
+    <em>"{{ page.about }}"</em>
+    (from: <a href="{{ page.about-source }}" target="_blank">{{ page.about-source }}</a>)
+    </p>
+
+    <h2>App Analysis (iOS v. {{ page.version }})</h2>
+
+    <p align="center">
+	    {% for item in page.cover %}
+		    <a href="{{ page.title }}/cover-{{ item }}.png" target="_blank"><img src="{{ page.title }}/cover-{{ item }}.png" width="24%"></a>
+		{% endfor %}
+	</p>
+	<p class="legenda">Screen-shots of the initial screens of the app</p>
+
+	<h2>Learning</h2>
+    
+	{% if page.learning-images %}
+	    <p align="center">
+		    {% for item in page.learning-images %}
+			    <a href="{{ page.title }}/learning-{{ item }}.png" target="_blank"><img src="{{ page.title }}/learning-{{ item }}.png" width="24%"></a>
+			{% endfor %}
+		</p>
+		<!--<p class="legenda">{{ page.learning-legenda }}</p>-->
+	{% endif %}
+
+	<ul class="noindent">
+
+	    {% for item in page.learning-remarks %}
+
+	    	{% if item.balance == "+" %}
+
+		    	<li class="positive">
+			    	<font style="color: #006400">&#x2714;</font>
+			    	<strong>{{ item.name }}:</strong>
+			    	{{ item.text }}
+		    	</li>
+
+	    	{% elsif item.balance == "-" %}
+
+		    	<li class="negative">
+		    		<font style="color: #7F0000">&#x2718;</font>
+			    	<strong>{{ item.name }}:</strong>
+			    	{{ item.text }}
+		    	</li>
+
+	    	{% endif %}
+
+		{% endfor %}
+
+	</ul>
+
+    <!--SELF-EFFICACY-->
+    <h3>Self-Efficacy tools</h3>
+    <p>{{ page.self-efficacy-overview }}</p>
+
+	{% if page.self-efficacy-images %}
+	    <p align="center">
+		    {% for item in page.self-efficacy-images %}
+			    <a href="{{ page.title }}/self-efficacy-{{ item }}.png" target="_blank"><img src="{{ page.title }}/self-efficacy-{{ item }}.png" width="24%"></a>
+			{% endfor %}
+		</p>
+		<p class="legenda">{{ page.self-efficacy-legenda }}</p>
+	{% endif %}
+
+    {% if page.self-efficacy-remarks %}
+	    
+	    <ul class="noindent">
+		    {% for item in page.self-efficacy-remarks %}
+
+		    	{% if item.balance == "+" %}
+
+			    	<li class="positive">
+				    	<font style="color: #006400">&#x2714;</font>
+				    	<strong>{{ item.name }}:</strong>
+				    	{{ item.text }}
+			    	</li>
+
+		    	{% elsif item.balance == "-" %}
+
+			    	<li class="negative">
+			    		<font style="color: #7F0000">&#x2718;</font>
+				    	<strong>{{ item.name }}:</strong>
+				    	{{ item.text }}
+			    	</li>
+
+		    	{% endif %}
+
+		    {% endfor %}
+		</ul>
+	{% endif %}
+	<!--END SELF-EFFICACY-->
+
+	<h2>Usability</h2>
+
+	<!-- AUDIO -->
+    <h3>Audio output</h3>
+    <p>{{ page.audio-overview }}</p>
+
+	{% if page.audio-images %}
+	    <p align="center">
+		    {% for item in page.audio-images %}
+			    <a href="{{ page.title }}/audio-{{ item }}.png" target="_blank"><img src="{{ page.title }}/audio-{{ item }}.png" width="24%"></a>
+			{% endfor %}
+		</p>
+		<p class="legenda">{{ page.audio-legenda }}</p>
+	{% endif %}
+
+    {% if page.audio-remarks %}
+	    
+	    <ul class="noindent">
+		    {% for item in page.audio-remarks %}
+
+		    	{% if item.balance == "+" %}
+
+			    	<li class="positive">
+				    	<font style="color: #006400">&#x2714;</font>
+				    	<strong>{{ item.name }}:</strong>
+				    	{{ item.text }}
+			    	</li>
+
+		    	{% elsif item.balance == "-" %}
+
+			    	<li class="negative">
+			    		<font style="color: #7F0000">&#x2718;</font>
+				    	<strong>{{ item.name }}:</strong>
+				    	{{ item.text }}
+			    	</li>
+
+		    	{% endif %}
+
+		    {% endfor %}
+		</ul>
+	{% endif %}
+	<!--END AUDIO-->
+
+
+	<!--SPEECH-->
+    <h3>Speech recognition</h3>
+    <p>{{ page.speech-overview }}</p>
+
+	{% if page.speech-images %}
+	    <p align="center">
+		    {% for item in page.speech-images %}
+			    <a href="{{ page.title }}/speech-{{ item }}.png" target="_blank"><img src="{{ page.title }}/speech-{{ item }}.png" width="24%"></a>
+			{% endfor %}
+		</p>
+		<p class="legenda">{{ page.speech-legenda }}</p>
+	{% endif %}
+
+    {% if page.speech-remarks %}
+	    
+	    <ul class="noindent">
+		    {% for item in page.speech-remarks %}
+
+		    	{% if item.balance == "+" %}
+
+			    	<li class="positive">
+				    	<font style="color: #006400">&#x2714;</font>
+				    	<strong>{{ item.name }}:</strong>
+				    	{{ item.text }}
+			    	</li>
+
+		    	{% elsif item.balance == "-" %}
+
+			    	<li class="negative">
+			    		<font style="color: #7F0000">&#x2718;</font>
+				    	<strong>{{ item.name }}:</strong>
+				    	{{ item.text }}
+			    	</li>
+
+		    	{% endif %}
+
+		    {% endfor %}
+		</ul>
+	{% endif %}
+	<!--END SPEECH-->
+
+
+	<!--KEYBOARD-->
+    <h3>Keyboard input</h3>
+    <p>{{ page.keyboard-overview }}</p>
+
+	{% if page.keyboard-images %}
+	    <p align="center">
+		    {% for item in page.keyboard-images %}
+			    <a href="{{ page.title }}/keyboard-{{ item }}.png" target="_blank"><img src="{{ page.title }}/keyboard-{{ item }}.png" width="24%"></a>
+			{% endfor %}
+		</p>
+		<p class="legenda">{{ page.keyboard-legenda }}</p>
+	{% endif %}
+
+    {% if page.keyboard-remarks %}
+	    
+	    <ul class="noindent">
+		    {% for item in page.keyboard-remarks %}
+
+		    	{% if item.balance == "+" %}
+
+			    	<li class="positive">
+				    	<font style="color: #006400">&#x2714;</font>
+				    	<strong>{{ item.name }}:</strong>
+				    	{{ item.text }}
+			    	</li>
+
+		    	{% elsif item.balance == "-" %}
+
+			    	<li class="negative">
+			    		<font style="color: #7F0000">&#x2718;</font>
+				    	<strong>{{ item.name }}:</strong>
+				    	{{ item.text }}
+			    	</li>
+
+		    	{% endif %}
+
+		    {% endfor %}
+		</ul>
+	{% endif %}
+	<!--END KEYBOARD-->
+
+
+	<!--ADDITIONAL-REMARKS-->
+	{% if page.additional-remarks %}
+	    
+	    <h3>Other features</h3>
+	    {% for item in page.additional-remarks %}
+	    	<p align="center">
+				<a href="{{ page.title }}/additional-{{ item.img }}.png" target="_blank"><img src="{{ page.title }}/additional-{{ item.img }}.png" width="20%"></a>
+			</p>
+			<p>
+	    	{% if item.balance == "+" %}
+
+			    	<font style="color: #006400">&#x2714;</font>
+			    	<strong>{{ item.name }}:</strong>
+			    	{{ item.text }}
+
+	    	{% elsif item.balance == "-" %}
+
+		    		<font style="color: #7F0000">&#x2718;</font>
+			    	<strong>{{ item.name }}:</strong>
+			    	{{ item.text }}
+
+	    	{% endif %}
+	    	</p>
+
+	    {% endfor %}
+
+	{% endif %}
+	<!--END ADDITIONAL-REMARKS-->
+
+    <h2>Conclusions</h2>
+    {{ content }}	
+
+  </div>
+
+</article>

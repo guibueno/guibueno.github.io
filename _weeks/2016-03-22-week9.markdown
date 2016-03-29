@@ -5,12 +5,14 @@ date: 2016-03-23 00:00:00 -0700
 permalink: /logs/
 goals:
   - "<a href='/indies/week9-projectwriting.html'>Crazy rapid thesis document writing</a>"
-  - 
+  - Establish project's graphic guidelines
 nextclass: "Visual Design"
 todo:
   - "(03/29) Prepare for Maaike's Office Hours"
 done:
   - "(03/23) Evaluate/use Duolingo for one hour"
+  - "(03/24) Evaluate/use Memrise for one hour"
+  - "(03/24) Discussed storyboard with Amanda Leticia"
 schedule:
   - "(03/29) 3:30-4pm Maaike's Office Hours"
 ---

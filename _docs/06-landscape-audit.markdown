@@ -5,6 +5,20 @@ title: Landscape Audit
 
 As described in the Introduction, the landscape of language learning tools and technologies is vast and diverse. This landscape audit only analyzes the **asynchronous** **language courses** category, which also consists of a large group of services. These services can be roughly divided into two groups: (1) traditional, famous and widely used courses and (2) recent, innovative, approaches.
 
+### Product Analyses
+
+<ul>
+
+  {% for landscapeaudit in site.landscapeaudit %}
+
+    <li>
+      <a href="{{ landscapeaudit.url | prepend: site.baseurl }}">{{ landscapeaudit.title }}</a>
+    </li>
+
+  {% endfor %}
+
+</ul>
+
 Group (1) corresponds to services that have millions of registered users and typically cover many different languages. The multi-million dollar company Rosetta-Stone qualifies as its main example, followed by Duolingo, a much newer service (2011) that has grown incredibly fast. Other services include, but are not limited to: [Livemocha](http://livemocha.com/), [Busuu](https://www.busuu.com), [Memrise](https://www.memrise.com/), and [Babbel](https://www.babbel.com/).
 
 Group (2) includes services that are not as consolidated, therefore not as well-known, mainly because they were founded more recently. These services are supposedly challenging the most traditional approach to language learning in any manner. Some examples are: [Mango Languages](https://www.mangolanguages.com/), [Lingvist](https://lingvist.io/), [Fluent in 3 Months](http://www.fluentin3months.com/), [Add1Challenge](http://add1challenge.com/), [Baselang](http://baselang.com) and [The Mimic Method](http://mimicmethod.com/).

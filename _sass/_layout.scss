@@ -354,3 +354,26 @@ h2.role {
 .done {
     text-decoration: line-through;
 }
+
+/*
+** Landscape Audit
+*/
+
+.legenda {
+    font-style: italic;
+    text-align: center;
+    font-size: $small-font-size;
+}
+.positive, .negative {
+    list-style: none;
+    margin-bottom: 5px;
+}
+.noindent {
+    margin-left: 0;
+}
+img {
+    border: 1px solid $grey-color-dark;
+}
+img.noborder {
+    border: 0;
+}

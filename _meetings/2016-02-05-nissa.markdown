@@ -1,7 +1,7 @@
 ---
 layout: meeting
 title: Design Rationales
-date: 2015-02-02 00:00:00 -0700
+date: 2016-02-02 00:00:00 -0700
 participants: Nissa Syverson
 where: MAGNET Room 821
 duration: 60min
