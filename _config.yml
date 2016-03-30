@@ -19,6 +19,10 @@ github_username:  guibueno
 # Build settings
 markdown: kramdown
 
+# Plug-ins
+extlinks:
+  attributes: {rel: nofollow, target: _blank}
+
 # Gui's new features
 collections:
 #  principles:

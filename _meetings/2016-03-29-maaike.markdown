@@ -1,0 +1,25 @@
+---
+layout: meeting
+title: Mid-semester Meeting
+date: 2016-03-29 15:30:00 -0400
+participants: Maaike Bouwmeester
+where: MAGNET
+duration: 35min
+topics:
+  - "What my priorities for the remaining 17 days should be"
+  - "Present what I have worked on: storyboard, prototype, demos, landscape audit"
+  - "Explain my current plans and what has changed since last meeting"
+results:
+  - "My thesis project's channel on Slack is very active, which is cool"
+  - "Maybe I should prioritize the foundation of my product, rather than generating visuals at this point"
+  - "Storyboard looks great, but it'd be better if what I do now is part of investigating, not pitching"
+  - "Gamification: 'lock'/'unlock' (principles) are part of a game terminology I should not be afraid to use"
+  - "How about having levels, for example? This could be a way to make users do the same activity with increasingly challening goals over and over again"
+  - "Still talking about levels, is there a way in which new learners with prior experience with the language could be placed in more advanced stages"
+  - "'Dumb feedback': appraising effort is good, but people appreciate smart tech with real interactions"
+  - "How about trying to find a way to provide feedback, which is not corrective, but not completely dumb either?"
+  - "The video feedback is a nice feature. Maybe I should work on making it visible/explicit from now on, as a way to provide self-assessment"
+  - "My core foundation in language learning is solid, which makes it fun to look for answers to design challenges"
+  - "Adding audio to the demos and prototypes is kind of fundamental at this stage"
+  - "Analytics/Statistics: it would be nice for the user to have a better sense of what has been accomplished/done."
+---

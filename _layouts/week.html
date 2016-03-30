@@ -23,23 +23,27 @@ sidebar: log
 
 		</ul>
 
-		<p>Specifically, my tasks are:</p>
+		{% if page.done or page.todo %}
 
-		<ul>
-			
-			{% for item in page.done %}
+			<p>Specifically, my tasks are:</p>
 
-				<li class="done">{{ item in page.done }}</li>
+			<ul>
+				
+				{% for item in page.done %}
 
-			{% endfor %}
+					<li class="done">{{ item in page.done }}</li>
 
-			{% for item in page.todo %}
+				{% endfor %}
 
-				<li class="todo">{{ item in page.todo }}</li>
+				{% for item in page.todo %}
 
-			{% endfor %}
+					<li class="todo">{{ item in page.todo }}</li>
 
-		</ul>
+				{% endfor %}
+
+			</ul>
+
+		{% endif %}
 
 		<p><strong><a href="https://docs.google.com/document/d/1ODlsThUPyTygAmNrHWrnx-uo3XBcgq6qQIT7lOXSqTA/edit#heading=h.8j9kgph7k62x">Next class:</a></strong> {{ page.nextclass }}.
 
