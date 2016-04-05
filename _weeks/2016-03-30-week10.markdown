@@ -1,14 +1,18 @@
 ---
 title: "Week 10"
 layout: week
-date: 2016-03-29 00:00:00 -0700
+date: 2016-03-30 00:00:00 -0700
 permalink: /logs/
 goals:
   - "<a href='/indies/week9-projectwriting.html'>Crazy rapid thesis document writing</a>"
   - Focus on explaining better the foundations of my design (features, concepts, etc.)
   - User testing? Hopefully!
-nextclass: "Open Share / Problem Solving (OPTIONAL)"
-todo: no
-done: no
+nextclass: "Individual project focus"
+todo:
+  - "(04/05) Prepare in-class presentation"
+done:
+  - "(03/31) Understand how the audio function works on reveal.js"
+  - "(04/01) Duolingo Landscape audit page"
+  - "(04/04) Finish Duolingo landscape audit page"
 schedule: no
 ---
