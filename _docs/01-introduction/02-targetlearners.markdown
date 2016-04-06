@@ -1,6 +1,7 @@
 ---
 layout: doc
 title: Target Learners
+section: intro
 ---
 
 Every language learner (and certainly every learner in general) could benefit from metacognition, growth mindset, and deliberate practice. However, this project specifically targets **adult learners**.

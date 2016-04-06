@@ -2,24 +2,129 @@
 	<div>
 		{% if page.sidebar == "doc" or layout.sidebar == "doc" %}
 
-			<p>Table of Contents</p>
 			<ol class="sidebar-menu">
 
+			<p class="doctitle">Introduction</p>
+
 			{% for doc in site.docs %}
-				<li>
 
-				{% if doc.hide %}
+				{% if doc.section == "intro" %}
 
-					{{ doc.title }}
+					<li>
 
-				{% else %}
+					{% if doc.hide %}
 
-					<a href="{{ doc.url | prepend: site.baseurl }}">{{ doc.title }}</a>
+						{{ doc.title }}
+
+					{% else %}
+
+						<a href="{{ doc.url | prepend: site.baseurl }}">{{ doc.title }}</a>
+
+					{% endif %}
+
+					</li>
 
 				{% endif %}
 
-				</li>
 			{% endfor %}
+
+			<p class="doctitle">Development</p>
+
+			{% for doc in site.docs %}
+
+				{% if doc.section == "dev" %}
+
+					<li>
+
+					{% if doc.hide %}
+
+						{{ doc.title }}
+
+					{% else %}
+
+						<a href="{{ doc.url | prepend: site.baseurl }}">{{ doc.title }}</a>
+
+					{% endif %}
+
+					</li>
+
+				{% endif %}
+
+			{% endfor %}
+
+			<p class="doctitle">Evaluation</p>
+
+			{% for doc in site.docs %}
+
+				{% if doc.section == "eval" %}
+
+					<li>
+
+					{% if doc.hide %}
+
+						{{ doc.title }}
+
+					{% else %}
+
+						<a href="{{ doc.url | prepend: site.baseurl }}">{{ doc.title }}</a>
+
+					{% endif %}
+
+					</li>
+
+				{% endif %}
+
+			{% endfor %}
+
+			<p class="doctitle">Conclusion</p>
+
+			{% for doc in site.docs %}
+
+				{% if doc.section == "conc" %}
+
+					<li>
+
+					{% if doc.hide %}
+
+						{{ doc.title }}
+
+					{% else %}
+
+						<a href="{{ doc.url | prepend: site.baseurl }}">{{ doc.title }}</a>
+
+					{% endif %}
+
+					</li>
+
+				{% endif %}
+
+			{% endfor %}
+
+			<p class="doctitle">Future directions</p>
+
+			{% for doc in site.docs %}
+
+				{% if doc.section == "fut" %}
+
+					<li>
+
+					{% if doc.hide %}
+
+						{{ doc.title }}
+
+					{% else %}
+
+						<a href="{{ doc.url | prepend: site.baseurl }}">{{ doc.title }}</a>
+
+					{% endif %}
+
+					</li>
+
+				{% endif %}
+
+			{% endfor %}
+
+			<p class="doctitle">[Print PDF]</p>
 
 			</ol>
 

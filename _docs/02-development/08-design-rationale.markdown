@@ -1,11 +1,12 @@
 ---
 layout: doc
 title: Design Rationale
+section: dev
 ---
 
 See it full size in [[PDF](https://drive.google.com/open?id=0B-D7NHTmyc54REJPSDJ6WlliRlk)] or [[PNG](https://drive.google.com/open?id=0B-D7NHTmyc54Z2l6RW9iXy1VY2c)] format.
 
-![image alt text](image_1.png)
+[![Mind-map]({{site.baseurl}}/images/doc-mind-map.png)]({{site.baseurl}}/images/doc-mind-map.png)
 
 *Image 2 - Mind map to represent the Design Rationale of this project*
 

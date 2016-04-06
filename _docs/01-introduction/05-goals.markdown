@@ -1,6 +1,7 @@
 ---
 layout: doc
 title: Goals
+section: intro
 ---
 
 The main goal of this project is to help learners that do not know any or close to any Portuguese become novice-level Portuguese speakers (1) in a reduced amount of time. In addition to that, it is intended to prepare learners to make the most out of their opportunities to learn and practice (2) and to prepare them to use their skills in authentic situations (3).

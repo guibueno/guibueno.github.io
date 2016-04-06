@@ -1,6 +1,7 @@
 ---
 layout: doc
 title: Context / Settings
+section: intro
 ---
 
 Scott and Ghinea (2014) state that "maintaining an ongoing, reflexive, and self-regulated learning process is critical to the acquisition of expertise" (p. 169). They argue that engaging in **deliberate practice **is an important way to achieve those conditions in many areas, such as in computer programing, which they discuss in-depth. The authors also argue that:
