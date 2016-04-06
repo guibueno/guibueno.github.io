@@ -2,6 +2,12 @@
 layout: doc
 title: Context / Settings
 section: intro
+incomplete: yes
+problem: "it does not really cover what a 'content' section should address"
+workon:
+  - "Improve it based on feedback from commitee members"
+  - "Re-frame its narrative/outline"
+  - "Add substantial amount of research to it"
 ---
 
 Scott and Ghinea (2014) state that "maintaining an ongoing, reflexive, and self-regulated learning process is critical to the acquisition of expertise" (p. 169). They argue that engaging in **deliberate practice **is an important way to achieve those conditions in many areas, such as in computer programing, which they discuss in-depth. The authors also argue that:

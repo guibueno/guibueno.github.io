@@ -2,6 +2,12 @@
 layout: doc
 title: Goals
 section: intro
+incomplete: yes
+problem: "only the Speaking section, which needs to be expanded, is relevant to the 'Goals' section"
+workon:
+  - "Add a substantial amount of research"
+  - "Define better the goals based on the current prototypes"
+  - "Add a video of a recent Portuguese learner speaking a few sentences"
 ---
 
 The main goal of this project is to help learners that do not know any or close to any Portuguese become novice-level Portuguese speakers (1) in a reduced amount of time. In addition to that, it is intended to prepare learners to make the most out of their opportunities to learn and practice (2) and to prepare them to use their skills in authentic situations (3).

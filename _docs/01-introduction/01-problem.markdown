@@ -2,6 +2,13 @@
 layout: doc
 title: Problem
 section: intro
+incomplete: yes
+problem: "I wrote it a long time ago, and a lot of things have changed since then"
+workon:
+  - "cut out what does not make sense anymore"
+  - "make changes suggested by committee members"
+  - "re-organize its outline"
+  - "add more research into it"
 ---
 
 In the field of second and foreign language learning and/or acquisition, many fundamental questions remain open-ended. For example, in a long-standing debate known as the critical period hypothesis (Lightbown; Spada 2006, p. 93), linguists have not reached consensus if the capacity to learn languages is biologically linked to age or not. Even if not biologically linked to age, it is not clear why adult learners often find it harder to learn languages, why they learn them with accents, and why children (and polyglots) seem to learn languages much more easily.

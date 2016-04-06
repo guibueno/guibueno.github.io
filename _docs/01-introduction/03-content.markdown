@@ -2,6 +2,11 @@
 layout: doc
 title: Content
 section: intro
+incomplete: yes
+problem: "it does not show the specific content LanguageBug will cover"
+workon:
+  - "Re-frame it completely, giving focus to the language-related content"
+  - "List some of the metalinguistic principles I am also targetting"
 ---
 
 This project addresses an audience defined by a psychological profile. Learners with the outlined characteristics exist in different countries and may be willing to learn a diverse array of languages, for different reasons, with unique goals in mind. Customization is the main philosophy behind this approach to learning, therefore different cases should be considered at all times.

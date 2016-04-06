@@ -2,6 +2,13 @@
 layout: doc
 title: Target Learners
 section: intro
+incomplete: yes
+problem: "it lacks research citations and lacks specificity"
+workon:
+  - "Back-up with research the assumptions I am making"
+  - "Decide once for all who I'm targetting"
+  - "Fix problems found by committee members"
+  - "Stylize by adding images"
 ---
 
 Every language learner (and certainly every learner in general) could benefit from metacognition, growth mindset, and deliberate practice. However, this project specifically targets **adult learners**.

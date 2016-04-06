@@ -2,6 +2,12 @@
 layout: doc
 title: Design Rationale
 section: dev
+incomplete: yes
+problem: "it is very disorganized and completely out-of-sync with current prototypes"
+workon:
+  - "Explain platform choices and other design decisions"
+  - "Integrate design rationale and learning rationale"
+  - "Link it to prototype screenshots and to the logic model"
 ---
 
 See it full size in [[PDF](https://drive.google.com/open?id=0B-D7NHTmyc54REJPSDJ6WlliRlk)] or [[PNG](https://drive.google.com/open?id=0B-D7NHTmyc54Z2l6RW9iXy1VY2c)] format.

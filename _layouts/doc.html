@@ -10,6 +10,14 @@ sidebar: doc
 	  <h1 class="post-title">{{ page.title }}</h1>
 	</header>
 
+	{% if page.incomplete %}
+
+		<blockquote class="alertbox">
+		<p><span style="background: #FFFF00;">This section is a work in-progress!</span> Be advised that <strong>{{ page.problem }}</strong>. Specifically, I still need to: <strong><ol class="alertbullet"><li>{{ page.workon | join: "</li><li>"}}.</li></ol></strong>
+		</blockquote></p>
+
+	{% endif %}
+
     {{ content }}
 
   </div>

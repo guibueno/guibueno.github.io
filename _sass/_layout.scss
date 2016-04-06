@@ -392,3 +392,19 @@ img {
 img.noborder {
     border: 0;
 }
+/* 
+** Docs
+*/
+.alertbox {
+    border: 2px dotted $grey-color;
+    background: $grey-color-light;
+    padding: 10px;
+    padding-bottom: 0;
+    color: $text-color;
+    font-style: normal;
+    font-size: $small-font-size+2px;
+}
+.alertbullet {
+    /*display: inline;
+    list-style-type: none;*/
+}
