@@ -17,4 +17,4 @@ results:
 - If I remain focused on the design features, it’ll remain valid.
 ---
 
-![image alt text](2016-02-05-andreina_01.jpg)
+![Thought-process on the board](2016-02-02-andreina_01.jpg)

@@ -10,7 +10,7 @@ permalink: /logs/meetings/
       <a href="{{ meetings.url | prepend: site.baseurl }}">
         [{{ meetings.date | date: "%D" }}] {{ meetings.title }}
       </a><br>
-      <span class="log-meta">with {{ meetings.participants }}</span>
+      <span class="log-meta">with {{ meetings.participants  | join: ', ' }}</span>
     </p>
   {% endfor %}
 
