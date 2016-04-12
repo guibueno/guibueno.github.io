@@ -89,7 +89,11 @@ sidebar: no
 			    <a href="{{ page.title }}/self-efficacy-{{ item }}.png" target="_blank"><img src="{{ page.title }}/self-efficacy-{{ item }}.png" width="24%"></a>
 			{% endfor %}
 		</p>
-		<p class="legenda">{{ page.self-efficacy-legenda }}</p>
+		{% if page.self-efficacy-legenda %}
+
+			<p class="legenda">{{ page.self-efficacy-legenda }}</p>
+
+		{% endif %}
 	{% endif %}
 
     {% if page.self-efficacy-remarks %}
@@ -132,7 +136,11 @@ sidebar: no
 			    <a href="{{ page.title }}/audio-{{ item }}.png" target="_blank"><img src="{{ page.title }}/audio-{{ item }}.png" width="24%"></a>
 			{% endfor %}
 		</p>
-		<p class="legenda">{{ page.audio-legenda }}</p>
+		{% if page.audio-legenda %}
+			
+			<p class="legenda">{{ page.audio-legenda }}</p>
+
+		{% endif %}
 	{% endif %}
 
     {% if page.audio-remarks %}
@@ -174,7 +182,11 @@ sidebar: no
 			    <a href="{{ page.title }}/speech-{{ item }}.png" target="_blank"><img src="{{ page.title }}/speech-{{ item }}.png" width="24%"></a>
 			{% endfor %}
 		</p>
-		<p class="legenda">{{ page.speech-legenda }}</p>
+		{% if page.speech-legenda %}
+			
+			<p class="legenda">{{ page.speech-legenda }}</p>
+
+		{% endif %}
 	{% endif %}
 
     {% if page.speech-remarks %}
@@ -216,7 +228,11 @@ sidebar: no
 			    <a href="{{ page.title }}/keyboard-{{ item }}.png" target="_blank"><img src="{{ page.title }}/keyboard-{{ item }}.png" width="24%"></a>
 			{% endfor %}
 		</p>
-		<p class="legenda">{{ page.keyboard-legenda }}</p>
+		{% if page.keyboard-legenda %}
+
+			<p class="legenda">{{ page.keyboard-legenda }}</p>
+
+		{% endif %}
 	{% endif %}
 
     {% if page.keyboard-remarks %}

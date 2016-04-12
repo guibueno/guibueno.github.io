@@ -8,13 +8,14 @@ goals:
   - "Development section"
 nextclass: "(?)"
 todo: 
-  - "(04/06) Create 'Draft Alert' box"
-  - "(04/06) Thesis conversations with Nissa"
+  - "(04/06) Formalize Babbel Product Analyses"
   - "(04/12) Update Progress Board, Week12 log, Class Schedule"
 done:
   - "(04/06) Compile 'Individual Project Focus' meeting/feedback"
   - "(04/06) [LATE] Update Progress Board, Week11 log, Class Schedule"
   - "(04/06) Figure out what to do next."
   - "(04/06) Re-organized doc structure into sections"
+  - "(04/06) Create 'Draft Alert' box"
+  - "(04/06) Thesis conversations with Nissa"
 schedule: no
 ---
