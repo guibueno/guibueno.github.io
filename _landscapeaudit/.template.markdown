@@ -47,7 +47,7 @@ learning-remarks:
   - name: "Metaphor"
     balance: "+"
     text: ""
-  - name: "Metacotnigion"
+  - name: "Metacognition"
     balance: "+"
     text: ""
 

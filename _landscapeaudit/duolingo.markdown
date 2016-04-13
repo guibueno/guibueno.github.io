@@ -47,7 +47,7 @@ learning-remarks:
   - name: "Metaphor"
     balance: "+"
     text: "Duolingo compares language learning to the life and growth of a living animal."
-  - name: "Metacotnigion"
+  - name: "Metacognition"
     balance: "-"
     text: "Duolingo rarely/never attempts to teach/discuss best learning practices/strategies."
   - name: "Translation"

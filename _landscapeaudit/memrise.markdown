@@ -47,7 +47,7 @@ learning-remarks:
   - name: "Metaphor"
     balance: "+"
     text: "The growing plant is a clear and visual appealing metaphor for 'growing memories'."
-  - name: "Metacotnigion"
+  - name: "Metacognition"
     balance: "+"
     text: "'Words Learned' (short-term memory) and 'Words Mastered' (long-term memory)"
 
