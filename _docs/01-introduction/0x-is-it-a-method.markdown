@@ -13,7 +13,7 @@ In fact, Brown (2002, p. 10) has listed several reasons for teachers and researc
 * Methods are usually too prescriptive and overgeneralized,
 * Methods become indistinguishable as learners reach advanced levels.
 
-However, **LanguageBug** is not being designed to become a language learning method, but an approach. To fully understand what this claim means, we should look back on the designer methods.
+However, **LanguageBug** is not being designed to become a language learning method, but an approach. To better understand what this claim means, we should look back on the designer methods.
 
 ### Designer methods
 
@@ -54,7 +54,7 @@ TPR is notably limited in terms of what can be taught through it (Widodo, 2005, 
 
 Today, it has become rare to find an exclusive TPR classroom, where speaking, writing, and reading are not allowed. Still, some strategies and activities taken from the TPR method remain popular among teachers.
 
-### The end of the designer methods
+### The post-method Era
 
 Although the designer methods should be applauded “for their innovative flair”, we now acknowledge that they were “not the godsend that their inventors and marketers hoped they would be” (Brown, 2000, p. 25).
 
@@ -62,11 +62,13 @@ Just like in TPR's case, the other designer methods are now unpopular and consid
 
 Brown (2002) coined the expression **Post-Method Era** (p. 9) to refer to this moment, when practices that come from different, fundamentalist methods can be integrated into a single approach.
 
-### The post-method Era
+### Approaches
 
-In Brown's characterization (2000, p. 13), while in the 1970s language teaching consisted of many competing methods, it is "now more aptly characterized by a relatively unified, comprehensive ‘approach’".
+In Brown's characterization (2000, p. 13), while in the 1970s language teaching consisted of many competing methods, it is "now more aptly characterized by a relatively unified, comprehensive ‘**approach**’".
 
-Galante (2014) defines the Post-Method Era as a “shift from using methods in the purist sense to recognizing that the nature of language learning is complex and nonlinear” (p. 58).
+Galante (2014) defines this a “shift from using methods in the purist sense to recognizing that the nature of language learning is complex and nonlinear” (p. 58). 
+
+An approach, therefore, is a consistent body of knowledge (strategies, scientific findings, ...) that support a particular path to language teaching and learning. It does so without being neither restrictive, nor normative.
 
 *Image 1* summarizes this whole trajectory from the designer methods to the post-method era. It ends with the acknowledgement that "*there is no single right way to learn languages*"
 
