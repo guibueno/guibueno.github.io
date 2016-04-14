@@ -11,6 +11,11 @@ workon:
   - "Stylize by adding images"
 ---
 
+"negative or unrealistic beliefs can lead to decreased motivation, frustration and anxiety"
+Oh, M.T. (1996)
+Kern (1995)
+
+
 Every language learner (and certainly every learner in general) could benefit from metacognition, growth mindset, and deliberate practice. However, this project specifically targets **adult learners**.
 
 ### Self-motivated...

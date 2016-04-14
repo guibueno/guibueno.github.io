@@ -11,12 +11,6 @@ workon:
   - "add more research into it"
 ---
 
-In the field of second and foreign language learning and/or acquisition, many fundamental questions remain open-ended. For example, in a long-standing debate known as the critical period hypothesis (Lightbown; Spada 2006, p. 93), linguists have not reached consensus if the capacity to learn languages is biologically linked to age or not. Even if not biologically linked to age, it is not clear why adult learners often find it harder to learn languages, why they learn them with accents, and why children (and polyglots) seem to learn languages much more easily.
-
-In the pursuit of the language learning best practices, several foreign language teaching methods have come and gone over the past hundred years, some in total philosophical opposition to others (Brown, 2000, p. 16). But learning languages is often still perceived as being "harder than other subjects" and even “demotivating” (Ward, 2014). But why? What makes it so hard?
-
-From an instructional design standpoint, these questions represent an unsolved challenge: how might we make language learning more efficient and less frustrating? This work addresses this question through investigation, research, and, most importantly, testing. Presumably, there is a lot to learn from past attempts to improve the efficiency of language learning through Science.
-
 ### From the designer methods to the Post-Method Era
 
 [![Image 1 - Drill & Kill](/images/doc1-intro-methods.jpg)](/images/doc1-intro-methods.jpg)

@@ -2,14 +2,13 @@
 title: "Week 11"
 layout: week
 date: 2016-04-06 00:00:00 -0700
-permalink: /logs/
+permalink: /week11/
 goals:
   - "<a href='/indies/week9-projectwriting.html'>Marathon design doc writing</a>"
   - "Development section"
 nextclass: "(?)"
 todo: 
   - "(04/06) Formalize Babbel Product Analyses"
-  - "(04/12) Update Progress Board, Week12 log, Class Schedule"
 done:
   - "(04/06) Compile 'Individual Project Focus' meeting/feedback"
   - "(04/06) [LATE] Update Progress Board, Week11 log, Class Schedule"
@@ -17,5 +16,11 @@ done:
   - "(04/06) Re-organized doc structure into sections"
   - "(04/06) Create 'Draft Alert' box"
   - "(04/06) Thesis conversations with Nissa"
+  - "(04/07) [Got sick]! Stay home, resting and recovering"
+  - "(04/08) [Got sick]! Stay home, resting and recovering"
+  - "(04/09) [Got sick]! Stay home, resting and recovering"
+  - "(04/10) [Got sick]! Stay home, resting and recovering"
+  - "(04/11) [Got sick]! Stay home, resting and recovering"
+  - "(04/12) Blog Post: Final Steps"
 schedule: no
 ---

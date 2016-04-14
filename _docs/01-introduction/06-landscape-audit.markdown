@@ -5,11 +5,10 @@ section: intro
 incomplete: yes
 problem: "it has disorganized information from Milestones 1 and 2, mixed with recent product analyses"
 workon:
-  - "Add the analyses of Rosetta-Stone and Babbel"
   - "Add brief description of other categories of products"
 ---
 
-As described in the Introduction, the landscape of language learning tools and technologies is vast and diverse. This landscape audit only analyzes the **asynchronous** **language courses** category, which also consists of a large group of services. These services can be roughly divided into two groups: (1) traditional, famous and widely used courses and (2) recent, innovative, approaches.
+As described in the Introduction, the landscape of language learning tools/technologies is vast and diverse. This landscape audit only analyzes in-depth a few **language learning mobile applications**. This is also a broad category that includes a large group of services. These services can be roughly divided into two groups: (1) traditional, famous and widely used courses and (2) recent, innovative, approaches.
 
 ### Product Analyses
 

@@ -9,6 +9,8 @@ title: References
 
 ##### Awan, R., Azher, M., Anwar, M., & Naz, A. (2010). An investigation of foreign language classroom anxiety and its relationship with students’ achievement. Journal of College Teaching & Learning, 7, 33-40.
 
+##### Bernat, E., Gvozdenko, I. (2005). Beliefs about language learning: Current knowledge, pedagogical implications and new research directions. Retrieved from http://www.researchonline.mq.edu.au/vital/access/services/Download/mq:7446/SOURCE1
+
 ##### Brown, H. D. (2000) Teaching by principles. 2nd ed. Pearson ESL, NY: Prentice Hall.
 
 ##### Brown, H. D. (2002). English language teaching in the "post-method" era: Toward better diagnosis, treatment, and assessment. *Methodology in language teaching: An anthology of current practice*, 9-18.
@@ -33,6 +35,8 @@ title: References
 
 ##### Johnson, S. (2015, March 18). Learning a language in later life: Are you ever too old? The Guardian. Retrieved from [http://www.theguardian.com/education/2015/mar/18/](http://www.theguardian.com/education/2015/mar/18/learning-a-language-in-later-life-are-you-ever-too-old).
 
+##### Kern, R. G. (1995). Students' and teachers' beliefs about language learning. Foreign Language Annals, 28, 71-92.
+
 ##### Kinzie, M. B. (1990). Requirements and benefits of effective interactive instruction: Learner control, self-regulation, and continuing motivation. *Educational Technology Research and Development*, *38*(1), 5-21.
 
 ##### Lee, V. (Ed.). (2014). Introduction: Technology meets body, body meets technology. In, *Learning Technologies and the Body: Integration and Implementation in Formal and Informal Learning Environments*. New York: Routledge.
@@ -52,6 +56,8 @@ title: References
 ##### Nunan, D. (1989). *Understanding language classrooms: A guide for teacher-initiated action*. Hemel Hempstead: Prentice Hall.
 
 ##### Oberg, A., & Daniels, P. (2013). Analysis of the effect a student-centred mobile learning instructional method has on language acquisition. *Computer Assisted Language Learning*, *26*(2), 177-196.
+
+##### Oh, M.T. (1996). Beliefs about language learning and foreign language anxiety: A study of American university students learning Japanese. Dissertation Abstracts International, 57 (9), 3858A. (UMI No.9705927).
 
 ##### Samuel, A. G., & Larraza, S. (2015). Does listening to non-native speech impair speech perception?. *Journal of Memory and Language*, *81*, 51-71.
 
