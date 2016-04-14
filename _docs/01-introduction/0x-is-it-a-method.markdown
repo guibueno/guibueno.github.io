@@ -7,7 +7,7 @@ incomplete: no
 
 When discussing how to make language learning more efficient, the word "**method**" immetiately comes to mind. But in language learning, methods have mostly been characterized by a strict purism that is now outdated.
 
-In fact, Brown (2002, p. 10) has listed several reasons for academics and researchers to give up with an "obsession" with language learning methods. This list includes the following items:
+In fact, Brown (2002, p. 10) has listed several reasons for teachers and researchers to give up with an "obsession" with language learning methods. This list includes the following items:
 
 * It is hard to empirically test, verify, and validate language pedagogy,
 * Methods are usually too prescriptive and overgeneralized,

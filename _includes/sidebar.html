@@ -4,15 +4,39 @@
 
 			<ol class="sidebar-menu">
 
-			<p class="doctitle">Abstract</p>
+			<!--<p class="doctitle"><a href="/docs/prologue.html">Prologue</a></p>-->
 			
-			<p class="doctitle"><a href="/docs/introduction.html">Introduction</a></p>
+			<!--<p class="doctitle"><a href="/docs/introduction.html">What is it?</a></p>-->
+
+			<p class="doctitle">Problem description</p>
+
+			{% for doc in site.docs %}
+
+				{% if doc.section == "intro" %}
+
+					<li>
+
+					{% if doc.hide %}
+
+						{{ doc.title }}
+
+					{% else %}
+
+						<a href="{{ doc.url | prepend: site.baseurl }}">{{ doc.title }}</a>
+
+					{% endif %}
+
+					</li>
+
+				{% endif %}
+
+			{% endfor %}
 
 			<p class="doctitle">Needs</p>
 
 			{% for doc in site.docs %}
 
-				{% if doc.section == "intro" %}
+				{% if doc.section == "needs" %}
 
 					<li>
 
