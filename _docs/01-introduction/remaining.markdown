@@ -1,43 +1,10 @@
 ---
 layout: doc
-title: Problem
+title: Is it a method?
 section: intro
-incomplete: yes
-problem: "I wrote it a long time ago, and a lot of things have changed since then"
-workon:
-  - "cut out what does not make sense anymore"
-  - "make changes suggested by committee members"
-  - "re-organize its outline"
-  - "add more research into it"
+incomplete: no
 ---
 
-### From the designer methods to the Post-Method Era
-
-[![Image 1 - Drill & Kill](/images/doc1-intro-methods.jpg)](/images/doc1-intro-methods.jpg)
-_Image 1 - Methods & The Post-Method Era_
-{: style="text-align: center"}
-
-In the 1970s, "in a burst of innovation" (Brown, 2000, p. 10), several language teaching learning methods were created. Nunan (1989) calls these the “designer” methods: Community Language Learning, the Silent Way, Suggestopedia, Total Physical Response, and others.
-
-Brown (2000) states that such "designer" methods should be applauded “for their innovative flair”, but acknowledges that they were “not the godsend that their inventors and marketers hoped they would be” (p. 25) (Image 1). Brown (2002, p. 10) also lists reasons to give up this obsession with methods:
-
-* It is hard to empirically test, verify, and validate language pedagogy
-
-* Methods are usually too prescriptive and overgeneralized
-
-* Methods become indistinguishable as learners progress to advanced levels. 
-
-Dr. Asher (1969), psychologist at San José State University, created the Total Physical Response (TPR) method, one particularly unconventional "designer" method example. It began when Asher observed that children, “in learning their first language appear to do a lot of listening before they speak” and that “their listening is accompanied by physical responses” (Brown, 2000, p. 30). 
-
-As a result, the TPR method proposes that teachers should do nothing more than giving students commands in the target language (*"Sit down!") *and let the students react to these commands physically (*students sit down*).
-
-Students often find this method fun, especially due to the physical engagement in class activities. TPR may also be good case study for embodied cognition researchers (Lee, 2014). The complete absence of speaking, writing, and reading in a typical TPR class makes this method unique and fascinating to language learning researchers.
-
-On the other hand, TPR is very limited in terms of what can be taught (Widodo, 2005, p. 240). For example, there is obviously not one body movement associated with every word or phrase in any language. Would it be possible to teach the word "socialism" using TPR? Probably not. 
-
-Still, some strategies and activities taken from the TPR method remain popular among teachers for being "especially effective in the beginning levels" (Brown, 2000, p. 30). And just like in TPR’s ase, each of the “designer” methods has left its own legacy of findings and achievements. 
-
-But while in the 1970s language teaching consisted of many competing methods, it is "now more aptly characterized by a relatively unified, comprehensive ‘approach’" (Brown, 2000, p. 13). Brown (2002) coined the expression “Post-Method” era (p. 9) to refer to this movement, which Galante (2014) defines as a “shift from using methods in the purist sense to recognizing that the nature of language learning is complex and nonlinear” (p. 58). 
 
 ### Language learning technologies from the past
 
