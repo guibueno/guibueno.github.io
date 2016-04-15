@@ -1,14 +1,3 @@
----
-layout: doc
-title: Challenges
-section: intro
-incomplete: no
----
-
-### Customized, deliberate practice
-
-Now that most language learners have access to a huge amount of distributed language learning services, the challenge is help them integrate such tools into their own experiences. Instead of a new language learning platform, this project offers guidance in how to use the available services in a reflected and self-regulated way to foster expertise (Scott & Ghinea, 2014, p. 169).
-
 Motivation is one of the keywords in self-regulated learning and the best way naturally increase motivation is through efficacy. When learners see that their investments of time and effort result in concrete improvement, they are likely to become more motivated. According to the psychologist Heidi Halvorson (2010), motivation directly reflects the quality of the expected success:
 
 people are motivated to do anything as a function of (1) how likely they are to be successful and (2) how much they think they will benefit from it. And of course the more motivated you are, the more likely you are to reach your goal. (p. 23)

@@ -1,6 +1,6 @@
 ---
 layout: doc
-title: Informed decisions
+title: Decision
 section: intro
 incomplete: no
 ---

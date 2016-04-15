@@ -49,7 +49,7 @@ Almost two decades after the publication of "*Computers and language learning: A
 
 > "students learn to use a variety of technological tools as an ongoing process of language learning and use, rather than visiting the computer lab on a once a week basis for isolated exercises" (p. 11). 
 
-On the other hand, it was not clear to them what to expect from such variety of technological tools . Also, new academic terms were created to better describe the current context. 
+On the other hand, it was not clear to them what to expect from such variety of technological tools. Also, new academic terms were created to better describe the current context. 
 
 ### New terminology
 

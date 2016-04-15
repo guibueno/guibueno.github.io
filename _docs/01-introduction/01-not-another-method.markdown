@@ -1,6 +1,6 @@
 ---
 layout: doc
-title: Not another method
+title: "Method?"
 section: intro
 incomplete: no
 ---
