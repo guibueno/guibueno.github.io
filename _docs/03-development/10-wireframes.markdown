@@ -4,98 +4,69 @@ layout: doc
 section: dev
 incomplete: no
 ---
+
+In this section, a preview of the basic screens of the language learning app is displayed and explained. 
+
+### 1. Dashboard
+
+Quick and easy access to the learning features of the app: exercises, principles and learning performance.
+
 ![Main](/images/wireframe/image03.png)
-{: class="wireframe" style="text-align: center"}
+{: style="text-align: center" class="wireframe"}
 
-Image 1 represents the Home screen, the one the user will be directed to after logging in LanguageBug. It is a quick and easy access of the most important features of the app (exercises, principles and user performance). On the top right of the screen there will be a menu icon, which opens the Side Menu (Image 2)
+**Avatar**: an abstract bug that grows with app usage. It creates the idea the learner is cultivating his/her "language bug".
 
-### Avatar
+**Let’s practice**: lists available exercises. Users can swipe right to see more options tap on an option to access the correspondent exercise.
 
-An abstract bug that grows as the person gets more and more motivated to use the app, creating the idea the user is cultivating his language bug. Next to it, there is a welcoming text.
+**Principles**: lists available principles according to exercises requirements. Getting familiar with new principles unlock exercises.
 
-### Let’s practice
+**Your Performance**: lists the most recent self-assessment proficiency videos, previously recorded by the learner.
 
-The exercises shown in this section are selected by LanguageBug as suggestions to the user, based on his/her preferences and use. The person can swipe to the right to see more exercises and can click on Let’s Practice to go to the Exercises page (Image 3).
+* * *
 
-### Principles
+### 2. Main Menu
 
-These principles are selected accordingly to the selected exercises needs. They can either be new or familiar: getting familiar with new principles unlock exercises, and revisiting principles can help the user learning process. The person can swipe right to see more principles and can click on Principles to go to Principles page (Image 5).
-
-### Your Performance
-
-The performance consists of proficiency videos made by the user, in this screen it is shown the last ones. LanguageBug suggests to record new videos in a certain period of time and usage, but the person is free to create new ones whenever they feel like. Under the videos there is a quick link (record yourself) that takes the user to the Record Yourself Speaking screen (Image 12), where it is possible to record a new video. The user can either swipe right to see more videos or click on Your Performance to go to the Performance page (Image 11).
+Main/side menu can be accessed at anytime (top left icon, or swipe left-to-right) and gives access to all pages of the app.
 
 ![Side Menu](/images/wireframe/image00.png)
-{: class="wireframe" style="text-align: center"}
+{: style="text-align: center" class="wireframe"}
 
-Image 2 represents the side menu that can be accessed at almost all pages, by just clicking on the icon on the top left.
-
-### Home
-
-Redirects the user to the Home screen (image 1)
-
-### Principles
-
-Redirects the user to the Principles screen (image 5)
-
-### Exercises
-
-Redirects the user to the Exercises screen (image 3)
-
-### Performance
-
-Redirects the user to the Performance screen (image 11)
-
-### Settings
-
-Redirects the user to a Settings screen, where the user can edit his/her preferences and account.
-
-### Contact Us
-
-Redirects the user to a Contact Us screen, where the user can manifest any concerns or thoughts he/she has with us.
-
-### Log Out
-
-Log the user out of LanguageBug, taking him/her to a Log In screen.
-
-
+**Settings:** learners can edit their preferences and account information.
 
 * * *
 
+### 3. Exercises
 
+It is a list with all the exercises LanguageBug offers, with the exercise name, a brief description, and an indication whether each exercise is locked/unlocked (based on the principles the user had already acquired).
 
 ![Exercises](/images/wireframe/image06.png)
-{: class="wireframe" style="text-align: center"}
+{: style="text-align: center" class="wireframe"}
 
-
-Image 3 represents the Exercises page.
-
-It is a list with all the exercises LanguageBug offers, with the exercise name, a brief description, and an indication whether the exercise is either locked or unlocked (based on the principles the user had already seen).
-
-Selecting an exercise will redirect the user to the chosen exercise page (Image 4).
+Selecting an exercise takes the learner to the exercise page.
 
 * * *
 
+### 4. {Exercise Name}
 
+It contains the exercise name and a brief description of what it should accomplish.
 
 ![Exercise 1](/images/wireframe/image08.png)
-{: class="wireframe" style="text-align: center"}
+{: style="text-align: center" class="wireframe"}
 
+**{time to complete the exercise}**: estimted practice duration.
 
-Image 4 represents an exercise page. It contains the exercise name and a brief description of what will be learned.
+**{exercise locked or unlocked}**: if locked, it indicates which principles the user has to acquire to unlock this exercise.
 
-There is an indication about approximately how much time it will take to complete the exercise, followed by an indication of the principles the user has to see prior to do the exercise, hence locked or unlocked.
+**Swipe left/right**: take user to other exercises.
 
-The button Let’s practice! initiates the exercise.
-
-The user can also swipe right or left to switch exercises.
+**Let’s practice!**: begins the exercise practice.
 
 * * *
 
 
 
 ![Principles](/images/wireframe/image07.png)
-{: class="wireframe" style="text-align: center"}
+{: style="text-align: center" class="wireframe"}
 
 
 Image 5 represents the Principles page.
@@ -109,7 +80,7 @@ Selecting a principle will redirect the person to the chosen principle page (Ima
 
 
 ![Principle 1](/images/wireframe/image01.png)
-{: class="wireframe" style="text-align: center"}
+{: style="text-align: center" class="wireframe"}
 
 
 Image 6 represents a principle page. It contains the principle name and a brief description of what is its foundation.
@@ -123,7 +94,7 @@ The link under the button, Wait… Why is that? redirects the user to an Explana
 
 
 ![Principle1-1](/images/wireframe/image04.png)
-{: class="wireframe" style="text-align: center"}
+{: style="text-align: center" class="wireframe"}
 
 
 Image 7 represents a principle explanation.
@@ -137,24 +108,24 @@ There will be a pause icon on the top right of the screen, pausing the principle
 
 
 ![Paused](/images/wireframe/image10.png)
-{: class="wireframe" style="text-align: center"}
+{: style="text-align: center" class="wireframe"}
 
 
 Image 8 represents the Paused screen. It appears when the user pauses a principle or exercise.
 
-### Resume
+#### Resume
 
 Resumes the activity.
 
-### Restart
+#### Restart
 
 Restarts the activity.
 
-### Home
+#### Home
 
 Redirects the user to the Home screen (image 1)
 
-### Why am I doing this?
+#### Why am I doing this?
 
 Redirects the user to the Explanation screen (image 10)
 
@@ -163,7 +134,7 @@ Redirects the user to the Explanation screen (image 10)
 
 
 ![Great](/images/wireframe/image02.png)
-{: class="wireframe" style="text-align: center"}
+{: style="text-align: center" class="wireframe"}
 
 
 Image 9 represents the end of a principle.
@@ -177,7 +148,7 @@ It has a motivational heading and brief conclusion, followed by a button that re
 
 
 ![Brief Explanation](/images/wireframe/image09.png)
-{: class="wireframe" style="text-align: center"}
+{: style="text-align: center" class="wireframe"}
 
 
 Image 10 represents a Brief Explanation screen.
@@ -191,16 +162,16 @@ After reading it, the user can choose to start the principle explanation (Image 
 
 
 ![Your Performance](/images/wireframe/image11.png)
-{: class="wireframe" style="text-align: center"}
+{: style="text-align: center" class="wireframe"}
 
 
 Image 11 represents the user Performance page.
 
-### Record Yourself
+#### Record Yourself
 
 A quick link that takes the user to the Record Yourself Speaking screen (Image 12), where a new video can be recorded.
 
-### Videos
+#### Videos
 
 Videos recorded by the user are divided in sections accordingly to its subject. Inside each section they are organized chronologically.
 
@@ -209,7 +180,7 @@ Videos recorded by the user are divided in sections accordingly to its subject. 
 
 
 ![Record Yourself](/images/wireframe/image05.png)
-{: class="wireframe" style="text-align: center"}
+{: style="text-align: center" class="wireframe"}
 
 
 Image 12 represents the screen where the user can record a new proficiency video.
@@ -218,3 +189,8 @@ There is a brief description about what to speak about, so that the video can be
 
 This page is connected with the phone’s camera, making it easy to record a new video.
 
+
+
+# Trash bin
+
+in this screen it is shown the last ones. LanguageBug suggests to record new videos in a certain period of time and usage, but the person is free to create new ones whenever they feel like. Under the videos there is a quick link (record yourself) that takes the user to the Record Yourself Speaking screen (Image 12), where it is possible to record a new video. The user can either swipe right to see more videos or click on Your Performance to go to the Performance page (Image 11).
