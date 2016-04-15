@@ -37,25 +37,25 @@ Main/side menu can be accessed at anytime (top left icon, or swipe left-to-right
 
 ### 3. Exercises
 
-It is a list with all the exercises LanguageBug offers, with the exercise name, a brief description, and an indication whether each exercise is locked/unlocked (based on the principles the user had already acquired).
+It is a list with all the exercises **LanguageBug** offers, with the exercise name, a brief description, and an indication whether each exercise is locked/unlocked (based on the principles the user had already earned).
 
 ![Exercises](/images/wireframe/image06.png)
 {: style="text-align: center" class="wireframe"}
 
-Selecting an exercise takes the learner to the exercise page.
+Selecting an exercise takes the learner to the specific exercise page.
 
 * * *
 
 ### 4. {Exercise Name}
 
-It contains the exercise name and a brief description of what it should accomplish.
+Contains a brief description of what this exercise should accomplish.
 
 ![Exercise 1](/images/wireframe/image08.png)
 {: style="text-align: center" class="wireframe"}
 
 **{time to complete the exercise}**: estimted practice duration.
 
-**{exercise locked or unlocked}**: if locked, it indicates which principles the user has to acquire to unlock this exercise.
+**{exercise locked or unlocked}**: if locked, it indicates which principles the user has to earn to unlock this exercise.
 
 **Swipe left/right**: take user to other exercises.
 
@@ -63,45 +63,38 @@ It contains the exercise name and a brief description of what it should accompli
 
 * * *
 
+### 5. Principles
 
+It is a list with all the principles **LanguageBug** offers, with the principle name, a brief description, and an indication whether the principle has already been earned by the user.
 
 ![Principles](/images/wireframe/image07.png)
 {: style="text-align: center" class="wireframe"}
 
-
-Image 5 represents the Principles page.
-
-It is a list with all the principles LanguageBug offers, with the principle name, a brief description, and an indication whether the principle has already been seen by the user.
-
-Selecting a principle will redirect the person to the chosen principle page (Image 6).
+Selecting an exercise takes the learner to the specific principle page.
 
 * * *
 
+### 6. {Principle name}
 
+Contains a brief description of what this principle should accomplish.
 
 ![Principle 1](/images/wireframe/image01.png)
 {: style="text-align: center" class="wireframe"}
 
+**Let’s practice!**: begins the principle training.
 
-Image 6 represents a principle page. It contains the principle name and a brief description of what is its foundation.
-
-The button Yes, let’s do it! begins to present the principle (Image 7).
-
-The link under the button, Wait… Why is that? redirects the user to an Explanation page (Image 10), where he/she can better understand why this principle is important in the learning process.
+**Wait... Why is that?**: takes learner to the explanation page, where he/she can better understand why this principle is crucial to his/her learning process.
 
 * * *
 
+### 6. Principle Training
 
+Scaffolds the learner to understand and act based on the principle. Displays instructions in English and may include sentences/words in other languages, as part of the training.
 
 ![Principle1-1](/images/wireframe/image04.png)
 {: style="text-align: center" class="wireframe"}
 
-
-Image 7 represents a principle explanation.
-
-It consists of a phrase in English with dynamic instructions about how to act and engage with the exercises.
-
-There will be a pause icon on the top right of the screen, pausing the principle and opening the Paused screen (Image 8)
+**Tap to Pause**: pauses the training and takes learner to paused screen.
 
 * * *
 
@@ -193,4 +186,4 @@ This page is connected with the phone’s camera, making it easy to record a new
 
 # Trash bin
 
-in this screen it is shown the last ones. LanguageBug suggests to record new videos in a certain period of time and usage, but the person is free to create new ones whenever they feel like. Under the videos there is a quick link (record yourself) that takes the user to the Record Yourself Speaking screen (Image 12), where it is possible to record a new video. The user can either swipe right to see more videos or click on Your Performance to go to the Performance page (Image 11).
+in this screen it is shown the last ones. **LanguageBug** suggests to record new videos in a certain period of time and usage, but the person is free to create new ones whenever they feel like. Under the videos there is a quick link (record yourself) that takes the user to the Record Yourself Speaking screen (Image 12), where it is possible to record a new video. The user can either swipe right to see more videos or click on Your Performance to go to the Performance page (Image 11).
