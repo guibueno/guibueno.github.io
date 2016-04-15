@@ -7,7 +7,7 @@ incomplete: no
 
 If your target language is widely spoken, it is likely that you will **not** have any problems finding learning resources on the Internet. Still, learning this language may oftentimes be challenging and even demotivating.
 
-Why? In other words, what is missing? How to fill in this gap? In order to answer these questions, we should first try to understand the broad landscape of resources that are currently available.
+Why? What is missing? How to fill in this gap? In order to answer these questions, we should first try to understand the broad landscape of resources that are currently available.
 
 Let's begin by distinguishing these services and materials between two categories: **authentic resources** and **language-based resources**.
 
@@ -87,3 +87,31 @@ Language-based resources for language learners are extremely abundant on the Int
 Due to many overlaps, such categories may look slightly arbitraty. For example, some blogs may also have YouTube channels, just like some products may offer more than one service. 
 
 In addition to that, this list is not exhaustive, that is, besides the few examples within parenthesis, it is likely that many other products could be added to almost all categories.
+
+### ... so what?
+
+After analyzing such an overwhelming availability of language-related resources, we should ask: how is all this information being used? When does one begin to actually learn a language? 
+
+These questions are usually taken for granted and, as a result, language learners may face challenges and/or dillemas without any assistance.
+
+#### Choosing among resources
+
+*Image 1* illustrates the challenge of choosing one path among a sea of resources. As information gets more prominent and distributed, it becomes harder for individuals to make an **informed decision**.
+
+[![Image 1 - So many tools out there!](/images/doc-somanytools.jpg)](/images/doc-somanytools.jpg)
+_Image 1 - So many tools out there!_
+{: style="text-align: center"}
+
+#### Using the chosen resources
+
+Most of the listed services and resources are filled with information on languages, but do not offer clear instructions on how to build up language sills from that information.
+
+Even the majority of language courses does not deliberately explain how to use the content they provide (see: <a href="/docs/02-needs/06-landscape-audit.html">Landscape Audit)</a>.
+
+As a consequence, learners become responsible for structuring their own training or **practice time**, based on the language learning strategies they know and on the beliefs they hold.
+
+### Synthesis
+
+This section has indicated that language learners who are relying on online resources need to constantly make **informed decisions** on how to structure and spend their **practice time** to learn languages.
+
+Even though the amount and diversity of language learning resources on the Internet is vast, users are usually left alone to make these important decisions without any official assistance.

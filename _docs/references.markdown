@@ -11,9 +11,13 @@ title: References
 
 ##### Bernat, E., Gvozdenko, I. (2005). Beliefs about language learning: Current knowledge, pedagogical implications and new research directions. Retrieved from http://www.researchonline.mq.edu.au/vital/access/services/Download/mq:7446/SOURCE1
 
+##### Bourgerie, D. S. (2003). Computer aided language learning for Chinese: A survey and annotated bibliography. *Journal of the Chinese Language Teachers Association*, 38(2), 17-47.
+
 ##### Brown, H. D. (2000) Teaching by principles. 2nd ed. Pearson ESL, NY: Prentice Hall.
 
 ##### Brown, H. D. (2002). English language teaching in the "post-method" era: Toward better diagnosis, treatment, and assessment. *Methodology in language teaching: An anthology of current practice*, 9-18.
+
+##### Chinnery, G. M. (2006). Emerging technologies. Going to the mall: mobile assisted language learning. *Language learning & technology*, 10(1), 9-16.
 
 ##### Diener, C. I., & Dweck, C. S. (1980). An analysis of learned helplessness: II. The processing of success. *Journal of personality and social psychology*,*39*(5), 940.
 
