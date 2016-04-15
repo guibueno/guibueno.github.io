@@ -1,5 +1,5 @@
 ---
-title: Storyboards
+title: Storyboard
 layout: doc
 section: dev
 incomplete: no

@@ -10,6 +10,8 @@ workon:
   - "Link it to prototype screenshots and to the logic model"
 ---
 
+in this screen it is shown the last ones. **LanguageBug** suggests to record new videos in a certain period of time and usage, but the person is free to create new ones whenever they feel like. Under the videos there is a quick link (record yourself) that takes the user to the Record Yourself Speaking screen (Image 12), where it is possible to record a new video. The user can either swipe right to see more videos or click on Your Performance to go to the Performance page (Image 11).
+
 See it full size in [[PDF](https://drive.google.com/open?id=0B-D7NHTmyc54REJPSDJ6WlliRlk)] or [[PNG](https://drive.google.com/open?id=0B-D7NHTmyc54Z2l6RW9iXy1VY2c)] format.
 
 [![Mind-map]({{site.baseurl}}/images/doc-mind-map.png)]({{site.baseurl}}/images/doc-mind-map.png)

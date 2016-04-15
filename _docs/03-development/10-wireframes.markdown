@@ -20,7 +20,7 @@ Quick and easy access to the learning features of the app: exercises, principles
 
 **Principles**: lists available principles according to exercises requirements. Getting familiar with new principles unlock exercises.
 
-**Your Performance**: lists the most recent self-assessment proficiency videos, previously recorded by the learner.
+**Your Performance**: lists the most recent self-assessment speaking proficiency videos, previously recorded by the learner.
 
 * * *
 
@@ -98,92 +98,63 @@ Scaffolds the learner to understand and act based on the principle. Displays ins
 
 * * *
 
+### 7. Paused
 
+Appears when the leaner pauses a principle/exercise and displays options.
 
 ![Paused](/images/wireframe/image10.png)
 {: style="text-align: center" class="wireframe"}
 
+**Resume**: resumes the principle/exercise practice.
 
-Image 8 represents the Paused screen. It appears when the user pauses a principle or exercise.
+**Restart**: restarts the activity/exercise practice.
 
-#### Resume
+**Home**: takes learner to Dashboard screen.
 
-Resumes the activity.
-
-#### Restart
-
-Restarts the activity.
-
-#### Home
-
-Redirects the user to the Home screen (image 1)
-
-#### Why am I doing this?
-
-Redirects the user to the Explanation screen (image 10)
+**Why am I doing this?**: takes user to Explanation screen.
 
 * * *
 
+### 8. Principle done!
 
+Final screen after learner completes principle training.
 
 ![Great](/images/wireframe/image02.png)
 {: style="text-align: center" class="wireframe"}
 
-
-Image 9 represents the end of a principle.
-
-It has a motivational heading and brief conclusion, followed by a button that redirects the user to an exercise that uses this principle.
-
-
+**"Now let's practice"**: takes learner to the practice of an exercise that was just unlocked by this principle.
 
 * * *
 
+### 9. Brief Explanation
 
+Explains using colloquial words the reasons why it may be important for the learner to follow a certain principle.
 
 ![Brief Explanation](/images/wireframe/image09.png)
 {: style="text-align: center" class="wireframe"}
 
+**Now I get it. Let’s start!**: takes learner to principle practice.
 
-Image 10 represents a Brief Explanation screen.
-
-It has a brief explanation about why it is important to follow a certain principle.
-
-After reading it, the user can choose to start the principle explanation (Image 7) by clicking on the button Now I get it. Let’s start! or to read more about the principle, clicking on Interesting. I want to learn more.
+**Interesting. I want to learn more**: takes learner to a principle documentation page, which includes further details, explanations, and even scientific references that support the use of that principle.
 
 * * *
 
-
+### 10. Performance
 
 ![Your Performance](/images/wireframe/image11.png)
 {: style="text-align: center" class="wireframe"}
 
+**Record Yourself**: takes learner to Recording screen, where a new self-assessment speaking proficiency video can be recorded.
 
-Image 11 represents the user Performance page.
-
-#### Record Yourself
-
-A quick link that takes the user to the Record Yourself Speaking screen (Image 12), where a new video can be recorded.
-
-#### Videos
-
-Videos recorded by the user are divided in sections accordingly to its subject. Inside each section they are organized chronologically.
+**Videos**: displays all self-assessment videos previously recorded by the learner, divided in sections according to the exercise practice.
 
 * * *
 
+### 11. Record Yourself
 
+Where the learner can record new self-assessment speaking proficiency videos.
 
 ![Record Yourself](/images/wireframe/image05.png)
 {: style="text-align: center" class="wireframe"}
 
-
-Image 12 represents the screen where the user can record a new proficiency video.
-
-There is a brief description about what to speak about, so that the video can be organized into sections and the user can keep track of his improvement and fluency.
-
-This page is connected with the phone’s camera, making it easy to record a new video.
-
-
-
-# Trash bin
-
-in this screen it is shown the last ones. **LanguageBug** suggests to record new videos in a certain period of time and usage, but the person is free to create new ones whenever they feel like. Under the videos there is a quick link (record yourself) that takes the user to the Record Yourself Speaking screen (Image 12), where it is possible to record a new video. The user can either swipe right to see more videos or click on Your Performance to go to the Performance page (Image 11).
+**Instructions**: describe what the learner should talk about, according to the choice of exercise practice.
