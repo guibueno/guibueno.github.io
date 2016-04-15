@@ -16,9 +16,9 @@ Quick and easy access to the learning features of the app: exercises, principles
 
 **Avatar**: an abstract bug that grows with app usage. It creates the idea the learner is cultivating his/her "language bug".
 
-**Let’s practice**: lists available exercises. Users can swipe right to see more options tap on an option to access the correspondent exercise.
+**Let’s practice**: lists available exercises. Users can swipe right to see more options or tap on an option to access the correspondent exercise (4).
 
-**Principles**: lists available principles according to exercises requirements. Getting familiar with new principles unlock exercises.
+**Principles**: lists available principles according to exercises requirements. Earning new principles is what unlocks new exercises.
 
 **Your Performance**: lists the most recent self-assessment speaking proficiency videos, previously recorded by the learner.
 
@@ -42,7 +42,7 @@ It is a list with all the exercises **LanguageBug** offers, with the exercise na
 ![Exercises](/images/wireframe/image06.png)
 {: style="text-align: center" class="wireframe"}
 
-Selecting an exercise takes the learner to the specific exercise page.
+Selecting an exercise takes the learner to the specific exercise page (4).
 
 * * *
 
@@ -70,7 +70,7 @@ It is a list with all the principles **LanguageBug** offers, with the principle 
 ![Principles](/images/wireframe/image07.png)
 {: style="text-align: center" class="wireframe"}
 
-Selecting an exercise takes the learner to the specific principle page.
+Selecting an principle takes the learner to the specific principle page (6).
 
 * * *
 
@@ -81,24 +81,24 @@ Contains a brief description of what this principle should accomplish.
 ![Principle 1](/images/wireframe/image01.png)
 {: style="text-align: center" class="wireframe"}
 
-**Let’s practice!**: begins the principle training.
+**Let’s practice!**: begins the principle training (7).
 
-**Wait... Why is that?**: takes learner to the explanation page, where he/she can better understand why this principle is crucial to his/her learning process.
+**Wait... Why is that?**: takes learner to the brief explanation page (10), where he/she can better understand why this principle is crucial to his/her learning process.
 
 * * *
 
-### 6. Principle Training
+### 7. Principle Training
 
 Scaffolds the learner to understand and act based on the principle. Displays instructions in English and may include sentences/words in other languages, as part of the training.
 
 ![Principle1-1](/images/wireframe/image04.png)
 {: style="text-align: center" class="wireframe"}
 
-**Tap to Pause**: pauses the training and takes learner to paused screen.
+**Tap to Pause**: pauses the training and takes learner to paused screen (8).
 
 * * *
 
-### 7. Paused
+### 8. Paused
 
 Appears when the leaner pauses a principle/exercise and displays options.
 
@@ -109,48 +109,48 @@ Appears when the leaner pauses a principle/exercise and displays options.
 
 **Restart**: restarts the activity/exercise practice.
 
-**Home**: takes learner to Dashboard screen.
+**Home**: takes learner to Dashboard screen (1).
 
-**Why am I doing this?**: takes user to Explanation screen.
+**Why am I doing this?**: takes user to Explanation screen (10).
 
 * * *
 
-### 8. Principle done!
+### 9. Principle done!
 
 Final screen after learner completes principle training.
 
 ![Great](/images/wireframe/image02.png)
 {: style="text-align: center" class="wireframe"}
 
-**"Now let's practice"**: takes learner to the practice of an exercise that was just unlocked by this principle.
+**"Now let's practice"**: takes learner to the practice of an exercise that was just unlocked by this principle (4).
 
 * * *
 
-### 9. Brief Explanation
+### 10. Brief Explanation
 
 Explains using colloquial words the reasons why it may be important for the learner to follow a certain principle.
 
 ![Brief Explanation](/images/wireframe/image09.png)
 {: style="text-align: center" class="wireframe"}
 
-**Now I get it. Let’s start!**: takes learner to principle practice.
+**Now I get it. Let’s start!**: takes learner to principle practice (6).
 
 **Interesting. I want to learn more**: takes learner to a principle documentation page, which includes further details, explanations, and even scientific references that support the use of that principle.
 
 * * *
 
-### 10. Performance
+### 11. Performance
 
 ![Your Performance](/images/wireframe/image11.png)
 {: style="text-align: center" class="wireframe"}
 
-**Record Yourself**: takes learner to Recording screen, where a new self-assessment speaking proficiency video can be recorded.
+**Record Yourself**: takes learner to Recording screen (12), where a new self-assessment speaking proficiency video can be recorded.
 
 **Videos**: displays all self-assessment videos previously recorded by the learner, divided in sections according to the exercise practice.
 
 * * *
 
-### 11. Record Yourself
+### 13. Record Yourself
 
 Where the learner can record new self-assessment speaking proficiency videos.
 
