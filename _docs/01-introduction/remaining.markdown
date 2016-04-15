@@ -1,6 +1,6 @@
 ---
 layout: doc
-title: Is it a method?
+title: REMAINING
 section: intro
 incomplete: no
 ---
