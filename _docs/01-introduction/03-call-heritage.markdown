@@ -27,11 +27,11 @@ _Image 2 - Drill & Kill_
 
 #### 2. Communicative CALL (late 1970s)
 
-This period is marked by the rejection, at the theoretical and pedagogical levels, of purely behaviouristic approaches to language learning.
+This period is marked by the rejection of a pure behaviourism. Rather than just drill exercises, computers would also offer stimuli to authentic communication, such as discussion prompts.
 
 > "Proponents of communicative CALL stressed that computer-based activities should focus more on using forms than on the forms themselves, teach grammar implicitly rather than explicitly, allow and encourage students to generate original utterances rather than just manipulate prefabricated language" (Warschauer & Healey, 1998, p. 57)
 
-Rather than mechanical tutors, computers were then viewed as sources of stimuli. Softwares would begin to experiment with elementary forms of interaction with learners, such as mini games, informal tests, and others.
+Additionally, softwares would then begin to experiment with elementary forms of interaction with learners, such as mini games, multiple-choice tests, audio recording,   and others.
 
 #### 3. Integrative CALL (1990s)
 
