@@ -1,6 +1,6 @@
 ---
 layout: doc
-title: Customized practice
+title: Challenges
 section: intro
 incomplete: no
 ---

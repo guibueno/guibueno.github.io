@@ -1,6 +1,6 @@
 ---
 layout: doc
-title: Heritage from CALL
+title: Integration
 section: intro
 incomplete: no
 ---
@@ -41,22 +41,19 @@ In other words, it puts emphasis on language use in authentic context, rather th
 
 Additionally, learners begin to make choices in the Integrative CALL period. Computers would give them control over both their learning pace and their individual path within the softwares.
 
-### Still integrative?
+#### 4. Still Integrative? (2000-now)
 
-From the standpoint of Warschauer & Healey in 1998, a lot of hope and fascination was being directed to the "multimedia networked computer". It was not clear to them what to expect from it.
+The Integrative CALL period is the last period covered by Warschauer & Healey (1998). From their standpoint in 1998, a lot of hope and fascination was being directed to the "multimedia networked computer". 
 
-The expanded "range of informational, communicative, and publishing tools potentially at the fingertips of every student" (p. 58), could bring to learners unpredictable ways to practice languages.
-
-But almost two decades after the publication of "*Computers and language learning: An overview*", the claims and projections made by Warschauer & Healey (1998) seem to accurately describe the current context, as in:
+Almost two decades after the publication of "*Computers and language learning: An overview*", claims and projections made by Warschauer & Healey (1998) seem to accurately describe the current context, as in:
 
 > "students learn to use a variety of technological tools as an ongoing process of language learning and use, rather than visiting the computer lab on a once a week basis for isolated exercises" (p. 11). 
 
+On the other hand, it was not clear to them what to expect from such variety of technological tools . Also, new academic terms were created to better describe the current context. 
 
-#### New terminology
+### New terminology
 
 In the acronym CALL, the word "computer" is usually associated with desktop or laptop machines. This does not cover the current range of digital devices that may be used for learning purposes.
-
-As a result, other, new academic terms have emerged:
 
 > The literature variously refers to CALL (Computer Aided Language Learning), CAI (Computer Assisted Instruction), TALL (Technology Assisted Language Learning), distance learning, on-line learning, and more (Bourgerie, 2003, p. 3).
 

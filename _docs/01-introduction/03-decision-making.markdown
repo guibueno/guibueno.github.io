@@ -1,6 +1,6 @@
 ---
 layout: doc
-title: Endless resources
+title: Decision-making
 section: intro
 incomplete: no
 ---
