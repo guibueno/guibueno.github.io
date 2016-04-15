@@ -1,6 +1,6 @@
 ---
 layout: doc
-title: Decision-making
+title: Informed decisions
 section: intro
 incomplete: no
 ---
@@ -112,6 +112,8 @@ As a consequence, learners become responsible for structuring their own training
 
 ### Synthesis
 
-This section has indicated that language learners who are relying on online resources need to constantly make **informed decisions** on how to structure and spend their **practice time** to learn languages.
+This section has indicated that language learners who are relying on online resources need to constantly make **decisions** on how to structure and spend their **practice time** to learn languages.
 
-Even though the amount and diversity of language learning resources on the Internet is vast, users are usually left alone to make these important decisions without any official assistance.
+Even though the amount and diversity of language learning resources on the Internet is vast, users are usually left alone to make these important decisions without any formal assistance.
+
+Therefore, this section highlights a need for providing users with information to make **informed decisions** on how to use the available resources in order to learn languages in a more efficient way.
