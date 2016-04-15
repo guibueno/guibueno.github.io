@@ -22,4 +22,3 @@ These challenges signalize that there needs to be a tool that:
 1. shows language learners how to effectively practice language skills and explains such effective learning strategies,
 
 2. so they can use these learning strategies to deal with all the language learning resources (authentic and language-based) available on the internet.
-
