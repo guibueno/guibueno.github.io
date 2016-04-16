@@ -13,7 +13,9 @@ sidebar: doc
 	{% if page.incomplete %}
 
 		<blockquote class="alertbox">
-		<p><span>This section is a work in progress draft!</span> Be advised that <strong>{{ page.problem }}</strong>. Specifically, I still need to: <strong><ol class="alertbullet"><li>{{ page.workon | join: "</li><li>"}}.</li></ol></strong>
+		<p><span>This section is a work-in-progress draft that still needs some improvement!</span></p>
+		<p>You are very welcome to read it, but I first need to tell you that <strong>{{ page.problem }}</strong>.</p>
+		<p>Take a look at my to-do list specific to this section: <strong><ol class="alertbullet"><li>{{ page.workon | join: "</li><li>"}}.</li></ol></strong>
 		</blockquote></p>
 
 	{% endif %}

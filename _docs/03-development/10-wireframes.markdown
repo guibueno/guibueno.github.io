@@ -150,7 +150,7 @@ Explains using colloquial words the reasons why it may be important for the lear
 
 * * *
 
-### 13. Record Yourself
+### 12. Record Yourself
 
 Where the learner can record new self-assessment speaking proficiency videos.
 
