@@ -8,7 +8,7 @@ workon:
   - "Add brief description of other categories of products"
 ---
 
-As described in the firs section, the landscape of language learning tools/technologies is vast and diverse. This landscape audit analyzes in-depth only a few **language learning mobile applications**.
+As described in the firs section, the landscape of language learning tools is vast and diverse. This section analyzes only a few **language learning mobile applications**, since **LanguageBug** belongs to this category.
 
 This is also a broad category that includes a large group of services. They were chosen based on relevance and popularity, according to the number of downloads on Apple Store.
 
