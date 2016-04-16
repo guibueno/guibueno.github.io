@@ -9,7 +9,7 @@ workon:
   - "Create a scenario to illustrate these context/settings"
 ---
 
-These are the ideal conditions under which **LanguageBug** is designed to work best.
+These are the ideal conditions under which **LanguageBug** is designed to work best: private environment, unaccompained, mostly mobile, distraction-free, optmized time.
 
 ### Private environment
 
@@ -29,7 +29,7 @@ Also, mobile devices are key entry points to online services. Today "19% of Amer
 
 It is a common practice to use apps during free time, like while watching TV or having dinner. In fact, 30% of American smartphone owners check their phones even when at a meal (Lookout Mobile Security, n.d.).
 
-However, language learning practices require a great deal of focus from learners. Therefore, their exclusive attention should be devoted to **LanguageBug**, otherwise it will be impossible to operate it.
+However, language learning practices require a great deal of focus from learners. Therefore, their exclusive attention should be devoted to **LanguageBug**, otherwise it will not be possible to reach the full experience.
 
 ### Optmized time
 
