@@ -45,6 +45,8 @@ title: References
 
 ##### Lee, V. (Ed.). (2014). Introduction: Technology meets body, body meets technology. In, *Learning Technologies and the Body: Integration and Implementation in Formal and Informal Learning Environments*. New York: Routledge.
 
+##### Lookout Mobile Security. (n.d.). Retrieved November 26, 2014, from https://www.lookout.com/resources/reports/mobile-mindset.
+
 ##### Lightbown, P. M., Spada, N. (2006). How languages are learned. Vol. 3. Oxford: Oxford.
 
 ##### Marcos-Llinás, M. & Garau, M. (2009). Effects of language anxiety on three proficiency-level courses of Spanish as a foreign language. Foreign Language Annals, 42, 94-111.
@@ -62,6 +64,8 @@ title: References
 ##### Oberg, A., & Daniels, P. (2013). Analysis of the effect a student-centred mobile learning instructional method has on language acquisition. *Computer Assisted Language Learning*, *26*(2), 177-196.
 
 ##### Oh, M.T. (1996). Beliefs about language learning and foreign language anxiety: A study of American university students learning Japanese. Dissertation Abstracts International, 57 (9), 3858A. (UMI No.9705927).
+
+##### Pew Research Center. (2015) *The Smartphone Difference*. Retrieved from: http://www.pewinternet.org/2015/04/01/us-smartphone-use-in-2015.
 
 ##### Samuel, A. G., & Larraza, S. (2015). Does listening to non-native speech impair speech perception?. *Journal of Memory and Language*, *81*, 51-71.
 

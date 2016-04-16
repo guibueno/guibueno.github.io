@@ -3,12 +3,10 @@ layout: doc
 title: Target Learners
 section: needs
 incomplete: yes
-problem: "it lacks research citations and lacks specificity"
+problem: "it should be a little more specific and include many more references"
 workon:
-  - "Back-up with research the assumptions I am making"
-  - "Decide once for all who I'm targetting"
-  - "Fix problems found by committee members"
-  - "Stylize by adding images"
+  - "Add research citations to back up some of my assumptions"
+  - "Create a persona that synthesizes my target audience"
 ---
 
 "negative or unrealistic beliefs can lead to decreased motivation, frustration and anxiety"
