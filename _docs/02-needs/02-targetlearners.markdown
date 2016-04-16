@@ -3,28 +3,29 @@ layout: doc
 title: Target Learners
 section: needs
 incomplete: yes
-problem: "it should be a little more specific and include many more references"
+problem: "it should be a little more specific and include more research"
 workon:
   - "Add research citations to back up some of my assumptions"
   - "Create a persona that synthesizes my target audience"
 ---
 
-"negative or unrealistic beliefs can lead to decreased motivation, frustration and anxiety"
-Oh, M.T. (1996)
-Kern (1995)
+**LanguageBug** targets specifically **adult language learners learners**. 
 
+This population has typically a complex profile when it comes to language learning. Here, adults learners are going to be characterized as **self-motivated**, but **discouraged**, **distrustful**, and maybe **too serious**.
 
-Every language learner (and certainly every learner in general) could benefit from metacognition, growth mindset, and deliberate practice. However, this project specifically targets **adult learners**.
+Such negative framing is obviously not what describes all adult language learners. Adults can also learn languages because of their prior success with language learning, or their great abilities in this field.
 
-### Self-motivated...
+This section, therefore, serves to illustrate the target learners who would most struggle with language learning, due to their prior unsuccessful experiences, negative beliefs, or discouragement.
 
-There are many reasons for that. To begin with, adult learners are most likely to be self-motivated, that is, to be sure that they want to know a certain language. For example, an employee who has the chance to work in a different country will know why knowing that foreign language is needed. 
+### Self-motivation
+
+Adult learners are most likely to be self-motivated, that is, to be sure of the reasons why  they want to know a certain language. For example, an employee who has the chance to work in a different country will know why knowing that foreign language is needed. 
 
 In another example, someone looking for a job may look better qualified by knowing how to speak a foreign language. In cases like these, one knows the benefits and goals of learning a certain language, therefore is willing to take action and invest time, energy, and even money into it.
 
 But even those self-motivated learners sometimes do not succeed in learning foreign languages. It may happen for many different reasons, as lack of emotional support from peers and teachers, unrealistically high expectations, and inefficient language learning techniques, etc.
 
-### … but discouraged, ...
+### Discouragement
 
 A person that has "failed" to learn a foreign language in the past feels discouraged and frustrated. This frustration may get even more harmful if this person believes that “language learning ability is dependent on some immutable, innate talent” (Mercer, 2012, p. 22), which is a common scenario. Mercer & Ryan (2010) project that: 
 
@@ -32,15 +33,17 @@ A person that has "failed" to learn a foreign language in the past feels discour
 
 It might be the case that most people that have "failed" in language learning were actually making a great deal of progress, but were not able notice that. Most language courses are too pragmatic to explain that language learning has many inherent challenges and it is expected to be difficult to overcome some of these challenges. In other words, they lack metacognition and growth mindset.
 
-### … distrustful, … 
+### Distrustful
 
 Besides adult learners being most likely to suffer from frustration and discouragement from a prior, unsuccessful attempt to learn a foreign language, they have to deal with a general discredit for the simple fact that they are adults, therefore less capable of learning languages than children.
 
-As mentioned earlier, the Critical Period Hypothesis is that "there is a time in human development when the brain is predisposed for success in language learning" (Lightbown; Spada 2006, p. 93).  It is estimated that this critical period would usually end around puberty.
+The Critical Period Hypothesis, on which there is no consensus among linguists, is that "there is a time in human development when the brain is predisposed for success in language learning" (Lightbown; Spada 2006, p. 93). It is estimated that this critical period would usually end around puberty.
+
+Believing in the Critical Period Hypothesis, or in any *myth* that adults are bad language learners, may impact the  learner's self-beliefs. In fact, "negative or unrealistic beliefs can lead to decreased motivation, frustration and anxiety" (Oh, 1996; Kern, 1995), which will likely affect the quality of learning experiences.
 
 But while "the general consensus is that the younger learner has stronger powers of mimicry and retention, there is no evidence to suggest that adult learners are slower in terms of absorbing new information" (Johnson, 2015). 
 
-### … and maybe too serious.
+### Too serious
 
 Besides their self-beliefs and mindsets, it might be the case that shyness affects more adults than children when it comes to learning languages. Fear of feeling and looking silly, resistance to trying new approaches, and concerns with making mistakes can explain a harsher, stricter approach.
 
