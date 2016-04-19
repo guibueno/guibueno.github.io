@@ -1,0 +1,11 @@
+---
+# Only the main Sass file needs front matter (the dashes are enough)
+---
+/*@media print {
+    .site-title, .site-nav, .sidebar, .site-footer, .sidebar-menu, .column, .site-header {
+    	display: none;
+    }
+    .post-content, .page-content {
+    	width: 8.27in;
+    }
+}*/

@@ -16,4 +16,4 @@ With all that, I believe I can understand better what I am actually designing, a
 
 Finally, having one entire year to develop a thesis project sounds like a lot of time, but it is not. How awesome would it be to have some extra time? 
 
-I would personally love to keep developing **LanguageBug** and investigating the field of **language learning technologies** in a PhD. Maybe in a few years? 
+I would personally love to keep developing **LanguageBug** and investigating the field of **language learning technologies** in a PhD. Maybe in a few years?

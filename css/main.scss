@@ -22,6 +22,10 @@ $grey-color:       #828282;
 $grey-color-light: lighten($grey-color, 40%);
 $grey-color-dark:  darken($grey-color, 25%);
 
+$red-color:       #D63232;
+$red-color-light: lighten($red-color, 40%);
+$red-color-dark:  darken($red-color, 25%);
+
 // Width of the content area
 $content-width:    800px;
 
@@ -51,3 +55,49 @@ $on-laptop:        800px;
         "layout",
         "syntax-highlighting"
 ;
+
+@media print {
+
+    .site-title, .site-nav, .sidebar, .site-footer, .sidebar-menu, .column, .site-header {
+    	display: none;
+    }
+
+    .post-content, .page-content {
+    	width: 8.27in;
+    	padding: 0;
+    	float: none;
+    }
+
+    .post-title {
+    	/*text-align: center;*/
+    }
+
+    body {
+    	background-color: #FFF;
+    	font-family: Georgia;
+    }
+
+    img {
+		max-width: 100%;
+	}
+
+	@page {
+		margin: 1in;
+	}
+
+	.highlighter-rouge, .highlight {
+		display: none;
+	}
+
+	hr {
+		page-break-after: always;
+	}
+
+	h1 {
+		page-break-before: always;
+	}
+
+	table, .alertbox {
+		page-break-inside: avoid;
+	}
+}

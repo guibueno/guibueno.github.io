@@ -15,8 +15,18 @@ sidebar: doc
 		<blockquote class="alertbox">
 		<p><span>This section is a work-in-progress draft that still needs some improvement!</span></p>
 		<p>You are very welcome to read it, but I first need to tell you that <strong>{{ page.problem }}</strong>.</p>
-		<p>Take a look at my to-do list specific to this section: <strong><ol class="alertbullet"><li>{{ page.workon | join: "</li><li>"}}.</li></ol></strong>
-		</blockquote></p>
+		<p>Take a look at my to-do list specific to this section: <strong><ol class="alertbullet"><li>{{ page.workon | join: "</li><li>"}}.</li></ol></strong></p>
+		</blockquote>
+
+	{% endif %}
+
+	{% if page.hide %}
+
+		<blockquote class="missingbox">
+		<p><span>Hey there! My apologies, but this section is still missing.</span></p>
+		<p>I am doing my very best to get things done as soon as possible, so hopefully this gap will be filled soon (and there will not be as many red alert boxes as there is now).</p>
+		<p>Once again, I am sorry for being late. Thank you for understanding!</p>
+		</blockquote>
 
 	{% endif %}
 

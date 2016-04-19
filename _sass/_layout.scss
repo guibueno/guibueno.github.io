@@ -394,7 +394,7 @@ img.noborder {
     border: 0;
 }
 /* 
-** Docs
+** Boxes
 */
 .alertbox {
     border: 2px dotted $grey-color;
@@ -408,6 +408,15 @@ img.noborder {
     /*display: inline;
     list-style-type: none;*/
 }
+.missingbox {
+    border: 2px dotted $red-color;
+    background: $red-color-light;
+    padding: 10px;
+    color: $text-color;
+    font-style: normal;
+    font-size: $small-font-size+2px;
+}
+
 /*
 ** Wireframe
 */
