@@ -427,3 +427,17 @@ hr {
     border: 0;
     width: 50%;
 }
+/*
+** Hide me
+*/
+#hideme {
+    background: #FFF;
+    padding: 25px;
+    font-size: 32px;
+    border: 10px dashed #000;
+    position: absolute;
+    width: 50%;
+    top: 35%;
+    left: 25%;
+    text-align: center;
+}

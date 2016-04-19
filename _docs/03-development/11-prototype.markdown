@@ -3,9 +3,10 @@ title: Prototype
 layout: doc
 section: dev
 incomplete: yes
-problem: "it has to be further developed and tailored based on feedback and user testing"
+problem: "although the prototype is ready, I still need to make a write-up on it"
 workon:
-  - "Add proficiency video feature"
-  - "Differentiate principles from exerises"
+  - "Choose a series of screens to explain"
+  - "Include screenshots from reveal.js prototypes"
+  - "Highlight the differences between wireframe/prototype screens"
+  - "Hopefully, expand the prototype a little bit"
 ---
-<p align="center"><iframe src="https://mockingbot.com/app/XkEE6rDYbXQvGZ9nLd5nJZtzjVFG36V/embed" width="422" height="839" allowTransparency="true" frameborder="0"></iframe></p>

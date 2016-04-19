@@ -100,4 +100,8 @@ $on-laptop:        800px;
 	table, .alertbox {
 		page-break-inside: avoid;
 	}
+
+    .hideme {
+        display: none;
+    }
 }
