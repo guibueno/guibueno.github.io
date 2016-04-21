@@ -65,6 +65,7 @@ $on-laptop:        800px;
     .post-content, .page-content {
     	width: 8.27in;
     	padding: 0;
+        margin: 0;
     	float: none;
     }
 
@@ -82,7 +83,7 @@ $on-laptop:        800px;
 	}
 
 	@page {
-		margin: 1in;
+		margin: 1in 1in 1in 0.75in;
 	}
 
 	.highlighter-rouge, .highlight {

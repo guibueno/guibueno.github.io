@@ -6,10 +6,10 @@ permalink: /week11/
 goals:
   - "<a href='/indies/week9-projectwriting.html'>Marathon design doc writing</a>"
   - "Development section"
-nextclass: "(?)"
+nextclass: "Presentation Strategies"
 todo: 
-  - "(04/06) Formalize Babbel Product Analyses"
 done:
+  - "(04/06) Formalize Babbel Product Analyses"
   - "(04/06) Compile 'Individual Project Focus' meeting/feedback"
   - "(04/06) [LATE] Update Progress Board, Week11 log, Class Schedule"
   - "(04/06) Figure out what to do next."

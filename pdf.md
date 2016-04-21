@@ -12,12 +12,12 @@ permalink: /pdf/
 	<ul>
 		<li>Add cover page</li>
 		<li>New rules for page-breaks</li>
-		<li>Fix for image readability</li>
+		<li>Improve image readability</li>
 		<li>Reduce final file size</li>
 		<li>Split into sections</li>
 		<li>Add Index with Table of Contents</li>
 		<li>Add Page numbers on heade and footer</li>
-		<li>Eliminate extra margin-left</li>
+		<li><del>Eliminate extra margin-left</del></li>
 	</ul>
 
 	<p align="center" style="text-transform: uppercase;"><a href="javascript:hide('hideme')" class="close_notification" title="Click to Close">Click to dismiss</a></p>

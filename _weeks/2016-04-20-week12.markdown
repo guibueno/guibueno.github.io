@@ -1,0 +1,18 @@
+---
+title: "Week 12"
+layout: week
+date: 2016-04-20 00:00:00 -0700
+permalink: /logs/
+goals:
+  - Presentation outline
+  - Poster outline
+  - Improve design doc
+nextclass: 
+todo: 
+  - "Improve Design Rationale"
+  - "Improve Content section"
+  - "Outline Conclusion"
+done:
+  - "(04/21) [LATE] Update Progress Board, Week12 log, Class Schedule"
+schedule: 
+---
