@@ -1,16 +1,16 @@
 ---
 layout: default
-sidebar: no
+sidebar: doc
 ---
 
 <article class="post">
 
-  <div class="post-content full">
+  <div class="post-content">
     
 	<header class="post-header">
 	  <h1 class="post-title">
 	  	{{ page.title }}
-	  	<img src="{{ page.title }}/logo.png" width="50" height="50" class="noborder">
+	  	<img src="/images/landscape-audit/{{ page.title }}/logo.png" width="50" height="50" class="noborder">
 	  </h1>
 	  <p><a href="{{ page.website }}" target="_blank">{{ page.website }}</a></p>
 	</header>
@@ -24,7 +24,7 @@ sidebar: no
 
     <p align="center">
 	    {% for item in page.cover %}
-		    <a href="{{ page.title }}/cover-{{ item }}.png" target="_blank"><img src="{{ page.title }}/cover-{{ item }}.png" width="24%"></a>
+		    <a href="{{ page.title }}/cover-{{ item }}.png" target="_blank"><img src="/images/landscape-audit/{{ page.title }}/cover-{{ item }}.png" width="20%"></a>
 		{% endfor %}
 	</p>
 	<p class="legenda">Screen-shots of the initial screens of the app</p>
@@ -41,7 +41,7 @@ sidebar: no
 
 	    <p align="center">
 		    {% for item in page.learning-images %}
-			    <a href="{{ page.title }}/learning-{{ item }}.png" target="_blank"><img src="{{ page.title }}/learning-{{ item }}.png" width="24%"></a>
+			    <a href="{{ page.title }}/learning-{{ item }}.png" target="_blank"><img src="/images/landscape-audit/{{ page.title }}/learning-{{ item }}.png" width="20%"></a>
 			{% endfor %}
 		</p>
 		
@@ -86,7 +86,7 @@ sidebar: no
 	{% if page.self-efficacy-images %}
 	    <p align="center">
 		    {% for item in page.self-efficacy-images %}
-			    <a href="{{ page.title }}/self-efficacy-{{ item }}.png" target="_blank"><img src="{{ page.title }}/self-efficacy-{{ item }}.png" width="24%"></a>
+			    <a href="{{ page.title }}/self-efficacy-{{ item }}.png" target="_blank"><img src="/images/landscape-audit/{{ page.title }}/self-efficacy-{{ item }}.png" width="20%"></a>
 			{% endfor %}
 		</p>
 		{% if page.self-efficacy-legenda %}
@@ -133,7 +133,7 @@ sidebar: no
 	{% if page.audio-images %}
 	    <p align="center">
 		    {% for item in page.audio-images %}
-			    <a href="{{ page.title }}/audio-{{ item }}.png" target="_blank"><img src="{{ page.title }}/audio-{{ item }}.png" width="24%"></a>
+			    <a href="{{ page.title }}/audio-{{ item }}.png" target="_blank"><img src="/images/landscape-audit/{{ page.title }}/audio-{{ item }}.png" width="20%"></a>
 			{% endfor %}
 		</p>
 		{% if page.audio-legenda %}
@@ -179,7 +179,7 @@ sidebar: no
 	{% if page.speech-images %}
 	    <p align="center">
 		    {% for item in page.speech-images %}
-			    <a href="{{ page.title }}/speech-{{ item }}.png" target="_blank"><img src="{{ page.title }}/speech-{{ item }}.png" width="24%"></a>
+			    <a href="{{ page.title }}/speech-{{ item }}.png" target="_blank"><img src="/images/landscape-audit/{{ page.title }}/speech-{{ item }}.png" width="20%"></a>
 			{% endfor %}
 		</p>
 		{% if page.speech-legenda %}
@@ -225,7 +225,7 @@ sidebar: no
 	{% if page.keyboard-images %}
 	    <p align="center">
 		    {% for item in page.keyboard-images %}
-			    <a href="{{ page.title }}/keyboard-{{ item }}.png" target="_blank"><img src="{{ page.title }}/keyboard-{{ item }}.png" width="24%"></a>
+			    <a href="{{ page.title }}/keyboard-{{ item }}.png" target="_blank"><img src="/images/landscape-audit/{{ page.title }}/keyboard-{{ item }}.png" width="20%"></a>
 			{% endfor %}
 		</p>
 		{% if page.keyboard-legenda %}
@@ -270,7 +270,7 @@ sidebar: no
 	    <h3>Other features</h3>
 	    {% for item in page.additional-remarks %}
 	    	<p align="center">
-				<a href="{{ page.title }}/additional-{{ item.img }}.png" target="_blank"><img src="{{ page.title }}/additional-{{ item.img }}.png" width="20%"></a>
+				<a href="{{ page.title }}/additional-{{ item.img }}.png" target="_blank"><img src="/images/landscape-audit/{{ page.title }}/additional-{{ item.img }}.png" width="20%"></a>
 			</p>
 			<p>
 	    	{% if item.balance == "+" %}

@@ -56,6 +56,18 @@
 
 				{% endif %}
 
+				{% if doc.title == "Landscape Audit" %}
+
+					{% for landscapeaudit in site.landscapeaudit %}
+					   
+						<li>
+							<a href="{{ landscapeaudit.url | prepend: site.baseurl }}">— {{ landscapeaudit.title }}</a>
+						</li>
+
+					{% endfor %}
+
+				{% endif%}
+
 			{% endfor %}
 
 			<p class="doctitle">Development</p>
