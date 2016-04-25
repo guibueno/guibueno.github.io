@@ -33,7 +33,7 @@ permalink: /pdf/
 
 		{% for landscapeaudit in site.landscapeaudit %}
 					   
-			{{ landscapeaudit.output }}</a>
+			{{ landscapeaudit.output }}
 
 		{% endfor %}
 

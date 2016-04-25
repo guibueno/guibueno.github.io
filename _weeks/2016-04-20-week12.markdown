@@ -4,7 +4,7 @@ layout: week
 date: 2016-04-20 00:00:00 -0700
 permalink: /logs/
 goals:
-  - Presentation outline
+  - "<a href='/outline/'>Presentation outline</a>"
   - Poster outline
   - Improve design doc
 nextclass: 
@@ -16,5 +16,6 @@ todo:
 done:
   - "(04/21) [LATE] Update Progress Board, Week12 log, Class Schedule"
   - "(04/25) Fixed Landscape Audit PDF/Menu bug"
+  - "(04/25) Began presentation outline"
 schedule: 
 ---
