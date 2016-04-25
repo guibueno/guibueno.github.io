@@ -13,7 +13,7 @@ done:
   - "(03/31) Understand how the audio function works on reveal.js"
   - "(04/01) Duolingo Landscape audit page"
   - "(04/04) Finish Duolingo landscape audit page"
-  - "(04/05) <a href='/individual-project-focus/index.html' target='_blank'>Individual Project Focus</a>:Prepare in-class presentation"
+  - "(04/05) <a href='/presentations/individual-project-focus/index.html' target='_blank'>Individual Project Focus</a>:Prepare in-class presentation"
   - "(04/05) Present and get feedback from peers"
 schedule: no
 ---

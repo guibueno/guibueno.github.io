@@ -9,10 +9,12 @@ goals:
   - Improve design doc
 nextclass: 
 todo: 
+  - "Presentation strategies and prompts"
   - "Improve Design Rationale"
   - "Improve Content section"
   - "Outline Conclusion"
 done:
   - "(04/21) [LATE] Update Progress Board, Week12 log, Class Schedule"
+  - "(04/25) Fixed Landscape Audit PDF/Menu bug"
 schedule: 
 ---
