@@ -80,6 +80,10 @@ Language-based resources for language learners are extremely abundant on the Int
     <td class="title">Language Exchange</td>
     <td>HelloTalk, My Language Exchange</td>
   </tr>
+  <tr>
+    <td class="title">Pronunciation Databases</td>
+    <td>Forvo, howjsay.com, inogolo</td>
+  </tr>
 </table>
 ***Table 1** - Language-based services divided into functional categories*
 {: style="text-align: center"}

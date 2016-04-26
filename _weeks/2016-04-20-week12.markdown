@@ -9,7 +9,11 @@ goals:
   - Improve design doc
 nextclass: 
 todo: 
-  - "Presentation strategies and prompts"
+  - "(04/26) 1 hour: Poster outline"
+  - "(04/26) 1 hour: Design document"
+  - "(04/26) 1 hour: Presentation outline"
+  - "(04/26) 1 hour: Prototype improvement"
+  - "User testing section"
   - "Improve Design Rationale"
   - "Improve Content section"
   - "Outline Conclusion"
