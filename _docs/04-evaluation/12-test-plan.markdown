@@ -9,13 +9,7 @@ workon:
   - "Improve/finalize this draft"
 ---
 
-<blockquote class="missingbox">
-
-<strong>This page is a huge mess!</strong> That's because I'm currently working on this section.
-
-</blockquote>
-
-### Goal
+The main goal of conducting user 
 
 Testing **LanguageBug** will result in insights on usability, such as:  
 

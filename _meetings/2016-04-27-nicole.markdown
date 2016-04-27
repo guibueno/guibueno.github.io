@@ -1,0 +1,34 @@
+---
+layout: meeting
+title: "Thesis Final Steps"
+date: 2016-04-27 13:00:00 -0400
+participants:
+  - "Nicole Pallares"
+where: MAGNET 821
+duration: 60min
+topics:
+  - Show my progress and the feedback I got from Maaike
+  - Ask for general help/tips in structuring work during these final steps
+  - How should I make my evaluation section?
+  - How should I make my design rationale section?
+results:
+  - "Mention my website in <strong>EVALUATION</strong>: feedback from peers, committee members, etc."
+  - "Describe how submiting parts of the project for feedback has helped in my design process"
+  - "Also, add the feedback I've gotten from UX workshop and from user tests with friends"
+  - "The website was also a way to accomplish personal goals: learn coding, versioning control, etc."
+  - "Change the language tone: not 'This is a draft', but 'my experience as a teacher tells me that'"
+  - "Pre-questionnaire and Test Plan should go in the document as <strong>APPENDICES</strong>"
+  - "Use the evaluation section to create a narrative / tell a story about the design process"
+  - "Shashank: add 'Introducing a new way to tackle language learning' in the introduction section"
+  - "Nicole agreed with Shashank's suggestion to talk about opportunities, not problems"
+  - "<strong>Rationale:</strong> Explain my general design and answer why I chose that"
+  - "Mention, once again, experience as language teacher, having observed succes in this approach"
+  - "Walk through the method/prototype, just like I did in class in my individual focus presentation"
+  - "Mention my most important learning theories, such as scaffolding, ZPD, priming, subliminar, ..."
+  - "Move the NOT A METHOD item from INTRODUCTION section to the DESIGN RATIONALE section"
+---
+
+<center>
+<a href="2016-04-27-nicole-1.jpg"><img src="2016-04-27-nicole-1.jpg" alt="Rationale" width="45%"></a>
+<a href="2016-04-27-nicole-2.jpg"><img src="2016-04-27-nicole-2.jpg" alt="Evaluation" width="45%"></a>
+</center><br>
