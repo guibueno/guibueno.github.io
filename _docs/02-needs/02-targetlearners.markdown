@@ -29,7 +29,7 @@ But even those self-motivated learners sometimes do not succeed in learning fore
 
 A person that has "failed" to learn a foreign language in the past feels discouraged and frustrated. This frustration may get even more harmful if this person believes that “language learning ability is dependent on some immutable, innate talent” (Mercer, 2012, p. 22), which is a common scenario. Mercer & Ryan (2010) project that: 
 
-"It is possible that FLL [Foreign Language Learning] is a domain in which the fixed mindset may be particularly prevalent, given the widespread belief in the importance of natural talent or aptitude in successful language learning" (p. 444)
+> "It is possible that FLL [Foreign Language Learning] is a domain in which the fixed mindset may be particularly prevalent, given the widespread belief in the importance of natural talent or aptitude in successful language learning" (p. 444)
 
 It might be the case that most people that have "failed" in language learning were actually making a great deal of progress, but were not able notice that. Most language courses are too pragmatic to explain that language learning has many inherent challenges and it is expected to be difficult to overcome some of these challenges. In other words, they lack metacognition and growth mindset.
 

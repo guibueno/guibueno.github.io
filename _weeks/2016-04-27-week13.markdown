@@ -1,0 +1,23 @@
+---
+title: "Week 13"
+layout: week
+date: 2016-04-27 00:00:00 -0700
+permalink: /logs/
+goals:
+  - Improve design document
+  - Prepare presentation
+  - Poster outline
+  - Schedule meeting with Kam
+nextclass: "Presentations, Part II"
+todo: 
+  - "(04/27) User Testing section: work with Nicole & Karen"
+  - "(04/28) Improve Design Rationale"
+  - "(04/30) Improve Content section"
+  - "1h/day: work on Presentation & Poster"
+  - "1h/day: improve prototype"
+done:
+  - "(04/27) Add log from meeting with Maaike"
+schedule: 
+  - "(04/30) Re-submit design doc"
+  - "(05/02) Presentation"
+---

@@ -1,0 +1,24 @@
+---
+layout: meeting
+title: "Thesis Feedback Pending"
+date: 2016-04-26 20:40:00 -0400
+participants:
+  - "Maaike Bouwmeester"
+where: MAGNET 845
+duration: 20min
+topics:
+  - "Am I going to finish my thesis in time? Do I need an extension?"
+  - "Which should be my next priorities: paper, presentation, poster, prototype?"
+  - "What is lacking in my development section that makes it feel incomplete?"
+  - "Would it be a good idea at this moment to add a narrative component based on an actual bug?"
+  - "When and what should I re-submit for further feedback?"
+results:
+  - "I am confident I can finish my thesis paper in time and I cannot apply for an extension."
+  - "If I had done everything on time, I would not be overwhelmed with multiple tasks now."
+  - "I should prioritize the <strong>evaluation</strong> and <strong>development</strong> sections of the paper."
+  - "Of course, I also need to prioritize my Design Expo <strong>poster</strong> and <strong>presentation</strong>."
+  - "I should develop a better design rationale, such as Marty's, to explain my design decisions."
+  - "Wireframe and prototype sections only show the screens I have made, without tehory/explanation."
+  - "Narrative could help in the presentation, and anything that does so is always valid/worth it."
+  - "Re-submit paper with Evaluation and Rationale by the end of this weekend (04/30)."
+---

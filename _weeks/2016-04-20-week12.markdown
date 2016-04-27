@@ -2,24 +2,25 @@
 title: "Week 12"
 layout: week
 date: 2016-04-20 00:00:00 -0700
-permalink: /logs/
+permalink: /week12/
 goals:
   - "<a href='/outline/'>Presentation outline</a>"
-  - Poster outline
-  - Improve design doc
-nextclass: 
+  - "Poster outline - Not accomplished"
+  - "Improve design doc"
+nextclass: "Presentations, Part I"
 todo: 
-  - "(04/26) 1 hour: Poster outline"
-  - "(04/26) 1 hour: Design document"
-  - "(04/26) 1 hour: Presentation outline"
-  - "(04/26) 1 hour: Prototype improvement"
-  - "User testing section"
-  - "Improve Design Rationale"
-  - "Improve Content section"
-  - "Outline Conclusion"
+  - "User testing section - Due 30/04"
+  - "Improve Design Rationale - Due 30/04"
+  - "Improve Content section - Due 30/04"
+  - "<del>Outline Conclusion</del> Moved to final week"
 done:
+  - "(04/26) Sketch poster outline"
+  - "(04/26) Improve design document"
+  - "(04/26) Develop presentation outline"
+  - "(04/26) Improve Prototype"
   - "(04/21) [LATE] Update Progress Board, Week12 log, Class Schedule"
   - "(04/25) Fixed Landscape Audit PDF/Menu bug"
   - "(04/25) Began presentation outline"
+  - "(04/26) Update Progress Board, Week13 log, Class Schedule"
 schedule: 
 ---
