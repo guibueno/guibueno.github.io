@@ -27,7 +27,7 @@ _Image 2 - Drill & Kill_
 
 #### 2. Communicative CALL (late 1970s)
 
-This period is marked by the rejection of a pure behaviourism. Rather than just drill exercises, computers would also offer stimuli to authentic communication, such as discussion prompts.
+This period is marked by the rejection of a pure behaviourism. Rather than just drill exercises, computers would also feature discussion prompts and other forms of conversation starters that students could use to engage in authentic communication.
 
 > "Proponents of communicative CALL stressed that computer-based activities should focus more on using forms than on the forms themselves, teach grammar implicitly rather than explicitly, allow and encourage students to generate original utterances rather than just manipulate prefabricated language" (Warschauer & Healey, 1998, p. 57)
 
@@ -65,8 +65,8 @@ Particularly, the acronym **MALL** (Mobile Assisted Language Learning) has becom
 
 By analyzing the history of CALL and the current perspectives of MALL, we are left with no evidence that language learning softwares are shifting towards the Post-Method era (with approaches, rather than methods).
 
-On the contrary, the notion of a mechanical tutor is essentially in the DNA of language learning softwares. As such, they are expected to incorporate a particular method and guide the learners through it.
+On the contrary, the notion of a computer as a mechanical tutor (as seen in the Behaviouristic CALL period) is essentially in the DNA of language learning softwares. As such, they are expected to incorporate a particular method and guide the learners through it. The current landscape of language learning services shows that most companies are constantly reproducing this mentality 
 
-The current landscape of language learning services shows that most companies are constantly reproducing that "obsession" with their competing methods (see: <a href="/docs/02-needs/06-landscape-audit.markdown">Landscape Audit</a>).
+ (see: <a href="/docs/02-needs/06-landscape-audit.markdown">Landscape Audit</a>).
 
 As a result, rather than helping language learners integrate the **endless resources** that are now available, the "networked computer" now offers a sea of distributed, individualized options that compete to be the best.

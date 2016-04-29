@@ -7,7 +7,7 @@ incomplete: no
 
 If your target language is widely spoken, it is likely that you will **not** have any problems finding learning resources on the Internet. Still, learning this language may oftentimes be challenging and even demotivating.
 
-Why? What is missing? How to fill in this gap? In order to answer these questions, we should first try to understand the broad landscape of resources that are currently available.
+Why? What is missing? How might we be able to fill this gap? In order to answer these questions, we should first try to understand the broad landscape of resources that are currently available.
 
 Let's begin by distinguishing these services and materials between two categories: **authentic resources** and **language-based resources**.
 
@@ -90,7 +90,7 @@ Language-based resources for language learners are extremely abundant on the Int
 
 Due to many overlaps, such categories may look slightly arbitraty. For example, some blogs may also have YouTube channels, just like some products may offer more than one service. 
 
-In addition to that, this list is not exhaustive, that is, besides the few examples within parenthesis, it is likely that many other products could be added to almost all categories.
+It is important to state that this list is not exhaustive. Besides the few examples within parenthesis, it is likely that many other products could be added to almost all categories.
 
 ### ... so what?
 
@@ -108,7 +108,7 @@ _Image 1 - So many tools out there!_
 
 #### Using the chosen resources
 
-Most of the listed services and resources are filled with information on languages, but do not offer clear instructions on how to build up language sills from that information.
+Most of the listed services and resources are filled with information on languages, but do not offer clear instructions on how to build up language skills from that information.
 
 Even the majority of language courses does not deliberately explain how to use the content they provide (see: <a href="/docs/02-needs/06-landscape-audit.html">Landscape Audit)</a>.
 
