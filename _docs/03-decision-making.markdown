@@ -110,7 +110,7 @@ _Image 1 - So many tools out there!_
 
 Most of the listed services and resources are filled with information on languages, but do not offer clear instructions on how to build up language skills from that information.
 
-Even the majority of language courses does not deliberately explain how to use the content they provide (see: <a href="/docs/02-needs/06-landscape-audit.html">Landscape Audit)</a>.
+Even the majority of language courses do not deliberately explain how to use the content they provide (see: <a href="/docs/02-needs/06-landscape-audit.html">Landscape Audit)</a>.
 
 As a consequence, learners become responsible for structuring their own training or **practice time**, based on the language learning strategies they know and on the beliefs they hold.
 
