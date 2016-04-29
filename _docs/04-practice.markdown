@@ -11,19 +11,19 @@ This section shows that structuring a practice/training time can be challenging 
 
 ### Deliberate Practice
 
-Scott and Ghinea (2014) argue that engaging in **deliberate practice** is an important way to foster expertise. They primarely discuss computer programing, but also refer to many other areas.
+Scott and Ghinea (2014) argue that engaging in **deliberate practice** is an important way to foster language expertise. They primarily discuss computer programing, but also refer to many other areas.
 
 According to them, it is crucial that learners be in control of their own practice. The acquisition of expertise happens best when maintaining "an ongoing, reflexive, and self-regulated learning process" (p. 169).
 
 ### Scenario
 
-Let's imagine a language learner whose goal is to improve his/her language skills. This person has decided to devote some time into doing that right now. Where should he/she begin?
+Let's imagine a language learner whose goal is to improve his/her language skills. This person has decided to devote some time to doing that right now. Where should he/she begin?
 
 #### Selecting the activity
 
-Of course, in the field of language learning there is never only *one* answer to any question. In fact, there is a huge number of activities in which this language learner may opt to engage.
+Of course, in the field of language learning there is never only *one* answer to any question. In fact, there are many activities in which this language learner may opt to engage.
 
-He/she may decide to *Watch a movie in the target language*, for example, knowing that this would be a good way to improve the listening skill.
+He/she may decide to *watch a movie in the target language*, for example, knowing that this would be a good way to improve his/her listening skill.
 
 <table>
   <tr class="diff title">
@@ -35,7 +35,7 @@ He/she may decide to *Watch a movie in the target language*, for example, knowin
     <td>Listening</td>
   </tr>
   <tr class="diff">
-    <td>Sing-along a song</td>
+    <td>Sing-along to a song</td>
     <td>Speaking</td>
   </tr>
   <tr>
@@ -78,7 +78,7 @@ In *Table 2*, we can see many other examples of typical, self-regulated language
 
 #### Structuring the activity
 
-Each option in *Table 2* brings up new questions to the language learner. If, for example, he/she decides to *sing-along a song*, the immediate question that arises is: "which song?".
+Each option in *Table 2* brings up new questions to the language learner. If, for example, he/she decides to *sing-along to a song*, the immediate question that arises is: "which song?".
 
 In order to make this decision, the learner will have to think about songs in that target language. Even if we assume this is an easy task for this particular learner, other questions may keep coming up.
 
@@ -96,22 +96,25 @@ In order to make this decision, the learner will have to think about songs in th
     <td>Will I be learning relevant vocabulary from the song I choose?</td>
   </tr>
   <tr class="diff">
+    <td>Is the vocabulary in this song overly easy/complicated for my level?</td>
+  </tr>
+  <tr>
     <td>What should I focus on: pronunciation, accent, vocabulary, or meaning?</td>
   </tr>
-  <tr>
+  <tr class="diff">
     <td>Is it better to try to sing the whole song, or go sentence by sentence?</td>
   </tr>
-  <tr class="diff">
-    <td>Singing how many times would be enough to really from the song?</td>
-  </tr>
   <tr>
+    <td>Singing how many times would be enough to learn from the song?</td>
+  </tr>
+  <tr class="diff">
     <td>Is this song adequate for my proficiency level? Or is it too fast/slow?</td>
   </tr>
-  <tr class="diff">
+  <tr>
     <td>...</td>
   </tr>
 </table>
-**Table 3** - Questions when structuring a sing-along practice time
+**Table 3** - Questions when structuring a *sing-along to a song* practice time
 {: style="text-align: center"}
 
 Of course, not all language learners will go through each of these questions. *Table 3* only serves to illustrate that there are many decisions that this learner will face, even if unconsciously, within a single activity.
@@ -122,10 +125,10 @@ It may be challenging for this learner to deal with so many questions and decisi
 
 Also, rather than focusing exclusively on the language training, this language learner would probably have multiple concerns. After all, his/her tasks during this practice activity include:
 
-1. answer the questions to structure the parctice activity
-2. re-assess these answers in a reflective way
+1. answer the above questions to structure the practice activity
+2. evaluate these answers in a reflective way
 3. play/pause the chosen song, possibly many times
-4. follow the lyrics and sing-along
+4. follow the lyrics and sing along
 
 ### Focused Practice
 
@@ -135,13 +138,15 @@ From the perspective of the **Cognitive Load Theory**, human working memory reso
 
 In the present scenario, tasks *1*, *2*, and *3* are not directly linked to language learning. They are called **extraneous cognitive load**.
 
-This extraneous cognitive load use too much of the learner’s working memory resources, in lieu of productive learning (Sweller, 2010, p. 43).
+This extraneous cognitive load uses too much of the learner’s working memory resources, in lieu of productive learning (Sweller, 2010, p. 43).
 
-As a result, not only those simple tasks could become very hard to execute, they would also become much less effective and less pleasant.
+As a result, not only could those simple tasks become very hard to execute, they would also become much less effective and less pleasant.
 
 #### Intrinsic Cognitive Load
 
 On the other hand, task *4* is where the **intrinsic cognitive load** occurs. In other words, it is the only task that is relevant to the goal of "schema acquisition and automation" (Sweller, 2010, p. 43).
+
+(XXX)Add definition of Extraneous Cognitive Load
 
 Devoting most of the learner's attention to task *4* is, therefore, crucial to make this whole practice time an effective learning experience. As Sweller puts it,
 
@@ -151,6 +156,6 @@ Devoting most of the learner's attention to task *4* is, therefore, crucial to m
 
 This section highlights that language learners may need to **reduce the extraneous cognitive load** in their language learning practices, while also **increasing the intrinsic cognitive load**.
 
-The design of practice environments can address this need.
+Practice environments can be designed explicitly to address these needs.
 
-By doing so, once a language leaner engages in a practice activity, his/her complete focus will be devoted to language learning, not to any decision-making nor to operating other tools.
+By doing so, when a language leaner engages in a practice activity, his/her complete focus will be devoted to language learning, rather than any decision-making or operating other tools.

@@ -65,8 +65,6 @@ Particularly, the acronym **MALL** (Mobile Assisted Language Learning) has becom
 
 By analyzing the history of CALL and the current perspectives of MALL, we are left with no evidence that language learning softwares are shifting towards the Post-Method era (with approaches, rather than methods).
 
-On the contrary, the notion of a computer as a mechanical tutor (as seen in the Behaviouristic CALL period) is essentially in the DNA of language learning softwares. As such, they are expected to incorporate a particular method and guide the learners through it. The current landscape of language learning services shows that most companies are constantly reproducing this mentality 
-
- (see: <a href="/docs/02-needs/06-landscape-audit.markdown">Landscape Audit</a>).
+On the contrary, the notion of a computer as a mechanical tutor (as seen in the Behaviouristic CALL period) is essentially in the DNA of language learning softwares. Most services incorporate a single particular method and attempt to guide learners through the whole language learning experience, as if they were enough to all learners (see: <a href="/docs/06-landscape-audit.markdown">Landscape Audit</a>).
 
 As a result, rather than helping language learners integrate the **endless resources** that are now available, the "networked computer" now offers a sea of distributed, individualized options that compete to be the best.

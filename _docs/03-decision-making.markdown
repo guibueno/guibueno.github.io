@@ -1,6 +1,6 @@
 ---
 layout: doc
-title: Decision
+title: Deciding among language tools
 section: intro
 incomplete: no
 ---
