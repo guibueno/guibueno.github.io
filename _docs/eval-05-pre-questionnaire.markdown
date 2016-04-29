@@ -1,6 +1,7 @@
 ---
 title: Pre-questionnaire
 layout: doc
+hide: no
 section: eval
 ---
 
@@ -64,5 +65,3 @@ Therefore, this question was designed to identify those who, albeit not having b
 #### Availability
 [![Pre-questionnaire - 7]({{site.baseurl}}/images/pre-questionnaire/7.png)]({{site.baseurl}}/images/pre-questionnaire/7.png)
 {: style="text-align: center"}
-
-## Responses

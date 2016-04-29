@@ -1,7 +1,7 @@
 ---
 title: Test Plan
 layout: doc
-section: eval
+section: appendix
 incomplete: yes
 problem: "It needs some final tweaks before performing the actual user tests"
 workon:
@@ -9,7 +9,7 @@ workon:
   - "Improve/finalize this draft"
 ---
 
-The main goal of conducting user 
+The main goal of conducting user tests was to evaluate if providing feedback 
 
 Testing **LanguageBug** will result in insights on usability, such as:  
 

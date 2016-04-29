@@ -17,7 +17,11 @@ title: References
 
 ##### Brown, H. D. (2002). English language teaching in the "post-method" era: Toward better diagnosis, treatment, and assessment. *Methodology in language teaching: An anthology of current practice*, 9-18.
 
+##### Chacon, S., & Straub, B. (2014). Pro git. Apress.
+
 ##### Chinnery, G. M. (2006). Emerging technologies. Going to the mall: mobile assisted language learning. *Language learning & technology*, 10(1), 9-16.
+
+##### Coleman, E. G. (2013). *Coding freedom*: The ethics and aesthetics of hacking. Princeton University Press.
 
 ##### Diener, C. I., & Dweck, C. S. (1980). An analysis of learned helplessness: II. The processing of success. *Journal of personality and social psychology*,*39*(5), 940.
 
@@ -26,6 +30,8 @@ title: References
 ##### Ferreira, P. (2014). Beliefs and Practices towards Teaching and Learning Grammar: A Multicase Study. *Bellaterra: journal of teaching and learning language and literature*, *7*(3), 14-29.
 
 ##### Galante, A. (2014). English language teaching in the post-method era. Contact,40(3), 57-62.
+
+##### Git. (n.d.). Git. Retrieved April 28, 2016, from https://git-scm.com/ 
 
 ##### Gregersen, T. (2003). To err is human: A reminder to teachers of language-anxious students. Foreign Language Annals, 36, 25-32.
 
@@ -73,11 +79,15 @@ title: References
 
 ##### Scott, M. J., & Ghinea, G. (2014). On the domain-specificity of mindsets: The relationship between aptitude beliefs and programming practice. *Education, IEEE Transactions on*, *57*(3), 169-174.
 
+##### Stallman, R. (2002). *Free software, free society: Selected essays of Richard M. Stallman*. Retrieved from: http://www.gnu.org/doc/fsfs3-paperback.pdf.
+
 ##### Sung, K. Y., & Tsai, H. M. (2014). Exploring Student Errors, Teachers' Corrective Feedback (CF), Learner Uptake and Repair, and Learners' Preferences of CF. *The Journal of Language Teaching and Learning*, *4*(1), 37-54.
 
 ##### Sweller, J. (2010). Cognitive Load Theory: Recent Theoretical Advances. In, J. L. Plass, R. Moreno, & R. Brünken (Eds.) Cognitive Load Theory, 1st Ed., pp. 29-47. Cambridge: Cambridge University Press. Cambridge Books Online. Web. 25 January 2015 
 
 ##### Torres, K., & Turner, J. E. (2014). Exploring students’ foreign language anxiety, intercultural sensitivity, and perceptions of teacher effectiveness. *The Journal of Language Teaching and Learning*, *4*(1), 84-101.
+
+##### Wagstrom, P., Jergensen, C., & Sarma, A. (2012). Roles in a Networked Software Development Ecosystem: A Case Study in GitHub. *CSE Technical reports*. Paper 149. Retrieved from: http://digitalcommons.unl.edu/csetechreports/149
 
 ##### Ward, L. (2014, November 7). Most language students unable to do more than understand basic phrases. The Guardian. Retrieved from[ http://www.theguardian.com/education/2014/nov/07/-sp-young-people-language-learning-a-level](http://www.theguardian.com/education/2014/nov/07/-sp-young-people-language-learning-a-level) 
 

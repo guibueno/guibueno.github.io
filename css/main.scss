@@ -76,6 +76,8 @@ $on-laptop:        800px;
     body {
     	background-color: #FFF;
     	font-family: Georgia;
+        font-size: 22pt;/*era 12*/
+        line-height: 28pt;
     }
 
     img {
@@ -83,7 +85,7 @@ $on-laptop:        800px;
 	}
 
 	@page {
-		margin: 1in 1in 1in 0.75in;
+		margin: 1.1in 1.1in 1.1in 0.85in;
 	}
 
 	.highlighter-rouge, .highlight {
@@ -94,8 +96,18 @@ $on-laptop:        800px;
 		page-break-after: always;
 	}
 
-	h1 {
+	h1.post-title {
 		page-break-before: always;
+        font-size: 72pt;
+        font-family: "Mathlete-Bulky";
+        text-align: center;
+        background-image: url(/images/arabesco.png);
+        background-position: center center;
+        background-repeat: no-repeat;
+        /*background-size: 251px 227px;*/
+        /*background-size: 262px 237px;*/
+        background-size: 325px 300px;
+        padding: 125px;
 	}
 
 	table, .alertbox {
@@ -104,5 +116,20 @@ $on-laptop:        800px;
 
     #hideme {
         display: none;
+    }
+ 
+    p.intro::first-letter {
+        font-size: 100pt;
+        font-family: "Archistico";
+        float: left;
+        line-height: 80px;/*era 60*/
+        padding-top: 18px;
+        padding-right: 8px;
+        padding-left: 3px;
+    }
+
+    p.intro::first-line { 
+        font-variant: small-caps;
+        font-size: 24pt;/*era 14*/
     }
 }

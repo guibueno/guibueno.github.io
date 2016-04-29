@@ -8,7 +8,8 @@ workon:
   - "Add brief description of other categories of products"
 ---
 
-As described in the firs section, the landscape of language learning tools is vast and diverse. This section analyzes only a few **language learning mobile applications**, since **LanguageBug** belongs to this category.
+As described in the first section, the landscape of language learning tools is vast and diverse. This section analyzes only a few **language learning mobile applications**, since **LanguageBug** belongs to this category.
+{: class="intro"}
 
 This is also a broad category that includes a large group of services. They were chosen based on relevance and popularity, according to the number of downloads on Apple Store.
 

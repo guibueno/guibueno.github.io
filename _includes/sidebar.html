@@ -166,6 +166,30 @@
 
 			{% endfor %}
 
+			<p class="doctitle">Appendices</p>
+
+			{% for doc in site.docs %}
+
+				{% if doc.section == "appendix" %}
+
+					<li>
+
+					{% if doc.hide %}
+
+						{{ doc.title }}
+
+					{% else %}
+
+						<a href="{{ doc.url | prepend: site.baseurl }}">{{ doc.title }}</a>
+
+					{% endif %}
+
+					</li>
+
+				{% endif %}
+
+			{% endfor %}
+
 			<p class="doctitle"><a href="/docs/references.html">References</a></p>
 
 			<p class="doctitle"><a href="/pdf">[Print PDF]</a></p>
