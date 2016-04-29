@@ -1,0 +1,22 @@
+---
+layout: meeting
+title: "Prototype Final Steps"
+date: 2016-04-27 13:00:00 -0400
+participants:
+  - "Daniel Negri"
+where: MAGNET 821
+duration: 180min
+topics:
+  - "Walk-through the main sections and requirements of a Design Document"
+  - "Show and explain one example of a good design document (Nicole's)"
+  - "Show and explain what I have done and how I have built my prototypes and website"
+  - "Explain and demonstrate the main intended mechanisms of the LanguageBug service"
+  - "Ask for feedback and guidelines in terms of the next development steps"
+results:
+  - 
+---
+
+<center>
+<a href="2016-04-28-daniel-1.jpg"><img src="2016-04-28-daniel-1.jpg" alt="Board" width="45%"></a>
+<a href="2016-04-28-daniel-2.jpg"><img src="2016-04-28-daniel-2.jpg" alt="Daniel" width="45%"></a>
+</center><br>

@@ -80,7 +80,7 @@ Language-based resources for language learners are extremely abundant on the Int
     <td class="title">Language Exchange</td>
     <td>HelloTalk, My Language Exchange</td>
   </tr>
-  <tr>
+  <tr class="diff">
     <td class="title">Pronunciation Databases</td>
     <td>Forvo, howjsay.com, inogolo</td>
   </tr>

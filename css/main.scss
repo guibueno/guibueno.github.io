@@ -26,6 +26,16 @@ $red-color:       #D63232;
 $red-color-light: lighten($red-color, 40%);
 $red-color-dark:  darken($red-color, 25%);
 
+// Print variables
+
+$print-font-size:     22pt;
+$print-blocquote:     18pt;
+$print-first-line:    24pt;
+$print-first-letter:  100pt;
+$print-h1-size:       78pt;
+$print-h3-size:       48pt;
+$print-h4-size:       36pt;
+
 // Width of the content area
 $content-width:    800px;
 
@@ -76,7 +86,7 @@ $on-laptop:        800px;
     body {
     	background-color: #FFF;
     	font-family: Georgia;
-        font-size: 22pt;/*era 12*/
+        font-size: $print-font-size;
         line-height: 28pt;
     }
 
@@ -98,7 +108,7 @@ $on-laptop:        800px;
 
 	h1.post-title {
 		page-break-before: always;
-        font-size: 72pt;
+        font-size: $print-h1-size;
         font-family: "Mathlete-Bulky";
         text-align: center;
         background-image: url(/images/arabesco.png);
@@ -110,6 +120,20 @@ $on-laptop:        800px;
         padding: 125px;
 	}
 
+    div.post-content h3 {
+        font-size: $print-h3-size;
+        font-family: "Mathlete-Bulky";
+        padding-top: 50px;
+        padding-bottom: 25px;
+    }
+
+    div.post-content h4 {
+        font-size: $print-h4-size;
+        font-family: "Mathlete-Bulky";
+        padding-top: 35px;
+        padding-bottom: 10px;
+    }
+
 	table, .alertbox {
 		page-break-inside: avoid;
 	}
@@ -117,19 +141,28 @@ $on-laptop:        800px;
     #hideme {
         display: none;
     }
- 
-    p.intro::first-letter {
-        font-size: 100pt;
-        font-family: "Archistico";
-        float: left;
-        line-height: 80px;/*era 60*/
-        padding-top: 18px;
-        padding-right: 8px;
-        padding-left: 3px;
-    }
 
-    p.intro::first-line { 
-        font-variant: small-caps;
-        font-size: 24pt;/*era 14*/
+    header, h1, div, blockquote.alertbox, blockquote.missingbox
+    {
+        & + p::first-letter {
+            font-size: $print-first-letter;
+            font-family: "Archistico";
+            float: left;
+            line-height: 80px;/*era 60*/
+            padding-top: 18px;
+            padding-right: 8px;
+            padding-left: 3px;
+        }
+        
+        & + p::first-line {
+            font-variant: small-caps;
+            font-size: $print-first-line;
+        }
+    }
+    blockquote {
+        border-left: 3px dotted $text-color;
+        font-size: $print-blocquote;
+        font-style: normal;
+        color: $text-color;
     }
 }
