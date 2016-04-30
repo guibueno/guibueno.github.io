@@ -5,9 +5,9 @@ section: intro
 incomplete: no
 ---
 
-When discussing how to make language learning more efficient, the word "**method**" immetiately comes to mind. But in language learning, methods have mostly been characterized by a strict purism that is now outdated.
+When discussing how to make language learning more efficient, the word "**method**" immediately comes to mind. But in language learning, methods have mostly been characterized by a strict purism that is now outdated.
 
-In fact, Brown (2002, p. 10) has listed several reasons for teachers and researchers to give up with an "obsession" with language learning methods. This list includes the following items:
+In fact, Brown (2002, p. 10) has listed several reasons for teachers and researchers to give up the "obsession" with language learning methods. This list includes the following items:
 
 * It is hard to empirically test, verify, and validate language pedagogy,
 * Methods are usually too prescriptive and overgeneralized,
@@ -56,21 +56,19 @@ Today, it has become rare to find an exclusive TPR classroom, where speaking, wr
 
 ### The post-method Era
 
-Although the designer methods should be applauded “for their innovative flair”, we now acknowledge that they were “not the godsend that their inventors and marketers hoped they would be” (Brown, 2000, p. 25).
+Designer methods such as TPR should be applauded “for their innovative flair” and have certainly left behind their own legacy of findings, achievements, and teaching strategies. However, we now acknowledge that they were “not the godsend that their inventors and marketers hoped they would be” (Brown, 2000, p. 25) in light of their limitations.
 
-Just like in TPR's case, the other designer methods are now unpopular and considered limited. But, similarly, each of them has also left its own legacy of findings, achievements, and teaching strategies.
-
-Brown (2002) coined the expression **Post-Method Era** (p. 9) to refer to this moment, when practices that come from different, fundamentalist methods can be integrated into a single approach.
+Brown (2002) coined the expression **Post-Method Era** (p. 9) to refer to the moment in which practices that come from different, fundamentalist methods can be integrated into a single approach.
 
 ### Approaches
 
-In Brown's characterization (2000, p. 13), while in the 1970s language teaching consisted of many competing methods, it is "now more aptly characterized by a relatively unified, comprehensive ‘**approach**’".
+While in the 1970s language teaching consisted of many competing methods in Brown's view (2000, p. 13), it is "now more aptly characterized by a relatively unified, comprehensive ‘**approach**’".
 
-Galante (2014) defines this a “shift from using methods in the purist sense to recognizing that the nature of language learning is complex and nonlinear” (p. 58). 
+Galante (2014) defines this as a “shift from using methods in the purist sense to recognizing that the nature of language learning is complex and nonlinear” (p. 58). 
 
-An approach, therefore, is a consistent body of knowledge (strategies, scientific findings, ...) that support a particular path to language teaching and learning. It does so without being neither restrictive, nor normative.
+An approach, therefore, is a consistent body of knowledge (strategies, scientific findings, ...) that supports a particular path to language teaching and learning. It does so without being restrictive, or normative.
 
-*Image 1* summarizes this whole trajectory from the designer methods to the post-method era. It ends with the acknowledgement that "*there is no single right way to learn languages*"
+*Image 1* summarizes this whole trajectory from the designer methods to the post-method era. It ends with the acknowledgement that "*there is no single right way to learn languages*".
 
 [![Image 1 - The Post-Method Era](/images/doc1-intro-methods.jpg)](/images/doc1-intro-methods.jpg)
 _Image 1 - Methods & The Post-Method Era_

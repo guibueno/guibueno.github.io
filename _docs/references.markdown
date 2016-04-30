@@ -43,6 +43,8 @@ title: References
 
 ##### Horwitz, E., Horwitz, M., & Cope, J. (1986). Foreign language classroom anxiety. The Modern Language Journal, 70, 125-132.
 
+##### IDEO.org. (n.d.). Embrace Ambiguity. Retrieved April 30, 2016, from http://www.designkit.org/mindsets/5
+
 ##### Johnson, S. (2015, March 18). Learning a language in later life: Are you ever too old? The Guardian. Retrieved from [http://www.theguardian.com/education/2015/mar/18/](http://www.theguardian.com/education/2015/mar/18/learning-a-language-in-later-life-are-you-ever-too-old).
 
 ##### Kern, R. G. (1995). Students' and teachers' beliefs about language learning. Foreign Language Annals, 28, 71-92.
@@ -78,6 +80,8 @@ title: References
 ##### Saffer, D. (2009). *Designing for interaction: creating innovative applications and devices*. New Riders.
 
 ##### Scott, M. J., & Ghinea, G. (2014). On the domain-specificity of mindsets: The relationship between aptitude beliefs and programming practice. *Education, IEEE Transactions on*, *57*(3), 169-174.
+
+##### Smith, P. L., & Ragan, T. J. (1999). *Instructional design* (p. 3). New York: Wiley.
 
 ##### Stallman, R. (2002). *Free software, free society: Selected essays of Richard M. Stallman*. Retrieved from: http://www.gnu.org/doc/fsfs3-paperback.pdf.
 

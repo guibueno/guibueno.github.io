@@ -1,0 +1,29 @@
+---
+layout: meeting
+title: "Narrative Brainstorm"
+date: 2016-04-29 14:00:00 -0400
+participants:
+  - "Others"
+  - "Brad Tamura"
+where: MAGNET 821
+duration: 120min
+topics:
+  - "How to create a nice, engagin narrative based on the idea of a LanguageBug?"
+  - "Explain initial ideas, expand ideas and settle on an initial version"
+results:
+  - "Each bug corresponds to a Principle, which causes a certain 'good infection'"
+  - "Listed initial suggestions of names, species and principles of main bugs"
+  - "Underlying narrative is that user has been bitten by one LanguageBug"
+  - "After that, this affects the learner's mental acitivty and perception"
+  - "This generates changes in behavior and a superior language learning ability"
+  - "I should avoid the word 'disease', and talk more about 'infections' only"
+  - "Possibly begin the presentation with a regular generic language app"
+  - "Then, the screen is taken by bugs and the user get bitten by them"
+---
+
+<center>
+<a href="2016-04-29-brad-1.jpg"><img src="2016-04-29-brad-1.jpg" alt="" width="45%"></a>
+<a href="2016-04-29-brad-2.jpg"><img src="2016-04-29-brad-2.jpg" alt="" width="45%"></a>
+<a href="2016-04-29-brad-3.jpg"><img src="2016-04-29-brad-3.jpg" alt="" width="45%"></a>
+<a href="2016-04-29-brad-4.jpg"><img src="2016-04-29-brad-4.jpg" alt="" width="45%"></a>
+</center><br>

@@ -4,6 +4,7 @@ title: "Thesis Final Steps"
 date: 2016-04-27 13:00:00 -0400
 participants:
   - "Nicole Pallares"
+  - "Shashank Pawar"
 where: MAGNET 821
 duration: 60min
 topics:

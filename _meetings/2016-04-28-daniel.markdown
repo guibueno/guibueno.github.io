@@ -1,7 +1,7 @@
 ---
 layout: meeting
 title: "Prototype Final Steps"
-date: 2016-04-27 13:00:00 -0400
+date: 2016-04-27 20:00:00 -0400
 participants:
   - "Daniel Negri"
 where: MAGNET 821
@@ -13,7 +13,10 @@ topics:
   - "Explain and demonstrate the main intended mechanisms of the LanguageBug service"
   - "Ask for feedback and guidelines in terms of the next development steps"
 results:
-  - 
+  - "LanguageBug is not necessarily behaviourist, because there is not right/wrong."
+  - "Self-assessment consists of Adapatation/Acommodation (Piaget), not conditioning"
+  - "Dojo is a nice technique to learn coding by intensive practicing"
+  - "Nice table/infographic that explains how to deal with the content. Check images."
 ---
 
 <center>

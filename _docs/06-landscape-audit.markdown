@@ -6,6 +6,8 @@ incomplete: no
 problem: "it is a little limited"
 workon:
   - "Add brief description of other categories of products"
+  - "ADD THE LANDSCAPE AUDIT TABLE"
+  - "IMAGE CLASS ROSETTA & 1 ICON IMAGES"
 ---
 
 As described in the first section, the landscape of language learning tools is vast and diverse. This section analyzes only a few **language learning mobile applications**, since **LanguageBug** belongs to this category.

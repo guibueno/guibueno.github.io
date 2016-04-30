@@ -1,24 +1,27 @@
 ---
-title: Website
+title: Formative Evaluation
 layout: doc
 section: eval
 ---
 
-Knowing that formative evaluation is an efficient strategy to achieve better results, I created a valuable, customized tool to store and display all information related with **LanguageBug**: an open-access website. This website became at the same time my central workplace and a channel to showcase my progress. It offered my community of collaborators (my peers, instructors, and committee members) the constant opportunity to access and review my work during all stages of development.
+It is a recommended practice to conduct formative evaluation during each of the five stages represented by the ADDIE Model (Smith; Ragan, 1999). In light of that, I have created a customized, open-access, website that stores and displays all information related to this thesis project. 
 
-In this section, I describe the main functions, features, and mechanisms of this website. In addition to that, I explain and illustrate how it has impacted my design decisions at different times and stages.
+Such website became at the same time my central workplace and a channel to showcase my progress. It has offered my community of collaborators (my peers, instructors, and committee members) an ongoing and unlimited opportunity to access and review my work during the whole design process.
 
-### Git, *Jekyll*, *GitHub Pages*
+[![The ADDIE Model]({{site.baseurl}}/images/eval-website-addie.jpg)]({{site.baseurl}}/images/eval-website-addie.jpg)
+{: style="text-align: center"}
 
-Facing the need to have a simple, easy, and fast way to communicate with my community of collaborators, I began to search for softwares and tools that could be helpful. What I first realized was that I needed some sort of versioning control to document my process, since I was would be working on a document **and** on a software at the same time.
+In this section, I describe the main functions, features, and mechanisms of this website. In addition to that, I explain and illustrate how creating and using this website has impacted my design decisions at different times and stages.
 
-> "What is "version control", and why should you care? Version control is a system that records changes to a file or set of files over time so that you can recall specific versions later". (Chacon; Straub, 2014)
+### *Git*, *Jekyll*, *GitHub Pages*
 
-I have had a brief experience using Git, which through research I confirmed to be a suitable tool:
+Facing the need to have a simple, easy, and fast way to communicate with my community of collaborators, I began to search for softwares and tools that could be helpful. What I first realized was that I needed some sort of versioning control to document my process. This was particularly important due to the fact that, besides working on a extensive design document, I would also program my entire software prototype.
 
-> "Git is a free and open source distributed version control system designed to handle everything from small to very large projects with speed and efficiency" (Git, n.d.)
+> "What is "version control", and why should you care? Version control is a system that records changes to a file or set of files over time so that you can recall specific versions later". (Chacon; Straub, 2014) Through research, I confirmed that *Git* was a suitable tool for my needs:
 
-My first attempt was to create a private repository on BitBucket, a platform I had already used. I did so and added some of my commitee members (the ones that with the most technical expertise) as contributors, so that:
+> "*Git* is a free and open source distributed version control system designed to handle everything from small to very large projects with speed and efficiency" (Git, n.d.)
+
+My first attempt was to create a private repository on *BitBucket* (a repository platform that runs *Git*). Some of my committee members, who are particularly proficient in technology and know how to operate *Git*, were added as contributors to that repository, so that:
 
 - they would be able to see, comment, and change any file at anytime,
 - while I would be able to keep track of those changes and comments.
@@ -26,15 +29,13 @@ My first attempt was to create a private repository on BitBucket, a platform I h
 [![BitBucket Repo]({{site.baseurl}}/images/eval-website-bitbucket.png)]({{site.baseurl}}/images/eval-website-bitbucket.png)
 {: style="text-align: center"}
 
-However, after one week, I realized that the engagement was insufficient and that using BitBucket would limit the access to my project to only a few people who could operate git. Therefore, I kept looking for alternatives and found out about *Jekyll* and *GitHub Pages*:
+However, after only one week, I realized that repository was not generating any engagement between my committee members and I. This made me realize that using *BitBucket* and interacting with only the committee member who could operate *Git* would not be enough for a valid, continuous evaluation. Therefore, I kept looking for alternatives and found out about *Jekyll* and *GitHub Pages*:
 
 > "*Jekyll*: A tool for creating static HTML websites from a set oftemplates and data. *Jekyll* is used by GitHub to create static web pages for GitHub hosted projects". (Wagstrom; Jergensen, 2012, p. 5)
 
 I consulted with my I.T. specialist committee members [Daniel Negri](/people/daniel.html) and [Ludmilla Aires](/people/lud.html), who both agreed this tool would suit my needs. 
 
-For about two weeks, I focused all my efforst into learning how to install, operate and build my thesis project website using those tools. Indeed, I am still in the process of learning/perfectioning such skills.
-
-Additionally, this experience fulfilled a set of goals I have had since the beginning of the thesis course: 
+For about two weeks, I focused all my effort to learn how to install, operate and build a thesis project website using those tools. This experience fulfilled a set of goals I have had since the beginning of the thesis course: 
 
 - to learn to operate version control systems,
 - to re-connect with coding, especially for web, and
@@ -44,7 +45,7 @@ This process is further described on [Blog#7 New Thesis Website](/blog/2016/03/2
 
 ### Centralization
 
-After realizing the potentials of *GitHub Pages* + *Jekyll*, I designed this website to be my central workplace and project management tool. Here I briefly describe its funtions and sections.
+As I realized the potentials of *GitHub Pages* combined with *Jekyll*, I began to design my website to be the central workplace and project management tool for my thesis. Here I briefly describe the funtions and sections I have created and how they have helped me structure, organize, and collect feedback on my process.
 
 #### Me
 
@@ -55,7 +56,7 @@ This section was designed to provide my basic biographic information, plus the l
 
 #### Demo
 
-The "Demo" section is designed to display and link to the responsive prototypes. In other words, while the final design document needs to be static, the website allows access to the interactive iterations that were build using either *MockingBot* or *Reveal.js*.
+The "Demo" section displays the responsive prototypes I have created. While the final thesis paper (or design document) needs to be static, this website allows users to interact with my design iterations created on *MockingBot* or using *Reveal.js*.
 
 ![reveal1.PNG](/images/prototype/image04.png)
 {: style="text-align: center" class="reveal"}
@@ -67,9 +68,7 @@ By accessing the "Doc" page, users are able to see all sections of the design do
 [![Doc section]({{site.baseurl}}/images/eval-website-doc.png)]({{site.baseurl}}/images/eval-website-doc.png)
 {: style="text-align: center"}
 
-By doing so, I am able to work seperately on each section, which has simplified and increased the speed of both my workflow and the process of getting feedback from my community of collaborators. 
-
-For example, if I have been devoting time to the *Landscape Audit* section, I can simply send my community of collaborators a link to the Landscape Audit page and they will easily access it on any browser and device.
+This enabled me to work seperately on each section, which has simplified and increased my workflow. Getting feedback from my community of collaborators also became easier. For example, if I have been devoting time to the *Landscape Audit* section, I can send a simple URL link to my community of collaborators and they will directly access the Landscape Audit page on any device.
 
 #### Logs
 
@@ -84,27 +83,42 @@ All this information is stored on a weekly basis, providing longitudinal informa
 
 This section also stores brief reports from all meetings. It prevents me from forgetting or losing valuable hints, notes, pictures, and sketches procuded during these formal or informal encounters.
 
-Finally, the "Logs" section contains the most important upcoming deadlines and an entire *Blog* (or *Reflection Journal*) on which I freely discuss my design process, feelings, and uncertainties.
+Finally, the "Logs" section contains the most important upcoming deadlines and an entire *Blog* (or *Reflection Journal*) on which I freely discuss my design process, feelings, achievements and uncertainties.
 
-### Networked Software Development Ecosyste
+### Networked Software Development Ecosystem
 
-By hosting this website on GitHub, all my thesis project files, including these very words, are open for anyone to access, modify, re-use, share, etc. In other words, *LanguageBug* qualifies as a Free / Open Source Software (F/OSS), aligning it with ideologies of which I am proudly supportive (Stallman, 2002; Coleman, 2013).
+Since this website is hosted on *GitHub Pages*, all my thesis project files, including these very words, are open for anyone to contribute with, access, modify, re-use, or share. 
 
-Therefore, even if **LanguageBug** has not yet received contributions from individuals who do not belong to my known community of collaborators. As Wagstrom and Jergensen (2012) state:
+In other words, **LanguageBug** qualifies as a Free / Open Source Software (F/OSS), which aligns it with ideologies of which I am proudly supportive (Stallman, 2002; Coleman, 2013).
 
-> "New project hosting sites such as GitHub, which brands itself as facilitating 'social coding' are changing the way open source is perceived and how it is practiced" (p. 1)
+As Wagstrom and Jergensen (2012) call this architecture of development "social coding" and state that tool such as *GitHub* are "changing the way open source is perceived and how it is practiced" (p. 1)
 
-On the other hand, being *open* to social coding is merely good start, which does not guarantee that **LanguageBug** will be actually developed in a social way. Doing so helps me get comfortable with the archtecture and mechanisms of F/OSS, which could be helpful in the process of escalating to that point. In fact:
+Being *open* to social coding is merely good start, which does not guarantee the participation of other individuals on the development of **LanguageBug**. But doing make me understand better the mechanisms of F/OSS, which will eventually help me escalate to an actual *social coding* practice. In fact,
 
-> "at there is still much to learn about the roles that individuals play in open source development and how we can best ensure that these projects are successful and that individuals get the support they need to continue to grow" (Wagstrom; Jergensen, 2012, p. 11)
+> "there is still much to learn about the roles that individuals play in open source development and how we can best ensure that these projects are successful and that individuals get the support they need to continue to grow" (Wagstrom; Jergensen, 2012, p. 11)
 
+### Getting Feedback
 
-* I want to make sure it stays like this, in a F/OSS way
-* I went ahead and asked my peers and committee member for feedback through it
-* Available at anytime, through a fixed link that showed my progress as it happened.
--- screenshots of different times of the website
--- screenshots of the storyboard conversation
-* This communication would happen on a Slack channel
-* it has worked very well
--- nick's feedback on adding images
-* Work-in-progress draft
+At different occasions, the feedback I have received from my community of collaborators was crucial to the improvement of my designs. Most of this communication has happened through either private message channels (email, Facebook, and SMS messages) or on my Slack channel, to which all my peers had access.
+
+[![Slack]({{site.baseurl}}/images/eval-website-slack.png)]({{site.baseurl}}/images/eval-website-slack.png)
+{: style="text-align: center"}
+
+For example, when I shared my first draft of a Storyboard, I received a lot of attention from my peers (five people have commented on it in less than 24 hours). They seemed to agree that the storyboard was visually appealing, but did not describe well my solution and context:
+
+> **hani**: Your storyboard looks great Gui! It completely describes the potential advantages your app has as opposed to traditional methods in language learning for self motivated learners. I am just wondering if maybe one or two more boxes to elaborate more why these differences exist compare to other apps. I also love the way you develop your landscape audit!
+
+> **nicole**: it feels a bit more like a comparison than a storyboard. Still super nice actually but if you add a bit more detail into what actually happens inside (yours) and inside (other app) you would have two storyboards that compare which is actually pretty awesome.
+
+These suggestions and comments were taken into account when building the new version of the storyboard (with the help of my talented committee member, [Amanda Letícia](/people/amanda.html)). As it can be easily seen on this image, the amount of information to describe how both **LanguageBug** and most of the other applications operate has increased significantly.
+
+[![Slack]({{site.baseurl}}/images/eval-website-evolution.png)]({{site.baseurl}}/images/eval-website-evolution.png)
+{: style="text-align: center"}
+
+### Conclusion: work-in-progress draft
+
+The formative evaluation of the design of **LanguageBug** was accomplished by using *Git*, *GitHub Pages*, and by sharing each individual step of my design process with my peers and friends. I have obtained valuable information and suggestions from experienced designers which different expertise.
+
+As a side effect, such an intense flow of suggestions and ideas has made me get used to treating all pieces of my project as work-in-progress drafts. 
+
+Although constantly lacking a sense of completion could be a problem for a final academic project, I consider this a positive side-effect. It has helped me understand I have "permission to explore" and even to fail, which aligned me with the **Embrace Ambiguity** design mindset (IDEO.org, n.d.).

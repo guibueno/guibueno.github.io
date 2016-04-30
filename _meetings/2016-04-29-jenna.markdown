@@ -1,0 +1,29 @@
+---
+layout: meeting
+title: "Writing: Flow and Style"
+date: 2016-04-29 16:40:00 -0400
+participants:
+  - "Others"
+  - "Jenna Pierce"
+where: MAGNET Computer Lab
+duration: 120min
+topics:
+  - "Explain the purpose and main secitons of a design document DMDL thesis paper"
+  - "Show how I am structuring content and explain what I am currently struggling with"
+  - "Let Jenna read the first section of the paper and make suggestions/corrections"
+  - "Get general feedback on how to structure the content I have in a better narrative"
+results:
+  - "Discussed and fixed a few weird sentences, grammar and spelling mistakes."
+  - "Decided to move 'Method' section to the design rationale part"
+  - "Also, remove/change 'Overview section' and move 'Integration' to 'Context/Settings'"
+  - "Focus on the following problems:
+    <ul>
+      <li>Too many resources which don't explain to you why they function in certain way (why you should emphasize some practices over others</li>
+      <li>Besides that, such resources and other language learning trainings action detract from the actual objective</li>
+    </ul>"
+  - "Make sure I use the weight-lifting metaphor"
+---
+
+<center>
+<a href="2016-04-29-jenna.jpg"><img src="2016-04-29-jenna.jpg" alt="The face of enthusiasm" width="100%"></a>
+</center><br>
