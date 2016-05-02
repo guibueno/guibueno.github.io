@@ -1,62 +1,87 @@
 ---
-title: Test Plan
+title: User Tests
 layout: doc
-section: appendix
-incomplete: yes
-problem: "It needs some final tweaks before performing the actual user tests"
-workon:
-  - "Interview script"
-  - "Improve/finalize this draft"
+section: eval
+incomplete: no
 ---
 
-The main goal of conducting user tests was to evaluate if providing feedback 
+The *self-assessment video* feature works on the assumption that if language learners are given the chance to take risks and to even make mistakes, their practice time will become more effective. Therefore, rather than constantly letting learners know if their speech is right or wrong, **LanguageBug** would prompt them to record a video of themselves after each practice.
 
-Testing **LanguageBug** will result in insights on usability, such as:  
+Learners would then be able to evaluate their own learning progress and assess their own language proficiency. The purpose of conducting user tests was to collect initial feedback on this feature and to generate more design questions. 
 
-- see if the mechanics works well,  
+### Primary goal
+
+My peers and instructor made me aware of other hypotheses and some concerns related with the *self-assessment video feature*, such as:
+
+- Would this kind of video really be motivating to learners?
+- Could these videos make learners feel shy and embarassed?
+- Would learners be interested in watching themselves speaking?
+
+The primary goal of the user tests was to collect initial information that could guide me on verifying these hypotheses.
+
+### Secondary goals
+
+Conduct user tests would also provide me with general insights on usability, such as:
+
+- evaluate if the mechanics of the application are working well, 
 - if the features are easy to access and user friendly,  
-- figure out the gaps I need to address  
-
-and the efficiency of the current design in the learning process. Also, we can better understand how people react to this learning approach and how motivated they get at the end of the session.
+- understand how users feel while using the app,
+- discover additional gaps I would like to address, and
+- find out other perceptions and reflections on the app.
 
 ### Research method
 
-We will use a qualitative approach, where participants will first use and test our current version of *LanguageBug*, followed by a one-on-one interview.
+I performed a "*Wizard of OZ*" simulation of the **LanguageBug** application. According to the Handbook of human-computer interaction (Helander, 2014),
+
+> "The ability to simulate the eventual interface on the basis of early designs is a real advantage. One technique that is used is referred to as the 'Wizard of Oz' method. In this, the interface is simulated with the aid of human confederates. This is particularly useful in cases where a complex task machine would have to be built in order to test an actual implementation of the design" (p. 987)
+
+My roles as the "Wizard of Oz" were:
+
+- to walk users through the different simulated app screens,
+- to speak Portuguese at all times an audio would be played,
+- to give command prompts to the users on a established order,
+- to praise efforte and encourage learners to keep trying, and
+- to record the learners performance after each practice.
+
+During the whole test, I observed users reactions, but refraining myself from:
+
+- providing additional information on the prompts,
+- explaining the sentences beyond their translation, and
+- making any sort of correction or interference.
+
+After the tests, I conducted a brief one-on-one interview with each participant, in which I asked open questions such as:
+
+- how are you feeling?
+- how did you like this experience?
+- do you have any feedback or concern you want to share?
+- would you try and learn a language in this way?
+
+After the tests, I sent the (supposedly) **self-assessment videos** to each of the users with a post-test questionnaire to assess:
+
+- how much learning they believe they have accomplished,
+- how they felt when they saw themselves speaking Portuguese,
+- how they would assess their own performance, and
+- if they would expect their performance to be better after a second practice.
 
 ### Recruitment strategy 
-(who, how many, where will you find, etc)
 
-Our target participants are adults who does not speak Portuguese. They will be selected through a quick online [survey](https://docs.google.com/forms/d/12VRYNiSausPkOfFtaqPWu12kPYB-qwK0PhMY_1JBxTU/edit?usp=sharing_eid&ts=57116ed1), based on their interest in learning Portuguese. We expect from 6 to 10 participants.
+Since **LanguageBug** targets adults learners who do not speak Portuguese, there were many eligible user testers in the DMDL/G4L programs. I selected user testers based on responses on a quick online [survey](https://docs.google.com/forms/d/12VRYNiSausPkOfFtaqPWu12kPYB-qwK0PhMY_1JBxTU/edit?usp=sharing_eid&ts=57116ed1), which assessed:
+
+- prior experience with or exposure to the Portuguese languge,
+- interest in learning Portuguese, and
+- self-beliefs on language learning abilities.
+
+The complete rationale for this pre-questionnaire survey can be found in the Appendixes.
 
 ### Location
 
-The research will be conducted at Magnet.
+The user tests were conducted at NYU MAGNET.
 
-### Assitance
-(solo, or will you have someone helping you to take notes, etc)
+### Materials
 
-The research will be conducted by myself, interviewing, and Amanda, one of my committee members, who will be there to help me take notes and record the session.
+A low-fidelity prototype built on Google Slides was used during the user tests. The slides provided users with the actual content from **LanguageBug: Portuguese**.
 
-### Recording
-
-We will record the session and our participants speaking what they have learned of Portuguese at the end. We will also take notes of what participants think about their experience.
-
-### Material
-(e.g. sketches, wireframes, prototypes, actual pages?)
-
-We will use our prototype for testing.
-
-### Specific questions
-(e.g. for usability tests, what tasks, for focus groups/interviews, what questions)
-
-1. Short interview asking participants their current motivation to learn Portuguese and their previous experience in learning languages (if they have).
-
-2. Participants will explore LanguageBug freely, using it the way they feel like.
-
-3. Participants will perform a specific exercise.
-
-4. Interview asking participants their current motivation to learn Portuguese, what they feel about the app, the approach, the learning experience.
-
-### Testint the test
-
-We will test our script in the first two interviews with the participants
+![Landscape Audit](/images/eval-plan-prototype.png)
+{: style="text-align: center"}
+**Image** - _Screen-shot of the material used on the user tests_
+{: style="text-align: center"}

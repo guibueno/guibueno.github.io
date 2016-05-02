@@ -6,18 +6,20 @@ section: eval
 
 As part of the thesis course schedule, on March 8th I was part of a *User Experience Workshop* with my peers and the UX Designer Shombit Chatterjee. This event was particularly important because it was the first time I received feedback from peers on an actual design iteration for **LanguageBug**.
 
-### Reveal.js
+### *Reveal.js*
 
-At that time, I had just chosen Reveal.js as my prototyping platform. In its essence, Reveal.js is a presentation framework, not a prototyping tool. Therefore, unlike any actual prototyping tool, Reveal.js does not have:
+At that time, I had just chosen *Reveal.js* as my prototyping platform. In its essence, *Reveal.js* is a presentation framework, not a prototyping tool. Therefore, unlike any actual prototyping tool, *Reveal.js* does not have:
 
 - a graphical user interface (GUI), which means that all of the development had to be done using HTML5, CSS and JavaScript.
 - built-in graphic assets (buttons, icons, etc), and
 - mobile function pre-sets (sliding, side menu, etc)
 
-[![Reveal.js]({{site.baseurl}}/images/eval-ux-reveal.png)]({{site.baseurl}}/images/eval-ux-reveal.png)
+[![*Reveal.js*]({{site.baseurl}}/images/eval-ux-reveal.png)]({{site.baseurl}}/images/eval-ux-reveal.png)
+{: style="text-align: center"}
+**Image** - _Prototyping through Reveal.js_
 {: style="text-align: center"}
 
-On the other hand, Reveal.js offers some valuable affordances, which is why I had chosen it as my main tool for the moment:
+On the other hand, *Reveal.js* offers some valuable affordances, which is why I had chosen it as my main tool for the moment:
 
 * It allows for responsiveness to almost any user action,
 * all aspects of the prototype are completely flexible and customizable,
@@ -26,17 +28,21 @@ On the other hand, Reveal.js offers some valuable affordances, which is why I ha
 
 ### My questions
 
-Still unsure about the efficacy of Reveal.js in this context, I was looking for feedback on how to make the usability of **LanguageBug** align with the majority of apps. I was wondering at the time:
+Still unsure about the efficacy of *Reveal.js* in this context, I was looking for feedback on how to make the usability of **LanguageBug** align with the majority of apps. 
+
+I was wondering at the time:
 
 * Is my prototype intuitive? Is it easy to use?
 * Why doesn't it look/feel like a mobile app?
 
-More importantly, I was doubting if my prototype would be engaging, which was why I had signed up for an UX workshop in the first place. I would be constantly asking myself:
+I was also questioning if my prototype would engage users or not. My questions were:
 
 * Will my peers respond to the command prompts?
 * Is the flow of texts happening too fast?
 * Will they be confused by so much information?
 * Does my prototype make it clear where I'm heading to?
+
+My assumptions were that following the design was not intuitive and that learner would need to process most of information in the sensory memory. I was also assuming that user might constantly think "*where should I click?*" and "*would I need to press anything while speaking?*", so that these concerns would affect their learning efficacy.
 
 ### My presentation
 
@@ -46,16 +52,22 @@ The particular purpose of *Speak Fast* is to make learners speak aloud at a chal
 
 ![reveal1.PNG](/images/prototype/image04.png)
 {: style="text-align: center" class="reveal"}
+**Image** - _Initial screen on Reveal.js: a statement without instructions_
+{: style="text-align: center"}
 
 My peers, who have never seen me teaching using those strategies, opened this prototype and immediately began to follow its instructions. Quiclky, they began to respond to the prompts by speaking.
 
 ![reveal1.PNG](/images/prototype/image08.png)
 {: style="text-align: center" class="reveal"}
+**Image** - _2nd screen on Reveal.js: first command instruction_
+{: style="text-align: center"}
 
 As the principle practice continued, they reacted appropriately to the new prompts and began to speak all those words louder and faster. The whole test lasted only about 30 seconds, but was extremely effective.
 
 ![reveal1.PNG](/images/prototype/image02.png)
 {: style="text-align: center" class="reveal"}
+**Image** - _3rd screen on Reveal.js: reinforcing instructions_
+{: style="text-align: center"}
 
 ### Feedback
 
@@ -68,11 +80,21 @@ I was very surprised and satisfied with what I was seeing! My peers had immediat
 
 Most importantly, the overall purpose of my thesis project finally became clear to them, after months of unsuccessful theoretical conversations. It also became clear to me the importance of prototyping as much and as early as possible.
 
-The flow of text was probably happening a little too fast and should be adjustable, they suggested. One of my peers, Bhavana Budithi, also made a good point that the formatting of the instructions and the sentences should differ more drastically, to which I agreed right away.
+### Conclusion
 
-[![Reveal.js]({{site.baseurl}}/images/eval-ux-pre.jpg)]({{site.baseurl}}/images/eval-ux-pre.jpg)
+The participants of that workshop highlighted a few design issues and made some suggestions, such as:
+
+* The flow of instructions and content was probably too fast for most users, therefore it could be helpful to make it adjustable,
+* the formatting of the instructions should differ more drastically from the formatting of the sentences, so that users could immediately differentiate them.
+
+[![*Reveal.js*]({{site.baseurl}}/images/eval-ux-pre.jpg)]({{site.baseurl}}/images/eval-ux-pre.jpg)
 {: style="text-align: center"}
-[![Reveal.js]({{site.baseurl}}/images/eval-ux-post.jpg)]({{site.baseurl}}/images/eval-ux-post.jpg)
+**Image** - _Before workshop: content/instructions distinction_
 {: style="text-align: center"}
 
-Such issues seemed to have minor importance in comparison to the happiness of having finally been able to show my design intentions.
+[![*Reveal.js*]({{site.baseurl}}/images/eval-ux-post.jpg)]({{site.baseurl}}/images/eval-ux-post.jpg)
+{: style="text-align: center"}
+**Image** - _After workshop: content/instructions distinction_
+{: style="text-align: center"}
+
+These and other suggestions were really helpful and guided the next steps of UX development. On the other hand, these issues seemed to have minor importance in comparison to how happy I was feeling after having my design intentions approved by my peers.

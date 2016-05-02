@@ -7,6 +7,8 @@ title: References
 
 ##### Asher, J. J. (1969). The Total Physical Response Approach to Second Language Learning*. *The modern language journal*, *53*(1), 3-17.
 
+##### Atkins, D. E., Brown, J. S., & Hammond, A. L. (2007). A review of the open educational resources (OER) movement: Achievements, challenges, and new opportunities (pp. 1-84). Creative common.
+
 ##### Awan, R., Azher, M., Anwar, M., & Naz, A. (2010). An investigation of foreign language classroom anxiety and its relationship with students’ achievement. Journal of College Teaching & Learning, 7, 33-40.
 
 ##### Bernat, E., Gvozdenko, I. (2005). Beliefs about language learning: Current knowledge, pedagogical implications and new research directions. Retrieved from http://www.researchonline.mq.edu.au/vital/access/services/Download/mq:7446/SOURCE1
@@ -41,6 +43,8 @@ title: References
 
 ##### Hartshorn, K. J. (2013). An Analysis of ESL Learner Preferences for Native Accent Retention and Reduction. *The Journal of Language Teaching and Learning*, *3*(2), 1-20.
 
+##### Helander, M. G. (Ed.). (2014). *Handbook of human-computer interaction*. Elsevier.
+
 ##### Horwitz, E., Horwitz, M., & Cope, J. (1986). Foreign language classroom anxiety. The Modern Language Journal, 70, 125-132.
 
 ##### IDEO.org. (n.d.). Embrace Ambiguity. Retrieved April 30, 2016, from http://www.designkit.org/mindsets/5
@@ -50,6 +54,8 @@ title: References
 ##### Kern, R. G. (1995). Students' and teachers' beliefs about language learning. Foreign Language Annals, 28, 71-92.
 
 ##### Kinzie, M. B. (1990). Requirements and benefits of effective interactive instruction: Learner control, self-regulation, and continuing motivation. *Educational Technology Research and Development*, *38*(1), 5-21.
+
+##### Lessig, L. (2004). *Free culture*: How big media uses technology and the law to lock down culture and control creativity. Penguin.
 
 ##### Lee, V. (Ed.). (2014). Introduction: Technology meets body, body meets technology. In, *Learning Technologies and the Body: Integration and Implementation in Formal and Informal Learning Environments*. New York: Routledge.
 

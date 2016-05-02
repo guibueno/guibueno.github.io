@@ -10,13 +10,21 @@ goals:
   - Schedule meeting with Kam
 nextclass: "Presentations, Part II"
 todo: 
-  - "(04/27) User Testing section: work with Nicole & Karen"
   - "(04/28) Improve Design Rationale"
   - "(04/30) Improve Content section"
-  - "1h/day: work on Presentation & Poster"
-  - "1h/day: improve prototype"
+  - "1h/day: Improve prototype"
 done:
   - "(04/27) Add log from meeting with Maaike"
+  - "(04/27) User Testing with Nicole"
+  - "(04/27) Meeting with Nicole: Thesis final steps"
+  - "(04/28) User Testing with Nissa"
+  - "(04/28) Meeting with Daniel: Prototype final steps"
+  - "(04/29) Meeting with Brad: Narrative brainstorming"
+  - "(04/29) Meeting with Jenna: Document structure"
+  - "(04/30) Evaluation Section Writing"
+  - "(04/30) User test: Post-questionnaire"
+  - "(04/30) Presentation strategies"
+  - "(05/01) TD-Bank Five Boro Bike Ride! :)"
 schedule: 
   - "(04/30) Re-submit design doc"
   - "(05/02) Presentation"
