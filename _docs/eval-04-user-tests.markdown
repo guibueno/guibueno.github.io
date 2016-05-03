@@ -31,9 +31,9 @@ Conduct user tests would also provide me with general insights on usability, suc
 
 ### Research method
 
-I performed a "*Wizard of OZ*" simulation of the **LanguageBug** application. According to the Handbook of human-computer interaction (Helander, 2014),
+I performed a "*Wizard of OZ*" simulation of the **LanguageBug** application. According to the *Handbook of Human-Computer Interaction* (Helander, 2014), the Wizard of Oz’ method happens when "the interface is simulated with the aid of human confederates" (p. 987). Additionally, 
 
-> "The ability to simulate the eventual interface on the basis of early designs is a real advantage. One technique that is used is referred to as the 'Wizard of Oz' method. In this, the interface is simulated with the aid of human confederates. This is particularly useful in cases where a complex task machine would have to be built in order to test an actual implementation of the design" (p. 987)
+> This is particularly useful in cases where a complex task machine would have to be built in order to test an actual implementation of the design" (Helander, 2014, p. 987)
 
 My roles as the "Wizard of Oz" were:
 
@@ -43,11 +43,13 @@ My roles as the "Wizard of Oz" were:
 - to praise efforte and encourage learners to keep trying, and
 - to record the learners performance after each practice.
 
-During the whole test, I observed users reactions, but refraining myself from:
+During the whole test, I would conduct *user observation*. I would also refrain myself from:
 
 - providing additional information on the prompts,
 - explaining the sentences beyond their translation, and
 - making any sort of correction or interference.
+
+#### Brief interview
 
 After the tests, I conducted a brief one-on-one interview with each participant, in which I asked open questions such as:
 
@@ -56,7 +58,9 @@ After the tests, I conducted a brief one-on-one interview with each participant,
 - do you have any feedback or concern you want to share?
 - would you try and learn a language in this way?
 
-After the tests, I sent the (supposedly) **self-assessment videos** to each of the users with a post-test questionnaire to assess:
+#### Post-test questionnaire
+
+A few days after the test session, I sent the **self-assessment videos** to each of the users with a post-test questionnaire to assess:
 
 - how much learning they believe they have accomplished,
 - how they felt when they saw themselves speaking Portuguese,
@@ -71,11 +75,15 @@ Since **LanguageBug** targets adults learners who do not speak Portuguese, there
 - interest in learning Portuguese, and
 - self-beliefs on language learning abilities.
 
-The complete rationale for this pre-questionnaire survey can be found in the Appendixes.
+The complete rationale for this pre-questionnaire survey can be found as an Appendix.
 
 ### Location
 
 The user tests were conducted at NYU MAGNET.
+
+### Duration
+
+Each user test session lasts approximately 1 hour.
 
 ### Materials
 
@@ -85,3 +93,38 @@ A low-fidelity prototype built on Google Slides was used during the user tests. 
 {: style="text-align: center"}
 **Image** - _Screen-shot of the material used on the user tests_
 {: style="text-align: center"}
+
+### Script
+
+In the user tests, I covered the following content:
+
+  * Greetings
+  * Adjectives
+  * Numbers
+  * Self-introduction
+
+For each of these content items, there was a slide that contained a words and expressions in Portuguese. I showed users each of these slides and performed the following actions:
+
+**Speaking**
+
+  1. Read aloud the first word (in Portuguese).
+  1. Ask user to try to mimic my speech (read in Portuguese).
+  1. Repeat this action the following words, until list is completed.
+
+**Translating**
+
+  1. Read aloud the translation of the first word (in English).
+  1. Ask user repeat that translation after me (repeat in English).
+  1. Repeat this action with the following words, until list is completed.
+
+**Practicing**
+
+  1. Ask users to read (in Portuguese) all words by themselves.
+  1. Ask users to translate (to English) all words by themselves.
+
+**Recording**
+
+  1. Let user know I would start recording.
+  1. Start recording.
+  1. Repeat steps of **Practicing**.
+  1. Repeat steps of **Practicing**, but *without* slides.
