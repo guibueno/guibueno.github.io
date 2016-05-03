@@ -20,6 +20,11 @@ Both users seemed relaxed, joyful and often laughed during most of the test. In 
 
 > **Nicole**: "I remember having a lot of fun (although I don't look it in that video o.0)""
 
+[![Behaviors]({{site.baseurl}}/images/eval-results-behaviors.png)]({{site.baseurl}}/images/eval-results-behaviors.png)
+{: style="text-align: center"}
+**Image** - _Indicators of focus/concentration_
+{: style="text-align: center"}
+
 But when asked to perform tasks by themselves (during the **Practicing** and **Recording** sections of the test), they also showed clear signs being focused or challenged: 
 
 * Nissa and Nicole would stop smiling,
