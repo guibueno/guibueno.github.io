@@ -133,3 +133,23 @@ draft approach:
    and 
   we think of assessment as proofs that learning has happened,
   without taking into account each persosn' individual trajectory
+
+This presentation is not complete.
+
+My thesis project is not complete, either.
+
+What's wrong with not being finished?
+
+We, designers, really value trial and error, testing, prototyping, iteration as part of our process.
+
+But when it comes to our instructional products, we tend to think about assessment in a strict way.
+
+Well... let me share a personal narrative about that.
+
+I have studied English for over 10 years in Brazil. I always had great grades, I'd perform well on tests, I'd attend all classes.
+
+As the years went by, I was always waiting for the finish line, that is, a time in which I'd say: "Now I have completed the English course, now I speak English."
+
+Guess what? This has never happened. I spent those 10 years waiting for completion, instead of paving the way to become a fluent speaker.
+
+In the end, I had a certificate saying I spoke English, but I wasn't able to have a conversation in English, to communicate, to watch a movie, or to even introduce myself in English.
