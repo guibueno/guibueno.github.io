@@ -1,8 +1,6 @@
 ---
 title: Wireframes
-layout: doc
-section: dev
-incomplete: no
+layout: page
 ---
 
 In this section, a preview of the basic screens of the language learning app is displayed and explained. 

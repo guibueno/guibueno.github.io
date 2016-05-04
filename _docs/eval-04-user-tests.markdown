@@ -73,9 +73,7 @@ Since **LanguageBug** targets adults learners who do not speak Portuguese, there
 
 - prior experience with or exposure to the Portuguese languge,
 - interest in learning Portuguese, and
-- self-beliefs on language learning abilities.
-
-The complete rationale for this pre-questionnaire survey can be found as an Appendix.
+- self-beliefs on their language learning capacity.
 
 ### Location
 

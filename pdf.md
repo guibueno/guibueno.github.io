@@ -1,5 +1,6 @@
 ---
 permalink: /pdf/
+title: PDF
 ---
 
 <script type="text/javascript" src="/scripts/hideme.js"></script>

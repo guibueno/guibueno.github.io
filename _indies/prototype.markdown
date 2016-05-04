@@ -1,14 +1,6 @@
 ---
 title: Prototype
-layout: doc
-section: dev
-incomplete: yes
-problem: "although the prototype is pretty much ready, I still need to make a write-up on it"
-workon:
-  - "Choose a series of screens to explain"
-  - "Include screenshots from reveal.js prototypes"
-  - "Highlight the differences between wireframe/prototype screens"
-  - "Hopefully, expand the prototype a little bit"
+layout: page
 ---
 
 The design idea presented in the prototype follows the idea of a very clean interface, so that the user does not experience distractions in his/her studies and can better focus on the activities. The color pallet consists of light blue, white, black and light grey. Watercolor is used as the APP aesthetics, creating both abstract bugs and giving the overall appearance a better look.

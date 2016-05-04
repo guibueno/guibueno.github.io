@@ -1,8 +1,6 @@
 ---
 title: Pre-questionnaire
-layout: doc
-hide: no
-section: appendix
+layout: page
 ---
 
 In order to recruit participants for the user tests, a pre-questionnaire, [onlinen survey](https://docs.google.com/a/nyu.edu/forms/d/12VRYNiSausPkOfFtaqPWu12kPYB-qwK0PhMY_1JBxTU/viewform) was sent to peers through a Slack channel. The goal of this survey was to **prioritize diversity** by gathering some initial and **basic information** on the potential participants, such as:
