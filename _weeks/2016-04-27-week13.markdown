@@ -2,7 +2,7 @@
 title: "Week 13"
 layout: week
 date: 2016-04-27 00:00:00 -0700
-permalink: /logs/
+permalink: /week13/
 goals:
   - Improve design document
   - Prepare presentation
@@ -25,6 +25,8 @@ done:
   - "(04/30) User test: Post-questionnaire"
   - "(04/30) Presentation strategies"
   - "(05/01) TD-Bank Five Boro Bike Ride! :)"
+  - "(05/02) Finish and Submit Evaluation section"
+  - "(05/03) Prepare for Presentation (v.1)"
 schedule: 
   - "(04/30) Re-submit design doc"
   - "(05/02) Presentation"

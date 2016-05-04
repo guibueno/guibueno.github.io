@@ -1,0 +1,22 @@
+---
+title: "Week 14"
+layout: week
+date: 2016-05-04 00:00:00 -0700
+permalink: /logs/
+goals:
+  - Re-submit design rationale
+  - Finish Presentation
+  - Finish and Print Poster
+nextclass: "Presentations, Part II"
+todo: 
+  - "(04/28) Improve Design Rationale"
+  - "(04/30) Improve Content section"
+  - "1h/day: Improve prototype"
+done:
+  - "(05/04) Update Logs, Progress Board"
+schedule: 
+  - "(05/05) Re-submit Development Section"
+  - "(05/09) Poster Printing with Kam at 4:20pm"
+  - "(05/11) Dry Run"
+  - "(05/13) ECT Deisgn Expo"
+---

@@ -153,3 +153,39 @@ As the years went by, I was always waiting for the finish line, that is, a time 
 Guess what? This has never happened. I spent those 10 years waiting for completion, instead of paving the way to become a fluent speaker.
 
 In the end, I had a certificate saying I spoke English, but I wasn't able to have a conversation in English, to communicate, to watch a movie, or to even introduce myself in English.
+
+### Feedback
+
+> nicolepf: (in the intro you should mention that you were a language teacher)
+
+> jhodrick [7:20 PM] Personal story, solid. I like the simple slides.
+
+> michalola [7:20 PM] cool slides!!!!!
+
+> jhodrick [7:21 PM] Subversive cliffhanger for your story! (edited)
+
+> saorig [7:21 PM] I wish I can talk to audience like you do all the time..
+
+> bhavanabudithi [7:21 PM] Simple slides. Amazing connection with the audience
+
+> nissa [7:21 PM]  - "usually passionate about what good at" i like this as how you present a "twist" in your story - if going to ask "why" want to learn Portuguese, give us at least some example reasons (travel, friends, whatever) (edited)
+
+> annwu [7:21 PM] Problem statement was very smoothly connected to what you’re gonna deal with, I like it. great flow
+
+> bhavanabudithi [7:21 PM] humour!
+
+> michalola [7:21 PM] :grinning:
+
+> jhodrick [7:22 PM] I love the imagery. (edited)
+
+> nissa [7:22 PM]  spiderman is a great reference
+
+> nicolepf [7:23 PM] you are great at keep the audience paying attention to what you're saying
+
+> martyb [7:23 PM] wonderful Touching You Screen moment, really feels like a pitch, which is great, good job just teasing your project, i'm into learn more
+
+> saorig [7:23 PM] I'm so intrigued by your presentation and now I really want to go visit your cube!
+
+> maaike [7:25 PM] I like the personal story.. might you also want to highlight your experience as a teacher even more? I think that gives you a lot of credibility.  I like the landscape audit to show your understanding of the competition. You might also highlight that this is a multimillion (billion?) dollar industry that you are approaching it very differently (and how it's different). REALLY be clear about how you're differentiating it. As always, great presenting style. Total time 3:45. Please add name to the end of your presentation (maybe contact info as well).
+
+> nissa [7:27 PM] ways to get back to how you're different, maybe something like "get practice doing more than touching your screen" / "get practice ​*speaking*​ instead of touching your screen"
