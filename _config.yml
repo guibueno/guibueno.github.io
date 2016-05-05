@@ -43,3 +43,5 @@ collections:
       output: true
   landscapeaudit:
       output: true
+  rationale:
+      output: true

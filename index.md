@@ -10,3 +10,9 @@ It does so from an instructional design perspective, so its development and vali
 
 **[Presentation Outline](/outline)**  
 **[Presentation Draft](/presentations/design-expo/index.html)**
+
+{% for rationale in site.rationale %}
+
+* <a href="{{ rationale.url | prepend: site.baseurl }}">{{ rationale.title }}</a>
+
+{% endfor %}

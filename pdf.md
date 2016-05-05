@@ -11,13 +11,13 @@ title: PDF
 	<p>Try pressing Ctrl+P and see if you generate a printable PDF.</p>
 	<p>Also, the output still needs a few tweaks, such as:</p>
 	<ul>
-		<li>Cover</li>
-		<li>Page-breaks rukes</li>
+		<li>Page-breaks rules</li>
 		<li>Image Fonts</li>
 		<li>Sections</li>
 		<li>Table of Contents</li>
 		<li>Page numbers</li>
 		<li>Image Numbers</li>
+		<li><del>Cover</del></li>
 		<li><del>Eliminate extra margin-left</del></li>
 		<li><del>Add Landscape Audit analyses</del></li>
 	</ul>
@@ -25,6 +25,9 @@ title: PDF
 	<p align="center" style="text-transform: uppercase;"><a href="javascript:hide('hideme')" class="close_notification" title="Click to Close">Click to dismiss</a></p>
 
 </div>
+
+![1]({{site.baseurl}}/images/doc-cover.png)
+{: class="storyboard"}
 
 {% for item in site.docs %}
 
