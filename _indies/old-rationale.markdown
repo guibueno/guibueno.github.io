@@ -1,13 +1,6 @@
 ---
-layout: doc
+layout: default
 title: Design Rationale
-section: dev
-incomplete: yes
-problem: "it is very disorganized and completely out-of-sync with current prototypes"
-workon:
-  - "Explain platform choices and other design decisions"
-  - "Integrate design rationale and learning rationale"
-  - "Link it to prototype screenshots and to the logic model"
 ---
 
 ### Self-assessment

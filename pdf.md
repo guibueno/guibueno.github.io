@@ -11,13 +11,13 @@ title: PDF
 	<p>Try pressing Ctrl+P and see if you generate a printable PDF.</p>
 	<p>Also, the output still needs a few tweaks, such as:</p>
 	<ul>
-		<li>Add cover page</li>
-		<li>New rules for page-breaks</li>
-		<li>Improve image readability</li>
-		<li>Reduce final file size</li>
-		<li>Split into sections</li>
-		<li>Add Index with Table of Contents</li>
-		<li>Add Page numbers on heade and footer</li>
+		<li>Cover</li>
+		<li>Page-breaks rukes</li>
+		<li>Image Fonts</li>
+		<li>Sections</li>
+		<li>Table of Contents</li>
+		<li>Page numbers</li>
+		<li>Image Numbers</li>
 		<li><del>Eliminate extra margin-left</del></li>
 		<li><del>Add Landscape Audit analyses</del></li>
 	</ul>
