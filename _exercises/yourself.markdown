@@ -1,0 +1,76 @@
+---
+title: Yourself
+layout: revealjs
+description: "This description is included within meta-tags"
+goal: ""
+why:
+  - Explanation 1
+  - Explanation 2
+  - Explanation 3
+principles:
+ppitfalls:
+permalink: test
+standardtime: 700
+
+content:
+  - center: "Meu nome é _____." 
+    translation: ""
+  - center: "Todo mundo me conhece como _____."
+    translation: ""
+  - center: "Eu tenho _____ anos. Eu vou fazer _____ em _____."
+    translation: ""
+  - center: "Eu nasci em _____."
+    translation: ""
+  - center: "Eu cresci em _____."
+    translation: ""
+  - center: "Eu tenho _____ de altura."
+    translation: ""
+  - center: "Eu calço _____."
+    translation: ""
+  - center: "Eu peso _____ kg."
+    translation: ""
+  - center: "Meus olhos são _____."
+    translation: ""
+  - center: "Meu cabelo é _____ e _____."
+    translation: ""
+  - center: "Eu atualmente vivo em _____."
+    translation: ""
+  - center: "Meu endereço é Rua _____, número _____, bairro _____, em _____."
+    translation: ""
+  - center: "Meu número de telefone é _____."
+    translation: ""
+  - center: "Meu endereço de e-mail é __________ arroba _____ ponto _____."
+    translation: ""
+  - center: "Eu sou (solteiro / casado / _____)."
+    translation: ""
+  - center: "Eu sou descendente de _____."
+    translation: ""
+  - center: "Eu gosto de vestir roupas (casuais / formais / _____)."
+    translation: ""
+  - center: "Meu esporte favorito para (assistir / jogar) é _____."
+    translation: ""
+  - center: "Eu faço aulas de _____."
+    translation: ""
+  - center: "Eu me pareço com _____."
+    translation: ""
+  - center: "Eu trabalho com _____."
+    translation: ""
+  - center: "Eu trabalho (no / na) _____."
+    translation: ""
+  - center: "Eu trabalho lá há _____ (meses / anos)."
+    translation: ""
+  - center: "O que eu mais gosto de fazer é _____."
+    translation: ""
+  - center: "Minha comida favorita é _____."
+    translation: ""
+  - center: "Eu sou (tímido / extrovertido / _____)"
+    translation: ""
+  - center: "Meu tipo de música favorito é _____."
+    translation: ""
+  - center: "Eu (não) tenho animais de estimação."
+    translation: ""
+  - center: "Minha infância foi (legal / normal / _____)"
+    translation: ""
+  - center: "Minha adolescência foi (legal / tranquila / louca / _____)"
+    translation: ""
+---
