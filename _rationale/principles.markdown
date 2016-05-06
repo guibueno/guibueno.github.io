@@ -6,7 +6,11 @@ section: design
 
 ### In a nutshell
 
-**Principles** are guidelines, good strategies, best practices, or hints that could increase the efficacy of a language learning process. 
+**Principles** are mini-lessons that walk learners through guidelines, good strategies, best practices, or hints that could increase their efficacy in learning languages. 
+
+### Within the narrative
+
+Language-Bug infections causes leaners to develop "language learning superpowers", which they cannot manage well at first. Principles are trainning sessions that will teach them to user these superpowers
 
 ### Association with existing material
 
@@ -26,7 +30,7 @@ Similarly, **Principles** within the **LanguageBug** app are sections that walk 
 
 * Scaffold learners to use the **LanguageBug** appropriately.
 * Make language learners aware of their own learning processes.
-* Raise questions on widely accepted myths in language learning.
+* Question widely accepted assumptions in language learning.
 
 ### Example: **Speak Fast**
 
@@ -56,11 +60,33 @@ Users will be introduced to the principle of *Speak Fast* through timed instruct
 8. *Instruction*: "Now, repeat after the audio"
 9. Show/play a few more sentences in English.
 10. Transition to words and sentences in Portuguese.
-11. *Instruction*: 
+11. *Instruction*: "Keep that sweet spot!"
 
-### Examples
+#### Screen-shots
 
-### Screen-shots
+![image1](dasd.jpg)
+![image2](dasd.jpg)
+![image3](dasd.jpg)
+![image4](dasd.jpg)
+
+### Scalability
+
+Creating an exhaustive list of good language learning principles is both impossible and undesired for many reasons, such as:
+
+* there are unlimited learning strategies that could be effective,
+* different strategies may work better/worse with different learners,
+* new research and publications may challenge current assumptions,
+
+For those reasons, it is likely that principles will be added/removed as I develop my general understanding of how people learn languages.
+
+### Current principles
+
+* Speak fast
+* Speak out loud
+* Keep focused
+* Take risks
+* Avoid writing
+* You won't remember
 
 ### Theoretical foundation
 
