@@ -1,145 +1,76 @@
 ---
-
 title: Content
-
 layout: page
-
 ---
 
-### GREETINGS
-
-Oi, tudo bem? • Olá! • Oi! • E aí? • E ae! • Tudo bom? • Tudo bem? • Como vai? • Como vai você • Como vão as coisas? • Bom dia! • Boa tarde! • Boa noite! • Oi, meu nome é _____ • Eu gostaria de me apresentar, eu sou o _____ • Muito prazer! • Prazer em conhecê-lo. • Prazer em conhecê-la! • O prazer é todo meu! • 
-
-### NUMBERS
-
-1 - um/uma
-
-2 - dois/duas
-
-3 - três
-
-4 - quatro
-
-5 - cinco
-
-6 - seis
-
-7 - sete
-
-8 - oito
-
-9 - nove
-
-10 - dez
-
-11 - onze
-
-12 - doze
-
-13 - treze
-
-14 - catorze ou quatorze
-
-15 - quinze
-
-16 - dezasseis ou dezesseis
-
-17 - dezassete ou dezessete
-
-18 - dezoito
-
-19 - dezanove ou dezenove
-
-20 - vinte
-
-21 - vinte e um
-
-22 - vinte e dois ...
-
-30 - trinta
-
-40 - quarenta
-
-50 - cinquenta - cinqüenta (encontra-se também grafado como "cincoenta" em vários escritos)
-
-60 - sessenta
-
-70 - setenta
-
-80 - oitenta
-
-90 - noventa
-
-100 - cem
-
-### ADJECTIVES
-
-jovem • velho • alto • baixo • feliz • triste • gordo • magro • rico • pobre • forte • fraco • solteiro • casado • bonito • feio • bonita • loira • morena • saudavél • doente • bem • mal
-
-young • old • tall • short • happy • sad • fat • thin • rich • poor • strong • weak • single • married • handsome • ugly • pretty • blond • brunette • healthy • sick • fine • not well
-
-### WHERE?
-
-• aqui • lá • para lá • em casa • em minha casa • na escola • perto daqui • longe daqui • perto • longe
-
-Here • There • Over there • At home •  In my house • At school • Near here • Far from here • Near • Far
-
-### WITH WHOM?
-
-• sozinho • sozinho • com minha (irmã) • com um amigo • com um amigo meu • com um grupo • com colegas de sala • com colegas de trabalho
-
-• alone • by myself • with my (sister) • with a friend • with a friend of mine • with a group • with classmates • with co-workers
-
-### HOW OFTEN?
-
-• always • never • sometimes • usually
-
-• sempre • nunca • às vezes • geralmente
 
 ### SUFFIXES
 
--ando • -endo • -indo • -ei • 
+-ando  
+-endo  
+-indo  
+-ei  
 
--i • -ível • -ável • -dade • -ência
+-i  
+-ível  
+-ável  
+-dade  
+-ência
 
-estudando • trabalhando cantando • comendo • bebendo • rindo • caindo • saindo • estudei • trabalhei • cantei • comi • bebi • ri • caí • saí • geralmente • separadamente • facilmente • acessível • divisível  • admirável • mensurável • capacidade • flexibilidade • eternidade • violência • dependência • paciência •
+estudando  
+trabalhando cantando  
+comendo  
+bebendo  
+rindo  
+caindo  
+saindo  
+estudei  
+trabalhei  
+cantei  
+comi  
+bebi  
+ri  
+caí  
+saí  
+geralmente  
+separadamente  
+facilmente  
+acessível  
+divisível   
+admirável  
+mensurável  
+capacidade  
+flexibilidade  
+eternidade  
+violência  
+dependência  
+paciência
+
 
 ### TO BE
 
 Eu sou _____.
-
 Eu fui _____.
-
 Eu serei _____.
 
 ### TO BE (2)
 
 Eu estou _____.
-
 Eu estava _____.
-
 Eu estarei _____.
 
 ### ING
 
 Eu estou _____ando.
-
 Eu estava _____ando.
-
 Eu estarei _____ando.
 
-
 Eu estou _____endo.
-
 Eu estava _____endo.
-
 Eu estarei _____endo.
 
-
 Eu estou _____indo.
-
 Eu estava _____indo.
-
 Eu estarei _____indo.
 
 ### TELL ME ABOUT YOURSELF
@@ -253,13 +184,5 @@ Em frente em casa, há ______. Atrás de casa, há ______.
 À direita de casa, há ______. À esquerda de casa há ______.
 
 Perto de casa, tem ______.
-
 O que eu mais gosto na minha casa é ______.
-
 O que eu menos gosto da minha casa é ______.
-
-### ROUTINE
-
-### CITY
-
-### WORK

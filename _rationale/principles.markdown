@@ -10,7 +10,7 @@ section: design
 
 ### Within the narrative
 
-Language-Bug infections causes leaners to develop "language learning superpowers", which they cannot manage well at first. Principles are trainning sessions that will teach them to user these superpowers
+Language-Bug infection causes leaners to develop "language learning superpowers", which they cannot manage well at first. Principles train users to use these superpowers to learn languages.
 
 ### Association with existing material
 
@@ -46,7 +46,7 @@ Similarly, **Principles** within the **LanguageBug** app are sections that walk 
 * Real life or native speech is fast and compacted.
 * Less time doing each exercise means doing more exercises.
 
-#### How to teach it?
+#### Script
 
 Users will be introduced to the principle of *Speak Fast* through timed instructions combined with action prompts, following this script:
 
@@ -91,8 +91,6 @@ For those reasons, it is likely that principles will be added/removed as I devel
 ### Theoretical foundation
 
 * Scaffolding
-
-Metacognition
-Growth Mindset
-Self-efficacy
-(meta information on languge learning)
+* Metacognition
+* Growth Mindset
+* Self-efficacy

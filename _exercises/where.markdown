@@ -1,0 +1,60 @@
+---
+title: "Where?"
+layout: revealjs
+description: "This description is included within meta-tags"
+goal: "This is the goal"
+why:
+  - Explanation 1
+  - Explanation 2
+  - Explanation 3
+principles:
+ppitfalls:
+standardtime: 700
+content:
+  - center: "aqui"
+    translation: "here"
+  - center: "lá"
+    translation: "there"
+  - center: "ali"
+    translation: "over there"
+  - center: "em casa"
+    translation: "at home"
+  - center: "na minha casa"
+    translation: "in my house"
+  - center: "na escola"
+    translation: "at school"
+  - center: "perto daqui"
+    translation: "near here"
+  - center: "longe daqui"
+    translation: "far from here"
+  - center: "perto"
+    translation: "near"
+  - center: "longe"
+    translation: "far"
+  - center: "forte" 
+    translation: "strong"
+  - center: "fraco"
+    translation: "weak"
+  - center: "solteiro"
+    translation: "single"
+  - center: "casado"
+    translation: "married"
+  - center: "bonito" 
+    translation: "handsome"
+  - center: "feio" 
+    translation: "ugly"
+  - center: "bonita" 
+    translation: "pretty"
+  - center: "loira" 
+    translation: "blonde"
+  - center: "morena" 
+    translation: "brunette"
+  - center: "saudavél" 
+    translation: "healthy"
+  - center: "doente" 
+    translation: "sick"
+  - center: "bem"  
+    translation: "well"
+  - center: "mal"
+    translation: "bad"
+---

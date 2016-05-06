@@ -45,3 +45,9 @@ collections:
       output: true
   rationale:
       output: true
+  languagebug:
+      output: true
+  exercises:
+      output: true
+  principles:
+      output: true
