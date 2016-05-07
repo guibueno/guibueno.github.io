@@ -55,6 +55,9 @@ Sentence structures.
 ### Scalability
 
 For this project, only basic/novice level.
+
+Better words, more words, better expressions.
+
 For future versions, more exercises.
 
 ### Current exercises
