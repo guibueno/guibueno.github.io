@@ -79,8 +79,9 @@
 
 				{% for item in page.content %}
 
-				<section data-autoslide="{% if item.time %}{{ item.time }}{% else %}{{ page.standardtime }}{% endif %}">
-
+				<!--Recording Camila
+				<section data-autoslide="{% if item.time %}{{ item.time }}{% else %}{{ page.standardtime }}{% endif %}">-->
+				<section>
 					<blockquote>
 					{{ item.center }}
 					</blockquote>
@@ -131,7 +132,6 @@
 		<script>
 
 			var pagetitle = document.getElementById("title").value;
-			alert(pagetitle);
 
 			// Full list of configuration options available at:
 			// https://github.com/hakimel/reveal.js#configuration
