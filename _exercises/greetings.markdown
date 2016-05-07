@@ -9,7 +9,6 @@ why:
   - Explanation 3
 principles:
 ppitfalls:
-permalink: test
 standardtime: 1000  
 
 ## Content supports TIME
