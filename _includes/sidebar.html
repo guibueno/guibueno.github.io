@@ -94,6 +94,24 @@
 
 			{% endfor %}
 
+			{% for rationale in site.rationale %}
+
+					<li>
+
+					{% if rationale.hide %}
+
+						{{ rationale.title }}
+
+					{% else %}
+
+						<a href="{{ rationale.url | prepend: site.baseurl }}">{{ rationale.title }}</a>
+
+					{% endif %}
+
+					</li>
+
+			{% endfor %}
+
 			<p class="doctitle">Evaluation</p>
 
 			{% for doc in site.docs %}
@@ -166,11 +184,11 @@
 
 			{% endfor %}
 
-			<!-- <p class="doctitle">Appendices</p>
+			<p class="doctitle">Appendices</p>
 
 			{% for doc in site.docs %}
 
-				{% if doc.section == "appendix" %}
+				{% if doc.section == "appendices" %}
 
 					<li>
 
@@ -189,8 +207,6 @@
 				{% endif %}
 
 			{% endfor %}
-
-			-->
 
 			<p class="doctitle"><a href="/docs/references.html">References</a></p>
 

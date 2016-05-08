@@ -1,10 +1,10 @@
 ---
-title: List of Exercises
+title: "Appendix 1 - Exercises"
 layout: doc
-section: design
+section: appendices
 ---
 
-<!-- Why jekkyl?? -->
+<!-- Why are you doing this to me, Jekkyl?? -->
 
 {% for exercise in site.exercises %}
 
