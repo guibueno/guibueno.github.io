@@ -3,7 +3,7 @@ title: Storyboard
 layout: doc
 section: design
 ---
-[![1]({{site.baseurl}}/images/storyboard/doc-storyboard-v3-1.jpg)]({{site.baseurl}}/images/storyboard/doc-storyboard-v3-1.jpg)
+[![1]({{site.baseurl}}/images/storyboard/doc-storyboard-v3-1.png)]({{site.baseurl}}/images/storyboard/doc-storyboard-v3-1.png)
 {: class="storyboard"}
 [![2]({{site.baseurl}}/images/storyboard/doc-storyboard-v2-2.jpg)]({{site.baseurl}}/images/storyboard/doc-storyboard-v2-2.jpg)
 {: class="storyboard"}
