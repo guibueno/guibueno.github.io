@@ -32,7 +32,7 @@ section: design
 
 [8] Rather than prompting users to speak, these language learning apps are mostly based on matching mini-games. Learners merely tap on words to find appropriate translations for (usually irrelevant) sentences.
 
-[9] *Right/Wrong*: after each "wrong" question, learners lose a few seconds correcting and re-submiting their answers. Their working memories stop dealing with language learning and begin to operate the app.
+[9] *Right/Wrong*: after each wrong answer, learners lose a few seconds correcting and re-submiting their answers. Their working memories stop dealing with language learning and begin to operate the app.
 
 #### Expected results
 

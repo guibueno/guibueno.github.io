@@ -10,8 +10,6 @@ section: design
 
 ### Within the narrative
 
-
-
 ### Association with existing material
 
 Information on music vs. playing the instrument
@@ -62,13 +60,53 @@ For future versions, more exercises.
 
 ### Current exercises
 
-* Greetings
-* Self-introduction
-* Numbers
-* Adjectives
+{% for exercise in site.exercises %}
+* [{{ exercise.title }}]({{ exercise.url | prepend: site.baseurl }}){:target="blank"}{% endfor %}
 
 ### Theoretical foundation
 
 * Scaffolding/ZPD
 * Embodied Cognition
 * Adaptation
+
+### Full list of Exercises
+
+{% for exercise in site.exercises %}
+
+### {{ exercise.title }}
+
+#### Goal
+{{ exercise.goal }}
+
+#### Description
+{{ exercise.description }}
+
+#### Why
+{% for item in exercise.why %}
+* {{ item }}{% endfor %}
+
+#### Required Principles
+{{ exercise.principles }}
+
+#### Potential Pitfalls
+{{ exercise.ppitfalls }}
+
+#### Content
+
+<table border="1">
+<tr class="title">
+<td>Content</td>
+<td>Translation</td>
+</tr>
+{% for item in exercise.content %}
+<tr>
+<td>{{ item.center }}</td>
+<td>{{ item.translation }}</td>
+</tr>
+{% endfor %}
+</table>
+
+
+* * *
+
+{% endfor %}
