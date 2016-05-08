@@ -5,6 +5,8 @@ title: References
 
 ##### American Council on the Teaching of Foreign Languages (ACTFL). (2012). ACTFL Proficiency Guidelines 2012. Retrieved from [http://www.actfl.org/publications/guidelines-and-manuals/](http://www.actfl.org/publications/guidelines-and-manuals/). 
 
+##### American Council on the Teaching of Foreign Languages (ACTFL). (n.d.). Testing for Proficiency. Retrieved May 8, 2016, from http://www.actfl.org/professional-development/certified-proficiency-testing-program/testing-proficiency?pageid=3348
+
 ##### Asher, J. J. (1969). The Total Physical Response Approach to Second Language Learning*. *The modern language journal*, *53*(1), 3-17.
 
 ##### Atkins, D. E., Brown, J. S., & Hammond, A. L. (2007). A review of the open educational resources (OER) movement: Achievements, challenges, and new opportunities (pp. 1-84). Creative common.
@@ -86,6 +88,8 @@ title: References
 ##### Nesbitt, D. (2013). Student evaluation of CALL tools during the design process. *Computer Assisted Language Learning*, *26*(4), 371-387.
 
 ##### Nunan, D. (1989). *Understanding language classrooms: A guide for teacher-initiated action*. Hemel Hempstead: Prentice Hall.
+
+##### NYU American Language Institute (ALI). (n.d.). Language Testing. Retrieved May 8, 2016, from http://www.scps.nyu.edu/academics/departments/ali/language-testing.html
 
 ##### Oberg, A., & Daniels, P. (2013). Analysis of the effect a student-centred mobile learning instructional method has on language acquisition. *Computer Assisted Language Learning*, *26*(2), 177-196.
 
