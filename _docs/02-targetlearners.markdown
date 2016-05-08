@@ -17,6 +17,28 @@ Such negative framing is obviously not what describes all adult language learner
 
 This section, therefore, serves to illustrate the target learners who would most struggle with language learning, due to their prior unsuccessful experiences, negative beliefs, or discouragement.
 
+### Motivation
+
+According to Gardner and Lambert (1959, 1972), there are two main classes of orientations that characterize a language learner's motivation to learn another language (L2):
+
+* integrative orientation
+* instrumental orientation
+
+Noels et al (2000) explain these classes of orientations:
+
+> "First, the *integrative orientation* refers to a desire to learn the L2 in order to have contact with, and perhaps to identify with, members from the L2 community. This orientation can be contrasted with the *instrumental orientation*, which refers to a desire to learn the L2 to achieve some practical goal, such as job advancement or course credit." (Noels et al, 2000, p. 59)
+
+### Andragogy
+
+> "The five assumptions underlying andragogy describe the adult learneras someone who:
+> 1. has an independent self-concept and who can direct hisor her own learning, 
+> 2. has accumulated a reservoir of life experiences that is a rich resource for learning,
+> 3. has learning needs closely related to changing social roles.
+> 4. is problem-centered and interested in immediate application of knowledge, and 
+> 5. is motivated to learn by internal rather thanexternal factors." (Merriam, 2001, p. 5)
+
+"Knowles himself came to concur that andragogy is less a theory of adultlearning than 'a model of assumptions about learning or a conceptual framework that serves as a basis for an emergent theory' (1989, p. 112)" (p. 5)
+
 ### Self-motivation
 
 Adult learners are most likely to be self-motivated, that is, to be sure of the reasons why  they want to know a certain language. For example, an employee who has the chance to work in a different country will know why knowing that foreign language is needed. 

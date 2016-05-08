@@ -33,6 +33,10 @@ title: References
 
 ##### Galante, A. (2014). English language teaching in the post-method era. Contact,40(3), 57-62.
 
+##### Gardner, R. C., & Lambert, R. C. (1959). *Motivational variables in second language acquisition*. Canadian Journal of Psychology, 13, 266–272.
+
+##### Gardner, R. C., & Lambert, W. E. (1972). *Attitudes and motivation in second language learning*. Rowley, MA: Newbury.
+
 ##### Git. (n.d.). Git. Retrieved April 28, 2016, from https://git-scm.com/ 
 
 ##### Gregersen, T. (2003). To err is human: A reminder to teachers of language-anxious students. Foreign Language Annals, 36, 25-32.
@@ -55,6 +59,10 @@ title: References
 
 ##### Kinzie, M. B. (1990). Requirements and benefits of effective interactive instruction: Learner control, self-regulation, and continuing motivation. *Educational Technology Research and Development*, *38*(1), 5-21.
 
+##### Knowles, M. S. (1968). *Andragogy, not pedagogy*. Adult leadership, 16(10), 350-352.
+
+##### Knowles, M. S. (1989). *The making of an adult educator: An autobiographical journey*. Jossey-Bass Inc Pub.
+
 ##### Lessig, L. (2004). *Free culture*: How big media uses technology and the law to lock down culture and control creativity. Penguin.
 
 ##### Lee, V. (Ed.). (2014). Introduction: Technology meets body, body meets technology. In, *Learning Technologies and the Body: Integration and Implementation in Formal and Informal Learning Environments*. New York: Routledge.
@@ -68,6 +76,10 @@ title: References
 ##### Mercer, S., & Ryan, S. (2010). A mindset for EFL: Learners’ beliefs about the role of natural talent. *ELT journal*, *64*(4), 436-444.
 
 ##### Mercer, S. (2012). Dispelling the myth of the natural-born linguist. *ELT journal*, *66*(1), 22-29.
+
+##### Merriam, S. B. (2001). *Andragogy and self‐directed learning: Pillars of adult learning theory*. New directions for adult and continuing education, 2001(89), 3-14.
+
+##### Noels, K. A., Pelletier, L. G., Clément, R., & Vallerand, R. J. (2000). *Why are you learning a second language?* Motivational orientations and self‐determination theory. Language learning, 50(1), 57-85.
 
 ##### Noels, K. A., & Lou, M. T. (2015). Mindsets, Goal Orientations and Language Learning
 
