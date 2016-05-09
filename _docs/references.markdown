@@ -65,9 +65,13 @@ title: References
 
 ##### Knowles, M. S. (1989). *The making of an adult educator: An autobiographical journey*. Jossey-Bass Inc Pub.
 
+##### Kukulska-Hulme, A., & Shield, L. (2007). An overview of mobile assisted language learning: Can mobile devices support collaborative practice in speaking and listening. ReCALL, 20(3), 1-20.
+
 ##### Lessig, L. (2004). *Free culture*: How big media uses technology and the law to lock down culture and control creativity. Penguin.
 
 ##### Lee, V. (Ed.). (2014). Introduction: Technology meets body, body meets technology. In, *Learning Technologies and the Body: Integration and Implementation in Formal and Informal Learning Environments*. New York: Routledge.
+
+##### Liu, T. Y. (2009). A context‐aware ubiquitous learning environment for language listening and speaking. Journal of Computer Assisted Learning, 25(6), 515-527.
 
 ##### Lookout Mobile Security. (n.d.). Retrieved November 26, 2014, from https://www.lookout.com/resources/reports/mobile-mindset.
 
