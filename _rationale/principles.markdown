@@ -12,7 +12,7 @@ section: design
 
 Language-Bug infection causes leaners to develop "language learning superpowers", which they cannot manage well at first. Principles train users to use these superpowers to learn languages.
 
-### Association with existing material
+### Association with existing resources
 
 There are a few TED Talks about language learning. For example:
 

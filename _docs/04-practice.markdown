@@ -9,6 +9,30 @@ When language learners want to make use of the available information on the Inte
 
 This section shows that structuring a practice/training time can be challenging to most people. Also, the quality of this practice can impact the results that language learners will obtain.
 
+### The challenge of performance
+
+Two examples (among many others) make it simple to understand the challenge of language learning practice: music and sports.
+
+#### Music
+
+Imagine an individual who is willing to learn to play a given musical instrument, for example, the acoustic guitar. This person can surely find a lot of information about that instrument on the Internet, such as:
+
+* how to play all notes and chords usign the acoust guitar, 
+* the history of the acoustic guitar, 
+* song tabs and chords for acoustic guitars, etc.
+
+However, merely accessing, reading, and understanding all that material will not make this person a good guitar player.
+
+#### Sports
+
+Similarly, picture a person who wants to become good at a certain sport or type of exercise. Let's say, the target sport is weight-lifting. Uncountable sources of information will provide this person with:
+
+* good techniques and best practices on weight-lifting, 
+* an array of different exercises to strength each body muscle,
+* slow-motion videos of athletes lifting weights, etc.
+
+Still, this person will need to actually go to the gym and lift weights in order to become stronger or better at weight-lifting.
+
 ### Deliberate Practice
 
 Scott and Ghinea (2014) argue that engaging in **deliberate practice** is an important way to foster language expertise. They primarily discuss computer programing, but also refer to many other areas.

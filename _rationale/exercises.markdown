@@ -6,16 +6,20 @@ section: design
 
 ### In a nutshell
 
-**Exercises** are focused practices that prompt learners to produce communicative utterances in their target languages.
+**Exercises** are focused practices that prompt and scaffold learners to produce communicative utterances in the target language.
 
 ### Within the narrative
 
-### Association with existing material
+### Association with existing resources
 
-Information on music vs. playing the instrument
-Information on gym vs. lifting weight
+In the past, language schools typically used printed materials (Liu, 2009, p. 521) and "audio-cassettes or audio CDs of pre-recorded listening materials" (Kukulska-Hulme; Shield, 2007, p. 2) to engage learners in speaking practice.
+
+
 
 ### Functions
+
+* Introduce learners to multiple 
+* 
 
 * Build basic and personal vocabulary
 * Speak in the target language
@@ -71,42 +75,4 @@ For future versions, more exercises.
 
 ### Full list of Exercises
 
-{% for exercise in site.exercises %}
-
-### {{ exercise.title }}
-
-#### Goal
-{{ exercise.goal }}
-
-#### Description
-{{ exercise.description }}
-
-#### Why
-{% for item in exercise.why %}
-* {{ item }}{% endfor %}
-
-#### Required Principles
-{{ exercise.principles }}
-
-#### Potential Pitfalls
-{{ exercise.ppitfalls }}
-
-#### Content
-
-<table border="1">
-<tr class="title">
-<td>Content</td>
-<td>Translation</td>
-</tr>
-{% for item in exercise.content %}
-<tr>
-<td>{{ item.center }}</td>
-<td>{{ item.translation }}</td>
-</tr>
-{% endfor %}
-</table>
-
-
-* * *
-
-{% endfor %}
+See: *Appendix 1 - Exercises*

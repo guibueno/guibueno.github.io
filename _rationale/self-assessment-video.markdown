@@ -11,7 +11,7 @@ At the end of each practice, learners can record their own speech in a **self-as
 ### Within the narrative
 
 
-### Association with existing material
+### Association with existing resources
 
 In the professional and academic domains, foreign language speakers are often required to take oral proficiency tests. These tests may be administered in-person or thrugh videoconferencing tools.
 
