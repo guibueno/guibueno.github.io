@@ -1,7 +1,8 @@
 ---
-title: Self-assessment Video
+title: Narrative
 layout: doc
 section: design
+hidde: yes
 ---
 
 ### In a nutshell

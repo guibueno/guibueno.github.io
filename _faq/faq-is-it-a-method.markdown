@@ -1,9 +1,12 @@
 ---
 layout: doc
-title: "Method?"
-section: intro
-incomplete: no
+title: "Is it a method?"
 ---
+
+Is it a method?
+  Methods are hard to prove
+  Approach is flexible
+  Help users become good language learners
 
 When discussing how to make language learning more efficient, the word "**method**" immediately comes to mind. But in language learning, methods have mostly been characterized by a strict purism that is now outdated.
 

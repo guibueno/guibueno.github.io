@@ -70,31 +70,11 @@
 
 			{% endfor %}
 
-			<p class="doctitle">Design</p>
-
-			{% for doc in site.docs %}
-
-				{% if doc.section == "design" %}
-
-					<li>
-
-					{% if doc.hide %}
-
-						{{ doc.title }}
-
-					{% else %}
-
-						<a href="{{ doc.url | prepend: site.baseurl }}">{{ doc.title }}</a>
-
-					{% endif %}
-
-					</li>
-
-				{% endif %}
-
-			{% endfor %}
+			<p class="doctitle">Design Rationale</p>
 
 			{% for rationale in site.rationale %}
+
+				{% if rationale.section == "design" %}
 
 					<li>
 
@@ -105,6 +85,48 @@
 					{% else %}
 
 						<a href="{{ rationale.url | prepend: site.baseurl }}">{{ rationale.title }}</a>
+
+					{% endif %}
+
+					</li>
+
+				{% endif %}
+
+			{% endfor %}
+
+			<p class="doctitle">Features</p>
+
+			{% for feature in site.features %}
+
+					<li>
+
+					{% if feature.hide %}
+
+						{{ feature.title }}
+
+					{% else %}
+
+						<a href="{{ feature.url | prepend: site.baseurl }}">{{ feature.title }}</a>
+
+					{% endif %}
+
+					</li>
+
+			{% endfor %}
+
+			<p class="doctitle">FAQ</p>
+
+			{% for faq in site.faq %}
+
+					<li>
+
+					{% if faq.hide %}
+
+						{{ faq.title }}
+
+					{% else %}
+
+						<a href="{{ faq.url | prepend: site.baseurl }}">{{ faq.title }}</a>
 
 					{% endif %}
 

@@ -88,9 +88,27 @@ For those reasons, it is likely that principles will be added/removed as I devel
 * Avoid writing
 * You won't remember
 
+### Related FAQ
+
+Why no corrections?
+Where do these principles come from?
+  Strong beliefs
+  Experience, teaching
+
 ### Theoretical foundation
 
 * Scaffolding
 * Metacognition
 * Growth Mindset
 * Self-efficacy
+
+
+**Metacognition:**
+
+Yang & Chen (2014) recommend that:
+
+* "... instructors should train students to master the skills of acquiring cultural knowledge rather than only teach ‘culture as facts’, such as famous events, heroic figures. Culture is dynamic. All the knowledge of a culture is relevant to time, region, and even individuals. By only remembering facts about a culture, students cannot become good communicators with native speakers, unless they are able to update their knowledge constantly. Thus, instructors need to emphasize the skills of acquiring cultural knowledge, through a series of consistent activities" (p. 12).*
+
+Similarly, this project does not aim to teach vocabulary, grammar, and structures to its users, but to help them learn how to acquire a foreign/second language. This approach requires metacognitive knowledge and enhances learners’ perception on their target languages. Nesbitt (2013) also state that learners should have "access to activities that help increase their strategic competence", that is, activities that help learners build such metacognitive knowledge.
+
+Oberg & Daniels (2013) qualifies purely self-paced and independent studies, "where students fully determine their own schedule and pace" (p. 179) as naturally challenging, involving burdens on the student. On the other hand, it has also been proved that it produces high levels of cognitive engagement, meaningful connections and increased motivation (Kinzie, 1990).

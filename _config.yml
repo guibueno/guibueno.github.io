@@ -43,11 +43,15 @@ collections:
       output: true
   landscapeaudit:
       output: true
-  rationale:
+  faq:
       output: true
   languagebug:
       output: true
   exercises:
       output: true
   principles:
+      output: true
+  rationale:
+      output: true
+  features:
       output: true
