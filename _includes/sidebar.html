@@ -74,23 +74,19 @@
 
 			{% for rationale in site.rationale %}
 
-				{% if rationale.section == "design" %}
+				<li>
 
-					<li>
+				{% if rationale.hide %}
 
-					{% if rationale.hide %}
+					{{ rationale.title }}
 
-						{{ rationale.title }}
+				{% else %}
 
-					{% else %}
-
-						<a href="{{ rationale.url | prepend: site.baseurl }}">{{ rationale.title }}</a>
-
-					{% endif %}
-
-					</li>
+					<a href="{{ rationale.url | prepend: site.baseurl }}">{{ rationale.title }}</a>
 
 				{% endif %}
+
+				</li>
 
 			{% endfor %}
 

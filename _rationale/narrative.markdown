@@ -1,7 +1,6 @@
 ---
 title: Narrative
 layout: doc
-section: design
 hidde: yes
 ---
 

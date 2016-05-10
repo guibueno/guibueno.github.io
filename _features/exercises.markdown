@@ -24,7 +24,9 @@ In the past, language schools typically used printed materials (Liu, 2009, p. 52
 
 #### What is it?
 
-"*Self-introduction*" is the most important exercise within LanguageBug. It introduces learners to multiple sentences that are extremely relevant to any language speaker, such as "*My name is _____*"  and "*I live in ____*". By completing sentences with personal information, such as the color of their eyes ("*My eyes are ____*"), learners will also acquire relevant vocabulary.
+"*Self-introduction*" is the most important exercise within LanguageBug. It introduces learners to multiple sentences that are extremely relevant to any language speaker, such as "*My name is _____*"  and "*I live in ____*". 
+
+By completing sentences with personal information, such as the color of their eyes ("*My eyes are ____*"), learners will also acquire vocabulary that is relevant to their own individual background and experiences.
 
 #### Why?
 
@@ -68,11 +70,9 @@ Finally, there could be many other ways to foster speaking practice, besides the
 
 ### FAQ
 
-What about accuracy?
-What about writing, reading?
-Repetition
-  Adaptation
-  Behaviourism
+* What about accuracy?
+* What about writing?
+* Repetition
 
 ### Theoretical foundation
 

@@ -1,6 +1,6 @@
 ---
-layout: default
 title: Logic Model
+layout: default
 ---
 
 ![Logic Model]({{site.baseurl}}/images/doc-logic-model.png)

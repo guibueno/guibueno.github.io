@@ -1,8 +1,7 @@
 ---
 title: Aesthetics
 layout: doc
-section: design
-hidde: yes
+hide: yes
 ---
 
 Aesthetics
