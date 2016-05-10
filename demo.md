@@ -10,7 +10,10 @@ This project is a work in-progress.
 
 [Speak Fast](http://www.guibueno.me/languagebug/principle_speakfaster.html)  
 
-[Self-introduction](http://www.guibueno.me/languagebug/exercise_selfintro.html)
+### Exercises
+
+{% for exercise in site.exercises %}
+* <a href="{{ exercise.url | prepend: site.baseurl }}">{{ exercise.title }}</a>{% endfor %}
 
 ## Descriptions
 

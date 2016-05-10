@@ -1,19 +1,21 @@
 ---
 layout: doc
-title: "Method?"
-section: intro
-incomplete: no
+title: "Is it a method?"
 ---
 
-When discussing how to make language learning more efficient, the word "**method**" immediately comes to mind. But in language learning, methods have mostly been characterized by a strict purism that is now outdated.
+No. **LanguageBug** is not a language learning method, but an *approach* to language learning. Language learning *methods* are rigid, fixed instructions to learn languages. An *approach*, on the other hand, is a flexible and adaptable set of practices and beliefs. 
 
-In fact, Brown (2002, p. 10) has listed several reasons for teachers and researchers to give up the "obsession" with language learning methods. This list includes the following items:
+### The problem with methods
 
-* It is hard to empirically test, verify, and validate language pedagogy,
+The word "**method**" usually comes to mind when discussing how to make language learning. Yet, language learning and teaching methods can be too strict and purist.
+
+Brown (2002, p. 10) lists several reasons to give up with such "obsession" with methods. This list includes the following items:
+
+* It is hard to empirically test, and verify language pedagogy,
 * Methods are usually too prescriptive and overgeneralized,
 * Methods become indistinguishable as learners reach advanced levels.
 
-However, **LanguageBug** is not being designed to become a language learning method, but an approach. To better understand what this claim means, we should look back on the designer methods.
+An unified approach has been substituting individual methods. This shift begins with the *Designer Methods* and results in the *Post-method Era*.
 
 ### Designer methods
 
@@ -66,7 +68,7 @@ While in the 1970s language teaching consisted of many competing methods in Brow
 
 Galante (2014) defines this as a “shift from using methods in the purist sense to recognizing that the nature of language learning is complex and nonlinear” (p. 58). 
 
-An approach, therefore, is a consistent body of knowledge (strategies, scientific findings, ...) that supports a particular path to language teaching and learning. It does so without being restrictive, or normative.
+An approach, therefore, is a consistent body of knowledge (strategies, best practices, ...) that supports a particular path to language teaching and learning. It does so without being too restrictive or normative.
 
 *Image 1* summarizes this whole trajectory from the designer methods to the post-method era. It ends with the acknowledgement that "*there is no single right way to learn languages*".
 

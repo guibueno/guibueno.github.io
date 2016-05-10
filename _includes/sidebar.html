@@ -70,41 +70,59 @@
 
 			{% endfor %}
 
-			<p class="doctitle">Design</p>
+			<p class="doctitle">Design Rationale</p>
 
-			{% for doc in site.docs %}
+			{% for rationale in site.rationale %}
 
-				{% if doc.section == "design" %}
+				<li>
+
+				{% if rationale.hide %}
+
+					{{ rationale.title }}
+
+				{% else %}
+
+					<a href="{{ rationale.url | prepend: site.baseurl }}">{{ rationale.title }}</a>
+
+				{% endif %}
+
+				</li>
+
+			{% endfor %}
+
+			<p class="doctitle">Features</p>
+
+			{% for feature in site.features %}
 
 					<li>
 
-					{% if doc.hide %}
+					{% if feature.hide %}
 
-						{{ doc.title }}
+						{{ feature.title }}
 
 					{% else %}
 
-						<a href="{{ doc.url | prepend: site.baseurl }}">{{ doc.title }}</a>
+						<a href="{{ feature.url | prepend: site.baseurl }}">{{ feature.title }}</a>
 
 					{% endif %}
 
 					</li>
 
-				{% endif %}
-
 			{% endfor %}
 
-			{% for rationale in site.rationale %}
+			<p class="doctitle">FAQ</p>
+
+			{% for faq in site.faq %}
 
 					<li>
 
-					{% if rationale.hide %}
+					{% if faq.hide %}
 
-						{{ rationale.title }}
+						{{ faq.title }}
 
 					{% else %}
 
-						<a href="{{ rationale.url | prepend: site.baseurl }}">{{ rationale.title }}</a>
+						<a href="{{ faq.url | prepend: site.baseurl }}">{{ faq.title }}</a>
 
 					{% endif %}
 

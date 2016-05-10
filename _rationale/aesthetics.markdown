@@ -1,0 +1,10 @@
+---
+title: Aesthetics
+layout: doc
+hide: yes
+---
+
+Aesthetics
+  Draft
+  Self-improvement
+  Kaizen

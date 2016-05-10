@@ -88,6 +88,13 @@ For those reasons, it is likely that principles will be added/removed as I devel
 * Avoid writing
 * You won't remember
 
+### Related FAQ
+
+* Why no corrections?
+* Where do these principles come from?
+* Strong beliefs
+* Experience, teaching
+
 ### Theoretical foundation
 
 * Scaffolding

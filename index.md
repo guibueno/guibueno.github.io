@@ -12,13 +12,3 @@ permalink: /index.html
 
 **[Presentation Outline](/outline)**  
 **[Presentation Draft](/presentations/design-expo/index.html)**
-
-### Rationale
-
-{% for rationale in site.rationale %}
-* <a href="{{ rationale.url | prepend: site.baseurl }}">{{ rationale.title }}</a>{% endfor %}
-
-### Exercises
-
-{% for exercise in site.exercises %}
-* <a href="{{ exercise.url | prepend: site.baseurl }}">{{ exercise.title }}</a>{% endfor %}
