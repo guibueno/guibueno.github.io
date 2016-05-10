@@ -43,6 +43,8 @@ title: References
 
 ##### Gregersen, T. (2003). To err is human: A reminder to teachers of language-anxious students. Foreign Language Annals, 36, 25-32.
 
+##### Gregersen, T., & Horwitz, E. K. (2002). Language learning and perfectionism: Anxious and non‐anxious language learners' reactions to their own oral performance. The Modern Language Journal, 86(4), 562-570.
+
 ##### Gudykunst, W. B., & Kim, Y. Y. (1992). *Communicating with strangers: An approach to intercultural communication* (Vol. 19). New York: McGraw-Hill.
 
 ##### Halvorson, H. G. (2010). *Succeed: How we can reach our goals*. Penguin.

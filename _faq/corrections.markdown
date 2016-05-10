@@ -3,7 +3,7 @@ layout: doc
 title: "No corrections!?"
 ---
 
-**LanguageBug** does not asses or correct what learners are saying. In fact, it does not even have an audio input, which means that it does not "hear" its learners at all. Why?
+**LanguageBug** does not asses or correct what learners are saying. In fact, it does not have any audio input during exercises, which means that it does not even "hear" its learners at all. Why?
 
 ### Foreign Language Anxiety
 
@@ -26,7 +26,7 @@ Samal & Larraza state (2015) that accepting "wrong pronunciation" is not an erro
 
 Accents can be a distinctive feature to express and maintain cultural identity. For that reason, not all foreign language learners seek accent reduction (Hartshorn, 2013).
 
-Some learners prefer to keep their foreign language accent. Others may struggle to reduce it. In any case, it may be an act of prejudice when a speaker rejects or dislikes a "different" way of speaking..
+Some learners prefer to keep their foreign language accent. Others may struggle to reduce it. In any case, it may be an act of prejudice when a speaker rejects or dislikes a "different" way of speaking.
 
 ### Corrective Feedack
 
