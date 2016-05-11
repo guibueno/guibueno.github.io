@@ -2,11 +2,11 @@
 title: Yourself
 layout: revealjs
 description: "This description is included within meta-tags"
-goal: ""
+goal: "Learn several sentences to describe who you are"
 why:
-  - Explanation 1
-  - Explanation 2
-  - Explanation 3
+  - "Talking about yourself is <em>the</em> most relevant content to know."
+  - "It covers a lot of vocabulary, sentence structures, and even grammar."
+  - "You'll be able to speak for ~1min in your target language by yourself."
 principles:
 ppitfalls:
 standardtime: 700
