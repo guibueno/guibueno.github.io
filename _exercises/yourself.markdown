@@ -1,6 +1,6 @@
 ---
 title: Yourself
-layout: revealjs
+layout: revealjs-exercise
 description: "This description is included within meta-tags"
 goal: "Learn several sentences to describe who you are"
 why:

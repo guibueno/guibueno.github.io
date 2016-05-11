@@ -1,6 +1,6 @@
 ---
 title: "Where?"
-layout: revealjs
+layout: revealjs-exercise
 description: "This description is included within meta-tags"
 goal: "This is the goal"
 why:

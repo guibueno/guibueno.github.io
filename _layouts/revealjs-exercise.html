@@ -1,0 +1,86 @@
+---
+layout: revealjs-default
+---
+
+<section>
+    <section data-autoslide="0">
+        <h1>{{ page.collection }}</h1>
+        <h2>{{ page.title }}</h2>
+        <p>{{ page.goal }}</p>
+        <p><a href="#" class="navigate-right">Yes, let's do it!</a></p>
+        
+        {% if page.why %}
+
+        <p><a href="#" class="navigate-down">Wait...Why that?</a></p>
+    </section>
+    <section data-autoslide="0">
+        <h1>Brief Explanation</h1>
+        <small>
+            <ol>
+            	{% for item in page.why %}
+
+                	<li>{{ item }}</li>
+
+                {% endfor %}
+            </ol>
+        </small>
+        <p><a href="#" class="navigate-right">Now I get it. Let's start!</a></p>
+        <p><del>Interesting. I want to learn more.</del> SOON!</p>
+    </section>
+
+    	{% else %}
+
+	</section>
+
+    	{% endif %}
+
+</section>
+
+<section data-autoslide="0">
+	
+	First, repeat the words and expressions in portuguese
+
+</section>
+
+{% for item in page.content %}
+
+<!--Recording Camila
+<section data-autoslide="{% if item.time %}{{ item.time }}{% else %}{{ page.standardtime }}{% endif %}">-->
+<section>
+	<blockquote>
+	{{ item.center }}
+	</blockquote>
+	<p>
+		<img src="/revealjs/images/audio-icon.png" width="30px" style="border: 0; box-shadow: 0;">
+	</p>
+	<p>
+		{{ item.center }}
+	</p>
+
+</section>
+
+{% endfor%}
+
+<section data-autoslide="0">
+	
+	Now, listen to the translations and REPEAT them.
+
+</section>
+
+{% for item in page.content %}
+
+<section data-autoslide="{% if item.time %}{{ item.time }}{% else %}{{ page.standardtime }}{% endif %}">
+
+	<blockquote>
+	{{ item.center }}
+	</blockquote>
+	<p>
+		<img src="/revealjs/images/audio-icon.png" width="30px" style="border: 0; box-shadow: 0;">
+	</p>
+	<p>
+	{{ item.translation }}
+	</p>
+
+</section>
+
+{% endfor%}

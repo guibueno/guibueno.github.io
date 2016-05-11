@@ -1,6 +1,6 @@
 ---
 title: Suffixes
-layout: revealjs
+layout: revealjs-exercise
 description: "This description is included within meta-tags"
 goal: ""
 why:
