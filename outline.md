@@ -2,190 +2,99 @@
 layout: doc
 permalink: /outline/
 ---
+# Presentation Outline
 
-<blockquote class="missingbox">
-
-<strong>This is a messy draft</strong>. I'm working on it. Suggestions are welcome.
-
-</blockquote>
-
-# Outline
 {: class="post-title"}
 
-#### Big picture
+1. Good afternoon, everyone. 
+My name is Gui Bueno, 
+I'm a foreign student from Brazil 
+and I'm here to talk about something I'm very passtionate about,
 
--- Quick introduction  
+2. which is: language learning. 
+I have learned foreign languages for almost 15 years
+and I have also taught languages for 3 years.
+But it's funny, 'cause people are usually passionate about things that they are almost naturally very good at.
 
--- **Problem**  
---- Language learning is hard, but very useful  
---- There is too much information, but how to practice?  
+3. ... and I have actually struggled a lot with language learning in the past.
+After 10 years of English courses, I couldn't even have a simple conversation in English.
+And all that struggle was because of something called... 
 
--- Solution  
-  
-  
-* * *
-  
-  
-## Introduction 
+4. foreign language anxiety, which is that fear, embarrassment, or shyness
+that even thinking of speaking foreign languages in front of people may cause you.
+In fact, if today I'm here speaking English in front of all of you and even a camera,
+you can be sure that it's a huge achievement to me.
 
--- My name is Gui Bueno and I am from Brazil  
--- This project addresses language learning in general  
--- Since I'm Brazilian, Portuguese is what it teaches
+5. If you've ever experienced foreign language anxiety, you know what I'm talking about,
+ And I'd love to hear your stories about that, so come to my booth, number 5. 
+ And don't worry, this is not yet the end of my presentation! In fact, I'll now walk you through a...
 
--- **Building credibility**  
---- 15 years of language learning  
---- 3 years of language teaching  
-  
+6. very realistic scenario. Let's imagine that each one of you here really wants to learn Brazilian Portuguese.
+For any reason. Maybe you're applying for a job in Brazil, 
+or just making plans to visit Brazil, or you're getting married to a Brazilian person... 
+Whichever reason, you just really want to learn Portuguese!
 
--- **Problem statement**  
---- I know! Language learning is hard! But what makes it hard?  
---- Raise your hand if you've ever tried to learn a foreign language.  
---- Remain like this if you've ever "failed" at those attempts.  
---- As expected. There are some people in this situation!  
---- In the U.S., XX% of people do not learn Spanish/French
---- No wonder! There are way too many issues in language learning.  
---- Foreign languaxe anxiety, old teaching methods, lack of motivation.  
+7. And so you'll pick up your mobile device and you'll search for language learning apps.
+Among hundreds of options, you will probably download Babbel, Duolingo, and Memrise.
 
--- **Lack of information** is one thing we cannot include, though  
---- So many available services, that vary from ___ to ___.
+8. All these apps will prompt you with several games of translation matching: 
+they'll give you a word in Portuguese, you pick the translation in English. 
+Or vice-versa. But you won't stop there, for sure...
 
--- **Strong beliefs**  
---- Some of them I cannot prove through research at the moment  
---- I have strong convictions based on teaching/learning experience  
---- _Speaking is primary_, just as children do (maybe? bad argument?)  
---- _Risk-taking_, that is, trial and error is crucial  
---- _Focused practice_, that is, going to the gym.
+9. You will also install Rosetta-Stone, of course. 
+After all, this is a multi-million dollar company, so these guys must really know what they are doing.
 
--- **Gym example**  
---- Let's think of language learning from a more embodied perspective.  
---- Being able to speak a language can be compared to going to the gym.  
---- You can find all kinds of information about weight-lifting.  
---- But there is a time in which you actually need to go there and train.  
---- Let's call that practice time. Train time. Deliberate practice. Wtv.
-  
-* * *
-  
-  
-### Interaction / Narrative
+10. And when you use Rosetta-Stone, you'll match audio sentences in Portuguese with pictures, without using any English. 
+You'll get excited and you'll be serious about practicing. 
+After not too long, let's say... a week, I'm you'll be great, you'll be proficient, you'll be an expert at...
 
--- You were bitten by the "language bug"  
---- Now you feel like you need to learn a language  
-  
-  
-* * * 
-  
-  
-#### Personal guidelines
+11. Touching your cellphone screen. 
+Because that's what you'll be doing most of the time. 
+And now you'll ask me: "But, Gui, will that make me a good Portuguese speaker?". 
+And I'll have to be honest and say:
 
-- Move around
-- Use arms and hands
-- Do not look at screen
-- Smile
-- Pauses
-- "Invade" the space of the audience
-- Detailed pronunciation (you'll know each word)
+12. Absolutely not! Not in my opinion, at least. 
+You become good at things as you do these things many times.
+These apps may prompt you to speak every now and then, but this is not enough.
 
-#### Available resources
+13. As a result, you'll end up thinking that language learning is not your thing.
+But I'm here to tell you, that there is a very rare species of bug that may help you...
 
-- Tiled backgrounds
-- GIF backgrounds
-- Video backgrounds
+14. I introduce you to this bug, the LANGUAGE BUG!
+Language Bugs are attracted by the smell of foreign language anxiety.
+So they will find you and bite you, which will result in an..
 
+12. infection! But don't worry, this is not a bad infection.
+It's an infection as much as sipederman was infected by a spider, 
+that is, it's an infection that will give you superpowers,
 
+13. Language Learning Superpowers! 
+Of course, you won't know exactly how to use your superpowers right away.
+Again, just like Spiderman didn't know how to throw his web at the beginning.
+But the LanguageBug app will 
 
-overly personal presentation approach:
-  my name is gui
-  studied english for x years
-  taught 4 langs
-  even the ones i was not profficient
-  very critical of the landscape audit
-  we could be doing more with less
-  i've suffered from language learning anxiety
-  languages are taught by apps a people in a terrible way
-  sense of compleition
-  right/wrong
-  grammar
-  attitude
-  all bad approaches
+14. help you get to know the specific superpowers you have.
+It will make you think about the way you think when learning languages,
+this is called metacognition
 
-draft approach:
-  tis presentation is not completed
-  my thesis is not completed
-  it's all a work in progress
-  i don't even speak fluent english
-  this shouldn't all be a problem
-  development is more important
-  process over product
-  need for a language learning tool that adopts that
-  right/wtong binary
-  grammar
-  correct, grades, green lights
-  these are all behaviors that inhibit learners
-  self-improvement, kaizen should be the focus
-  we like to iterate as designers
-  on the assumption that doing it many times makes you do it right,
-  but we think of our learners as people who need to get things right
-  we think of our design products as fixed, products from a competitive perspectve
-  how much our we still relying on the transmission model?
-  we create standards and tests,
-  we inhibit learners and make them 
+15. The app will then scaffold you to using those superpowers.
+Step-by-step, introducing you to efficient strategies...
 
-   and 
-  we think of assessment as proofs that learning has happened,
-  without taking into account each persosn' individual trajectory
+16. while also taking care of your emotional ()()()()()()()()
+let you know that it takes time to fully develop a superpower.
 
-This presentation is not complete.
+17. Then, you will be ready train these superpowers
+when talking to other bugs about various topics.
 
-My thesis project is not complete, either.
+18. This is a speak-first approach,
+so you will be speaking at all time.
+And that's going to be your only task: speak. 
+Embody your target language!
 
-What's wrong with not being finished?
+19. And finally, you'll record yourself speaking Portuguese,
+so you can see how much you're improving, practice after practice (and even brag about it!)
 
-We, designers, really value trial and error, testing, prototyping, iteration as part of our process.
+20. Well, if you want to try LanguageBug's speak first approach,
+visit my booth (number 5) and try out our live demo.
 
-But when it comes to our instructional products, we tend to think about assessment in a strict way.
-
-Well... let me share a personal narrative about that.
-
-I have studied English for over 10 years in Brazil. I always had great grades, I'd perform well on tests, I'd attend all classes.
-
-As the years went by, I was always waiting for the finish line, that is, a time in which I'd say: "Now I have completed the English course, now I speak English."
-
-Guess what? This has never happened. I spent those 10 years waiting for completion, instead of paving the way to become a fluent speaker.
-
-In the end, I had a certificate saying I spoke English, but I wasn't able to have a conversation in English, to communicate, to watch a movie, or to even introduce myself in English.
-
-### Feedback
-
-> nicolepf: (in the intro you should mention that you were a language teacher)
-
-> jhodrick [7:20 PM] Personal story, solid. I like the simple slides.
-
-> michalola [7:20 PM] cool slides!!!!!
-
-> jhodrick [7:21 PM] Subversive cliffhanger for your story! (edited)
-
-> saorig [7:21 PM] I wish I can talk to audience like you do all the time..
-
-> bhavanabudithi [7:21 PM] Simple slides. Amazing connection with the audience
-
-> nissa [7:21 PM]  - "usually passionate about what good at" i like this as how you present a "twist" in your story - if going to ask "why" want to learn Portuguese, give us at least some example reasons (travel, friends, whatever) (edited)
-
-> annwu [7:21 PM] Problem statement was very smoothly connected to what you’re gonna deal with, I like it. great flow
-
-> bhavanabudithi [7:21 PM] humour!
-
-> michalola [7:21 PM] :grinning:
-
-> jhodrick [7:22 PM] I love the imagery. (edited)
-
-> nissa [7:22 PM]  spiderman is a great reference
-
-> nicolepf [7:23 PM] you are great at keep the audience paying attention to what you're saying
-
-> martyb [7:23 PM] wonderful Touching You Screen moment, really feels like a pitch, which is great, good job just teasing your project, i'm into learn more
-
-> saorig [7:23 PM] I'm so intrigued by your presentation and now I really want to go visit your cube!
-
-> maaike [7:25 PM] I like the personal story.. might you also want to highlight your experience as a teacher even more? I think that gives you a lot of credibility.  I like the landscape audit to show your understanding of the competition. You might also highlight that this is a multimillion (billion?) dollar industry that you are approaching it very differently (and how it's different). REALLY be clear about how you're differentiating it. As always, great presenting style. Total time 3:45. Please add name to the end of your presentation (maybe contact info as well).
-
-> nissa [7:27 PM] ways to get back to how you're different, maybe something like "get practice doing more than touching your screen" / "get practice ​*speaking*​ instead of touching your screen"
+21. Thank you once again! My name is Gui Bueno. It's been a pleasure.

@@ -1,14 +1,12 @@
 ---
 title: Numbers
 layout: revealjs-exercise
-description: "This description is included within meta-tags"
 goal: "Learn several expressions to greet and introduce yourself"
 why:
   - Explanation 1
   - Explanation 2
   - Explanation 3
 principles:
-ppitfalls:
 standardtime: 700
 
 ## Content supports TIME

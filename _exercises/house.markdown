@@ -1,14 +1,12 @@
 ---
 title: House
 layout: revealjs-exercise
-description: "This description is included within meta-tags"
 goal: ""
 why:
-  - Explanation 1
-  - Explanation 2
-  - Explanation 3
+  - "Learn relevant vocabulary: rooms, places, positions, etc."
+  - "This is your first step to learn how to ask for directions."
+  - ""
 principles:
-ppitfalls:
 standardtime: 700
 
 content:
@@ -16,8 +14,8 @@ content:
     translation: "I live in ( a house / an apartment)."
   - center: "Eu moro lá há _____ (meses / anos)."
     translation: "I have lived there for ____ (months / years)."
-  - center: "Meu endereço é Rua _____, número _____, bairro _____, em _____."
-    translation: "My address is _____ Street, number _____, _____ neighborhood, in _____."
+  - center: "Meu endereço é: rua _____, número _____, bairro _____, em _____."
+    translation: "My address is: _____ street, number _____, _____ neighborhood, in _____."
   - center: "(Minha casa / Meu apartamento) é (grande / legal / _____)."
     translation: "(My house / My apartment) is (big / nice / _____)."
   - center: "A cor das paredes é _____."
@@ -31,7 +29,7 @@ content:
   - center: "(Não) tem jardim. (Não) tem piscina. (Não) tem porão. (Não) tem sótão."
     translation: "There is (not) a garden. There is (not) a pool. There is (not) a basement. There is not an attic."
   - center: "Em frente em casa, há ______. Atrás de casa, há ______."
-    translation: "In front of my house, there is a ______. Behing my house, there is a _____."
+    translation: "In front of my house, there is a ______. Behind my house, there is a _____."
   - center: "À direita de casa, há ______. À esquerda de casa há ______."
     translation: "On the right of my house, there is a _____. On the left of my house, there is a _____."
   - center: "Perto de casa, tem ______."

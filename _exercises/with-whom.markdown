@@ -1,14 +1,12 @@
 ---
 title: "With whom?"
 layout: revealjs-exercise
-description: "This description is included within meta-tags"
 goal: ""
 why:
   - Explanation 1
   - Explanation 2
   - Explanation 3
 principles:
-ppitfalls:
 standardtime: 700
 
 content:

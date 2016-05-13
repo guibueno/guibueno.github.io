@@ -1,17 +1,13 @@
 ---
 title: Greetings
 layout: revealjs-exercise
-description: "This description is included within meta-tags"
-goal: "Learn several expressions to greet and introduce yourself"
+goal: "Learn several formal/informal expressions to greet and introduce yourself."
 why:
-  - Explanation 1
-  - Explanation 2
-  - Explanation 3
+  - "There are many variations of greetings. Get to know most of them!"
+  - "Begin to personalize your new language: focus on what pleases your ears."
+  - "Learn day-to-day expressions and you will not sound formal to a speaker."
 principles:
-ppitfalls:
 standardtime: 1000  
-
-## Content supports TIME
 
 content:
   - center: "Oi, tudo bem?"

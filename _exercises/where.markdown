@@ -1,14 +1,12 @@
 ---
 title: "Where?"
 layout: revealjs-exercise
-description: "This description is included within meta-tags"
 goal: "This is the goal"
 why:
   - Explanation 1
   - Explanation 2
   - Explanation 3
 principles:
-ppitfalls:
 standardtime: 700
 content:
   - center: "aqui"

@@ -1,14 +1,11 @@
 ---
 title: Family
 layout: revealjs-exercise
-description: "This description is included within meta-tags"
-goal: ""
+goal: "Talk about your family and people will know better who you are."
 why:
-  - Explanation 1
-  - Explanation 2
-  - Explanation 3
+  - "Learn relevant vocabulary: family members, professions, etc."
+  - "Ready-made sentences will get you started to describe people."
 principles:
-ppitfalls:
 standardtime: 700
 
 content:

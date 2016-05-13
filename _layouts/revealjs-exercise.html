@@ -7,11 +7,11 @@ layout: revealjs-default
         <h1>{{ page.collection }}</h1>
         <h2>{{ page.title }}</h2>
         <p>{{ page.goal }}</p>
-        <p><a href="#" class="navigate-right">Yes, let's do it!</a></p>
+        <p><a href="#" class="navigate-right">Let's do it!</a></p>
         
         {% if page.why %}
 
-        <p><a href="#" class="navigate-down">Wait...Why that?</a></p>
+        <p><a href="#" class="navigate-down">Wait... Why?</a></p>
     </section>
     <section data-autoslide="0">
         <h1>Brief Explanation</h1>
@@ -43,25 +43,40 @@ layout: revealjs-default
 </section>
 
 {% for item in page.content %}
-
-<!--Recording Camila
-<section data-autoslide="{% if item.time %}{{ item.time }}{% else %}{{ page.standardtime }}{% endif %}">-->
-<section>
-	<blockquote>
-	{{ item.center }}
-	</blockquote>
-	<p>
-		<img src="/revealjs/images/audio-icon.png" width="30px" style="border: 0; box-shadow: 0;">
-	</p>
-	<p>
-		{{ item.center }}
-	</p>
-
-</section>
-
+	{% if item.hide %}
+		<section data-autoslide="1">
+		</section>
+	{% else %}
+		<section>
+			<section>
+				<blockquote>
+				{{ item.center }}
+				</blockquote>
+				<p>{{ item.translation }}</p>
+			</section>
+			<section>
+				<blockquote>
+				{{ item.center }}
+				</blockquote>
+				<p>{{ item.translation }}</p>
+			</section>
+			<section>
+				<blockquote>
+				{{ item.variable }}
+				</blockquote>
+				<p>{{ item.transcript }}</p>
+			</section>
+			<section>
+				<blockquote>
+				{{ item.variable }}
+				</blockquote>
+				<p>{{ item.transcript }}</p>
+			</section>
+		</section>
+	{% endif %}
 {% endfor%}
 
-<section data-autoslide="0">
+<!--<section data-autoslide="0">
 	
 	Now, listen to the translations and REPEAT them.
 
@@ -69,18 +84,18 @@ layout: revealjs-default
 
 {% for item in page.content %}
 
-<section data-autoslide="{% if item.time %}{{ item.time }}{% else %}{{ page.standardtime }}{% endif %}">
+	<section data-autoslide="{% if item.time %}{{ item.time }}{% else %}{{ page.standardtime }}{% endif %}">
 
-	<blockquote>
-	{{ item.center }}
-	</blockquote>
-	<p>
-		<img src="/revealjs/images/audio-icon.png" width="30px" style="border: 0; box-shadow: 0;">
-	</p>
-	<p>
-	{{ item.translation }}
-	</p>
+		<blockquote>
+		{{ item.center }}
+		</blockquote>
+		<p>
+			<img src="/revealjs/images/audio-icon.png" width="30px" style="border: 0; box-shadow: 0;">
+		</p>
+		<p>
+		{{ item.translation }}
+		</p>
 
-</section>
+	</section>
 
-{% endfor%}
+{% endfor%}-->

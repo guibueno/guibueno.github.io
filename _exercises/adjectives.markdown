@@ -1,14 +1,12 @@
 ---
 title: Adjectives
 layout: revealjs-exercise
-description: "This description is included within meta-tags"
-goal: "This is the goal"
+goal: "Get to know basic adjectives to describe people."
 why:
-  - Explanation 1
-  - Explanation 2
-  - Explanation 3
+  - "You will notice that these adjectives are everywhere."
+  - "It is easy to memorize pair of words, such as antonyms."
+  - "Your descriptions become richer with more adjectives."
 principles:
-ppitfalls:
 permalink: adjectives
 standardtime: 700
 

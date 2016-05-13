@@ -1,14 +1,12 @@
 ---
-title: Structure
+title: Building-Blocs
 layout: revealjs-exercise
-description: "This description is included within meta-tags"
-goal: ""
+goal: "Say how you are, what you are doing, how you feel, etc."
 why:
-  - Explanation 1
-  - Explanation 2
-  - Explanation 3
+  - "You can learn present, past, and future, all at once."
+  - "Grammar rules are not necessary to communicate."
+  - "You will notice this sentence structure everywhere."
 principles:
-ppitfalls:
 standardtime: 700
 
 content:

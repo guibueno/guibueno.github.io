@@ -10,21 +10,9 @@ section: appendices
 
 ### Exercise: {{ exercise.title }}
 
-#### Goal
-{{ exercise.goal }}
-
-#### Description
-{{ exercise.description }}
-
-#### Why
+{{ exercise.goal }} **Why?**
 {% for item in exercise.why %}
 * {{ item }}{% endfor %}
-
-#### Required Principles
-{{ exercise.principles }}
-
-#### Potential Pitfalls
-{{ exercise.ppitfalls }}
 
 #### Content
 
