@@ -1,101 +1,52 @@
 ---
 layout: revealjs-default
 ---
-
 <section>
     <section data-autoslide="0">
-        <h1>{{ page.collection }}</h1>
-        <h2>{{ page.title }}</h2>
+        <h1>{{ page.title }}</h1>
         <p>{{ page.goal }}</p>
-        <p><a href="#" class="navigate-right">Let's do it!</a></p>
-        
-        {% if page.why %}
-
-        <p><a href="#" class="navigate-down">Wait... Why?</a></p>
+        <p><a href="#" class="navigate-right">Start</a></p>       
+        <p><a href="#" class="navigate-down">Why?</a></p>
     </section>
     <section data-autoslide="0">
-        <h1>Brief Explanation</h1>
-        <small>
+            <h1>Why?</h1>
             <ol>
             	{% for item in page.why %}
-
-                	<li>{{ item }}</li>
-
+                	<li style="font-size: 20pt">{{ item }}</li>
                 {% endfor %}
             </ol>
-        </small>
-        <p><a href="#" class="navigate-right">Now I get it. Let's start!</a></p>
-        <p><del>Interesting. I want to learn more.</del> SOON!</p>
+        <p><a href="#" class="navigate-right">Start</a></p>
     </section>
-
-    	{% else %}
-
-	</section>
-
-    	{% endif %}
-
 </section>
-
-<section data-autoslide="0">
-	
-	First, repeat the words and expressions in portuguese
-
+<section data-autoslide="2000">
+	Repeat what you hear. As fast as you can.
 </section>
 
 {% for item in page.content %}
-	{% if item.hide %}
-		<section data-autoslide="1">
-		</section>
-	{% else %}
-		<section>
-			<section>
-				<blockquote>
-				{{ item.center }}
-				</blockquote>
-				<p>{{ item.translation }}</p>
-			</section>
-			<section>
-				<blockquote>
-				{{ item.center }}
-				</blockquote>
-				<p>{{ item.translation }}</p>
-			</section>
-			<section>
-				<blockquote>
-				{{ item.variable }}
-				</blockquote>
-				<p>{{ item.transcript }}</p>
-			</section>
-			<section>
-				<blockquote>
-				{{ item.variable }}
-				</blockquote>
-				<p>{{ item.transcript }}</p>
-			</section>
-		</section>
-	{% endif %}
-{% endfor%}
-
-<!--<section data-autoslide="0">
-	
-	Now, listen to the translations and REPEAT them.
-
-</section>
-
-{% for item in page.content %}
-
-	<section data-autoslide="{% if item.time %}{{ item.time }}{% else %}{{ page.standardtime }}{% endif %}">
-
+<section>
+	<section>
 		<blockquote>
 		{{ item.center }}
 		</blockquote>
-		<p>
-			<img src="/revealjs/images/audio-icon.png" width="30px" style="border: 0; box-shadow: 0;">
-		</p>
-		<p>
-		{{ item.translation }}
-		</p>
-
+		<p>{{ item.translation }}</p>
 	</section>
-
-{% endfor%}-->
+	<section>
+		<blockquote>
+		{{ item.center }}
+		</blockquote>
+		<p>{{ item.translation }}</p>
+	</section>
+	<section>
+		<blockquote>
+		{{ item.variable }}
+		</blockquote>
+		<p>{{ item.transcript }}</p>
+	</section>
+	<section>
+		<blockquote>
+		{{ item.variable }}
+		</blockquote>
+		<p>{{ item.transcript }}</p>
+	</section>
+</section>
+{% endfor%}
