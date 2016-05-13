@@ -1,0 +1,36 @@
+.practice-panel {
+  background-color: #222;
+}
+
+.practice-toolbar {
+  height: 100px;
+  z-index: 1;
+  box-shadow: 0 2px 5px 0 rgba(0, 0, 0, 0.26);
+}
+
+.practice-toolbar::shadow #topBar {
+  height: 96px;
+}
+
+.practice-list {
+  position: absolute;
+  top: 64px;
+  right: 0;
+  bottom: 0;
+  left: 0;
+  padding: 2px 0;
+  margin: 0 -2px;
+  overflow-y: auto;
+  overflow-x: hidden;
+  -webkit-overflow-scrolling: touch;
+
+}
+
+.practice-list iframe {
+  border: 0;
+  margin: 0;
+  padding: 0;
+  overflow-y: auto;
+  overflow-x: hidden;
+  -webkit-overflow-scrolling: touch;
+}
