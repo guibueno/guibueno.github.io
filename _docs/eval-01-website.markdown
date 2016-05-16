@@ -4,7 +4,7 @@ layout: doc
 section: eval
 ---
 
-It is a recommended practice to conduct formative evaluation during all stages of instructional design, according to the ADDIE model framework (Smith; Ragan, 1999). In light of that, I have created a customized, open-access, website that stores and displays all information related to this thesis project. 
+It is a recommended practice to conduct formative evaluation during all stages of instructional design, according to the ADDIE model framework (Smith; Ragan, 2005). In light of that, I have created a customized, open-access, website that stores and displays all information related to this thesis project. 
 
 Such website became at the same time my central workplace and a channel to showcase my progress. It has offered my community of collaborators (my peers, instructors, and committee members) an ongoing and unlimited opportunity to access and review my work during the whole design process.
 

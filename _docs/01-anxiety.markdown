@@ -18,3 +18,11 @@ Anxiety and the language learner: new insights
 
 http://ezproxy.library.nyu.edu:2084/action/displayAbstract?fromPage=online&aid=31967&fileId=S0142716499002039
 Factors associated with foreign language anxiety
+
+**Emotion:**
+
+On the issue of Language Learning Anxiety, Torres & Turner (2014) review that:
+
+*"Researchers further suggest that students who experience high levels of anxiety may have difficulty acquiring a FL (Gregersen, 2003; Horwitz, et. al, 1986; Marcos-Llinás & Garau, 2009). As such, FL anxiety has been found to be negatively associated with language achievement (Awan, Azher, Anwar, & Naz, 2010; Horwitz, et. al, 1986)." (p. 86)*
+
+To that problem, Torres & Turner (2014) suggest that "creating a low anxiety atmosphere at the onset of the semester could help ease students’ negative language learning experiences." (p. 99). 

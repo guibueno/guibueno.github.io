@@ -1,0 +1,37 @@
+---
+layout: doc
+title: "How can repetition work?"
+hide: yes
+---
+
+* Cycle: speak, record, reflect
+
+* Speak
+* Audio prompts are never the same
+* Updating interpretation
+* Construtivist approach
+
+* new contents
+* "mismatch - between prior knowledge and current experience - is a powerful engine for cognitive advancement” (p. 198).
+action-based, embodied
+* always adding content
+* Assimilation: “We easily assimilate our experience into our knowledge or belief system. The two are compatible, and everything seems to make sense” (p. 198).
+
+
+* other times
+* new perceptions
+* Accommodation: “When the mind changes to conform to new experience, accomodation occurs. We accommodate our mental structures and habits to the new information” (p. 198). Just like I did now, when I realized that accommodation has two Ms.
+
+* expertise
+* Disequilibrium: “Accommodation has greater power to push the individual mind forward” (p. 198).
+* “new experiences can be dizzying and disorienting, … the mind’s tendency is toward equilibration” (p. 198);
+* “active position of trying to make sense of the world” (p. 198).
+* not behaviourist
+
+* no grammar
+* ferreira
+* mohamed
+* “This does not mean that the child’s attempts to reconcile experience to his or her knowledge are always successful. In fact, children often generate explanations that are oversimplified or incorrect, but those provisional explanations (which normally mature in later years) are honest attempts to understand. The child’s work to make sense of the world is a manifestation of constructivism” (p. 198).
+
+* reflect
+

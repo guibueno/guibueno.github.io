@@ -3,7 +3,7 @@ layout: doc
 title: "No corrections!?"
 ---
 
-**LanguageBug** does not asses or correct what learners are saying. In fact, it does not have any audio input during exercises, which means that it does not even "hear" its learners at all. Why?
+**LanguageBug** does not assess or correct what learners are saying. In fact, it does not have any audio input during exercises, which means that it does not even "hear" its learners at all. Why?
 
 ### Foreign Language Anxiety
 

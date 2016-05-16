@@ -383,20 +383,25 @@ h2.role {
     text-align: center;
     font-size: $small-font-size;
 }
-.positive, {
+.positive, .negative {
+    list-style: none;
+}
+
+.la-balance {
+    border: 0;
+}
+
+/*.positive, {
     margin-bottom: 5px;
-    list-style-image: url(/images/bullets/check.png);/*no-repeat left top*/
-    height: 54px;
-    padding-left: 44px;
-    padding-top: 3px;
+    list-style-image: url(/images/bullets/check-yes.png);
+    list-style-position: inside;
 }
 .negative {
     margin-bottom: 5px;
-    list-style-image: url(/images/bullets/check-no.png);/*no-repeat left top*/
-    height: 54px;
-    padding-left: 44px;
-    padding-top: 3px;
-}
+    list-style-image: url(/images/bullets/check-no.png);
+    list-style-position: inside;
+}*/
+
 .noindent {
     margin-left: 0;
     text-indent: 0;

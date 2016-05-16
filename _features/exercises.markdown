@@ -79,23 +79,42 @@ Finally, bugs could be further developed as characters with particular interests
 {% for exercise in site.exercises %}
 * [{{ exercise.title }}]({{ exercise.url | prepend: site.baseurl }}){:target="blank"}{% endfor %}
 
-### FAQ
+### Related FAQ
 
 * What about accuracy?
-* What about writing?
-* Repetition
+* How can repetition work?
 
 ### Theoretical foundation
 
-* Scaffolding/ZPD
-* Embodied Cognition
-* Adaptation
-* Cognitive Load
-* Action
-* Risk-taking
-* Deliberate practice
-* Focus
-* Constructivism
+#### Constructivism
+
+The constructvist notion that knowledge is constructed, not transmited (Smith; Ragan, 2005) supports the design of *Exercises*. Learners interact with the same *Exercises* several times and keep updating their perceptions and mental models.
+
+This is part of what Piaget describes as *disequilibrium* and *accommodation* (Martinez, 2010). Rather than being a passive receiver, learners have an "active position of trying to make sense of the world” (Martinez, 2010, p. 198).
+
+*Exercises* help learners "regulate the sequence of relevant actions" (Reiser; Tabak, 2014, p. 47). The goal is to gradually reduce guidance, so that "learners appropriate this guidance and begin to regulate their own actions" (Reiser; Tabak, 2014). 
+
+#### Embodied Cognition
+
+LanguageBug assumes the embodied perspective on learning and instruction:
+
+> Simply stated, the embodied perspective takes seriously that our physical bodies actually play a very important and, until quite recently, overlooked role in how we think and act in the world” (Lee, 2014, p. 6)
+
+The body plays a crucial role in the process of trying to speak words/sentences in a foreign language. It does so by:
+
+* hearing and processing unfamiliar, meaningless, speech sounds,
+* attempting to understand, memorize, and mimic those sounds, while
+* making adaptions or even playing with their vocal apparatus.
+
+The goal of *Exercises* is to provide learners with a safe environment to embody their cognitive process. 
+
+The fast-paced sequence of words does not allow learners to "think for too long", in the traditional sense of the word. On the contrary, it understands that “manipulating the body manipulates how we think” (Lee, 2014, p. 10), therefore it foster actions.
+
+#### Cognitive Load
+
+According to the Cognitive Load Theory (Sweller, 2010), working memory has limited processing capacity. Therefore, instruction should only present information that is relevant to the goal of "schema acquisition and automation" (Sweller, 2010, p. 43).
+
+Based on those principles, *Exercises* only display what is relevant to the goal of language learning. This means that words, sentences, instructions and translations are present in these practices, but interactive buttons, images, and keyboards are not.
 
 ### Full list of Exercises
 

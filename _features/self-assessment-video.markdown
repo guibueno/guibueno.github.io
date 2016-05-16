@@ -8,22 +8,19 @@ section: design
 
 At the end of each practice, learners can record their own speech in a **self-assessment video**, so they can witness their ongoing progress.
 
-### Within the narrative
-
-
 ### Association with existing resources
 
 In the professional and academic domains, foreign language speakers are often required to take oral proficiency tests. These tests may be administered in-person or thrugh videoconferencing tools.
 
-For example, the New York University (NYU) may require its prospective international students to take *language placement tests*, offered by the American Language Institute (NYU ALI, n.d.). 
+For example, the New York University (NYU) may require its prospective international students to take *language placement tests*, offered by the American Language Institute (NYU ALI, n.d.).
 
 Similartly, the American Council on the Teaching of Foreign Languages (ACTFL) has been offering a popular test called the *ACTFL Oral Proficiency Interview* (ACTFL OPI) for over 20 years (ACTFL, n.d.).
 
-In these tests, test takers are prompted to produce original speech in the tested language, which certified test takers will then analyze and rate. 
-
-Within **LanguageBug** learners are their own test takers. Despite not having certified technical skills to assess their own speech, learners will certainly be able to notice progress by watching video after video.
+Certified test takers analyze and rate the performance of test takers in both examples. Within **LanguageBug** learners are their own test takers: not trained to look for accuracy, but certainly able to identify their own progress.
 
 ### Functions
+
+The main function of the *Self-assessment video* tool is to allow learners to perform their own formative assessment. A few other functions are also highly relevant: 
 
 * Register speech samples continuously.
 * Compare current and past speech samples to assess progress.
@@ -77,14 +74,31 @@ None of these features has been tested our outlined at the moment.
 
 ### Related FAQ
 
-* Why no corrections?
+* No corrections!?
 * What about accuracy?
-* Repetition
 
 ### Theoretical foundation
 
-* Formative assessment
-* Self-efficacy
-* Self-motivation
-* Intrinsic motivation
-* Informal learning
+#### Informal learning
+
+The LIFE Diversity Consensus Panel's "*Learning in and out of school in diverse environments*" report state that 
+
+> "learning takes place not only in school but also in the multiple contexts and valued practices of everyday lives across the life span" (Banks et al, 2007, p. 5).
+
+When it comes specifically to languages, the same report suggests that
+
+> "students learn more when they are allowed and encouraged to use the variety of language resources available to them.” (p. 22).
+
+Initially, **LanguageBug** learners have very limited language resources. Despite that, they should be provided with a chance to experimentat with their new language and reflect about the results. *Self-assessment videos* is the safe space to do that.
+
+#### Self-directed Learning
+
+In a self-directed learning experience, "students fully determine their own schedule and pace" (Oberg & Daniels, 2013, p. 179). The purely self-paced and independent studies are naturally challenging and may involve burdens for the leaner.
+
+As a result, motivation is one of the keywords in self-regulated learning. Research shows that conducting independent studies may produce high levels of cognitive engagement, meaningful connections and increased motivation (Kinzie, 1990).
+
+Halvorson (2010) states that
+
+> people are motivated to do anything as a function of (1) how likely they are to be successful and (2) how much they think they will benefit from it. And of course the more motivated you are, the more likely you are to reach your goal. (p. 23)
+
+*Self-assessment videos* show learners that their investments of time and effort result in concrete improvement. As a result, these learners are likely to remain self-motivated.

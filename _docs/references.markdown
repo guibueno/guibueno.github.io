@@ -13,9 +13,13 @@ title: References
 
 ##### Awan, R., Azher, M., Anwar, M., & Naz, A. (2010). An investigation of foreign language classroom anxiety and its relationship with students’ achievement. Journal of College Teaching & Learning, 7, 33-40.
 
+##### Banks, J. A., Au, K. H., Ball, A. F., Bell, P., Gordon, E. W., Gutierrez, K., et al (2007) *Learning in and out of school in diverse environments: Life-Long, Life-Wide, Life-Deep*. Seattle, WA: Center for Multicultural Education.
+
 ##### Bernat, E., Gvozdenko, I. (2005). Beliefs about language learning: Current knowledge, pedagogical implications and new research directions. Retrieved from http://www.researchonline.mq.edu.au/vital/access/services/Download/mq:7446/SOURCE1
 
 ##### Bourgerie, D. S. (2003). Computer aided language learning for Chinese: A survey and annotated bibliography. *Journal of the Chinese Language Teachers Association*, 38(2), 17-47.
+
+##### Bransford, J.D., Brown, A., & Cocking, R.R. (2000). Chapter 2: How experts differ from novices. In, *How People Learn: Brain, Mind, Experience, and School*: Expanded Edition, pp. 31-50. Washington, DC: National Academy Press. 
 
 ##### Brown, H. D. (2000) Teaching by principles. 2nd ed. Pearson ESL, NY: Prentice Hall.
 
@@ -81,15 +85,19 @@ title: References
 
 ##### Marcos-Llinás, M. & Garau, M. (2009). Effects of language anxiety on three proficiency-level courses of Spanish as a foreign language. Foreign Language Annals, 42, 94-111.
 
+##### Martinez, M. (2010). Cognitive Development Through the Life Span [Chapter 7]. *Learning and Cognition, The Design of the Mind*, pp. 197-212. New Jersey: Pearson Education, Inc.
+
 ##### Mercer, S., & Ryan, S. (2010). A mindset for EFL: Learners’ beliefs about the role of natural talent. *ELT journal*, *64*(4), 436-444.
 
 ##### Mercer, S. (2012). Dispelling the myth of the natural-born linguist. *ELT journal*, *66*(1), 22-29.
 
 ##### Merriam, S. B. (2001). *Andragogy and self‐directed learning: Pillars of adult learning theory*. New directions for adult and continuing education, 2001(89), 3-14.
 
+##### Mohamed , N. (2006). *An exploratory study of the interplay between teachers' beliefs, instructional practices & professional development* (PhD thesis). University of Auckland
+
 ##### Noels, K. A., Pelletier, L. G., Clément, R., & Vallerand, R. J. (2000). *Why are you learning a second language?* Motivational orientations and self‐determination theory. Language learning, 50(1), 57-85.
 
-##### Noels, K. A., & Lou, M. T. (2015). Mindsets, Goal Orientations and Language Learning
+##### Noels, K. A., & Lou, M. T. (2015). *Mindsets, Goal Orientations and Language Learning*: What we Know And What We Can Do. Contact. 41.2: 41-52.
 
 ##### Nesbitt, D. (2013). Student evaluation of CALL tools during the design process. *Computer Assisted Language Learning*, *26*(4), 371-387.
 
@@ -103,13 +111,15 @@ title: References
 
 ##### Pew Research Center. (2015) *The Smartphone Difference*. Retrieved from: http://www.pewinternet.org/2015/04/01/us-smartphone-use-in-2015.
 
+##### Reiser, B. J. & Tabak, I. (2014). Scaffolding. *The Cambridge Handbook of the Learning Sciences*, 2nd ed., pp. 44-62.Cambridge: Cambridge University Press. Cambridge Books Online. Web. 25 January 2015. 
+
 ##### Samuel, A. G., & Larraza, S. (2015). Does listening to non-native speech impair speech perception?. *Journal of Memory and Language*, *81*, 51-71.
 
 ##### Saffer, D. (2009). *Designing for interaction: creating innovative applications and devices*. New Riders.
 
 ##### Scott, M. J., & Ghinea, G. (2014). On the domain-specificity of mindsets: The relationship between aptitude beliefs and programming practice. *Education, IEEE Transactions on*, *57*(3), 169-174.
 
-##### Smith, P. L., & Ragan, T. J. (1999). *Instructional design* (p. 3). New York: Wiley.
+##### Smith, P. L., & Ragan, T. J. (2005). *Instructional design* (3rd ed.). New York: John Wiley & Sons Inc.
 
 ##### Stallman, R. (2002). *Free software, free society: Selected essays of Richard M. Stallman*. Retrieved from: http://www.gnu.org/doc/fsfs3-paperback.pdf.
 
@@ -129,6 +139,6 @@ title: References
 
 ##### Winne, P. H. & Azevedo, R. (2014). Metacognition. In, R. K. Sawyer (Ed.) *The Cambridge Handbook of the Learning Sciences*, 2nd ed. pp. 63-87. Cambridge: Cambridge University Press. Cambridge Books Online. Web. 25 January 2015.[ ](http://dx.doi.org/10.1017/CBO9781139519526.006)
 
-##### Yang, X., & Chen, D. (2014). Do Instructors’ Perceptions on Teaching Culture in Foreign Language Classroom Make a Difference: Lessons from a Qualitative Study of Language Instructors and Learners. *The Journal of Language Teaching and Learning*, *4*(2), 1-14.
+-##### Yang, X., & Chen, D. (2014). Do Instructors’ Perceptions on Teaching Culture in Foreign Language Classroom Make a Difference: Lessons from a Qualitative Study of Language Instructors and Learners. *The Journal of Language Teaching and Learning*, *4*(2), 1-14.
 
 ##### Yeager, D. S., & Dweck, C. S. (2012). Mindsets that promote resilience: When students believe that personal characteristics can be developed. *Educational Psychologist*, *47*(4), 302-314.
