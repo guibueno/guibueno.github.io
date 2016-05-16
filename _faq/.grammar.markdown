@@ -1,3 +1,4 @@
+/*
 ---
 layout: doc
 hide: yes
@@ -22,3 +23,4 @@ isn't a simple task of presenting labels and rules one expects students to memor
 "an organised and progressive work of observation and systematisation of major paradigms and regularities of language" (p. Ferreira, 2014, 18).
 
 ### Conclusion
+*/

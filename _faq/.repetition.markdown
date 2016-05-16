@@ -1,4 +1,4 @@
----
+/*---
 layout: doc
 title: "How can repetition work?"
 hide: yes
@@ -35,3 +35,4 @@ action-based, embodied
 
 * reflect
 
+*/

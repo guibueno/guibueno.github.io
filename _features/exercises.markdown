@@ -59,13 +59,6 @@ By completing sentences with personal information, such as the color of their ey
 * Ask learner to repeat those two sentences with his/her info.
 * Repeat procedure, increasing the number of sentences.
 
-#### Screen-shots
-
-![image1](dasd.jpg)
-![image2](dasd.jpg)
-![image3](dasd.jpg)
-![image4](dasd.jpg)
-
 ### Scalability
 
 Within the scope of this thesis project, **LanguageBug** only covers basic Novice-level content, but there are certainly more words and sentences that could be integrated to the exercises. In addition to that, it is always possible to keep improving the selection of words and expressions based on feedback from learners and user observation.
@@ -81,8 +74,8 @@ Finally, bugs could be further developed as characters with particular interests
 
 ### Related FAQ
 
+* No crrections?
 * What about accuracy?
-* How can repetition work?
 
 ### Theoretical foundation
 

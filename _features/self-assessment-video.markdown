@@ -49,13 +49,6 @@ But she was also able to notice all the learning she had accomplished in only a 
 
 In this case, Nicole is comparing her current self to herself before the practice. **Progress** is the ultimate goal. If Nicole did another exercise practice, it is likely that her performance would be even better.
 
-#### Screen-shots
-
-![image1](dasd.jpg)
-![image2](dasd.jpg)
-![image3](dasd.jpg)
-![image4](dasd.jpg)
-
 ### Scalability
 
 User-generated videos bring several new affordances to the design of **LanguageBug**. As a result, there could be several enhancements to the *self-assessment video* feature, such as the following:

@@ -63,13 +63,6 @@ Users will be introduced to the principle of *Speak Fast* through timed instruct
 10. Transition to words and sentences in Portuguese.
 11. *Instruction*: "Keep that sweet spot!"
 
-#### Screen-shots
-
-![image1](dasd.jpg)
-![image2](dasd.jpg)
-![image3](dasd.jpg)
-![image4](dasd.jpg)
-
 ### Scalability
 
 Creating an exhaustive list of good language learning principles is both impossible and undesired for many reasons, such as:
