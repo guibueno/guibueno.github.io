@@ -26,20 +26,122 @@ title: PDF
 
 </div>
 
-![1]({{site.baseurl}}/images/doc-cover.png)
+![Cover]({{site.baseurl}}/images/doc-cover.png)
+{: class="storyboard"}
+
+![Needs]({{site.baseurl}}/images/sections/needs.png)
 {: class="storyboard"}
 
 {% for item in site.docs %}
 
+	{% if item.section == "intro" %}
+
+		{{ item.output }}
+
+	{% endif %}
+
+{% endfor %}
+
+![Analysis]({{site.baseurl}}/images/sections/analysis.png)
+{: class="storyboard"}
+
+{% for item in site.docs %}
+
+	{% if item.section == "needs" %}
+
+		{{ item.output }}
+
+		{% if item.title == "Landscape Audit" %}
+
+			{% for landscapeaudit in site.landscapeaudit %}
+						   
+				{{ landscapeaudit.output }}
+
+			{% endfor %}
+
+				![Rationale]({{site.baseurl}}/images/sections/rationale.png)
+				{: class="storyboard"}
+
+		{% endif %}
+
+	{% endif %}
+
+{% endfor %}
+
+![Rationale]({{site.baseurl}}/images/sections/rationale.png)
+{: class="storyboard"}
+
+{% for item in site.rationale %}
+
 	{{ item.output }}
 
-	{% if item.title == "Landscape Audit" %}
+{% endfor %}
 
-		{% for landscapeaudit in site.landscapeaudit %}
-					   
-			{{ landscapeaudit.output }}
+![Features]({{site.baseurl}}/images/sections/features.png)
+{: class="storyboard"}
 
-		{% endfor %}
+{% for item in site.features %}
+
+	{{ item.output }}
+
+{% endfor %}
+
+![FAQ]({{site.baseurl}}/images/sections/faq.png)
+{: class="storyboard"}
+
+{% for item in site.faq %}
+
+	{{ item.output }}
+
+{% endfor %}
+
+![Evaluation]({{site.baseurl}}/images/sections/evaluation.png)
+{: class="storyboard"}
+
+{% for item in site.docs %}
+
+	{% if item.section == "eval" %}
+
+		{{ item.output }}
+
+	{% endif %}
+
+{% endfor %}
+
+![Conclusion]({{site.baseurl}}/images/sections/conclusion.png)
+{: class="storyboard"}
+
+{% for item in site.docs %}
+
+	{% if item.section == "conc" %}
+
+		{{ item.output }}
+
+	{% endif %}
+
+{% endfor %}
+
+![Future Directions]({{site.baseurl}}/images/sections/future-directions.png)
+{: class="storyboard"}
+
+{% for item in site.docs %}
+
+	{% if item.section == "fut" %}
+
+		{{ item.output }}
+
+	{% endif %}
+
+{% endfor %}
+
+![Appendices]({{site.baseurl}}/images/sections/appendices.png)
+{: class="storyboard"}
+
+{% for item in site.docs %}
+
+	{% if item.section == "appendices" %}
+
+		{{ item.output }}
 
 	{% endif %}
 

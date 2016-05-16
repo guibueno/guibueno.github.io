@@ -1,15 +1,12 @@
 ---
 title: Numbers
 layout: revealjs-exercise
-goal: "Learn several expressions to greet and introduce yourself"
+goal: "Count from 1 to 100, almost without thinking."
 why:
-  - Explanation 1
-  - Explanation 2
-  - Explanation 3
-principles:
+  - "Many sentences in 'Yourself' require knowing numbers."
+  - "Count as fast and as automatically as you do in your native language."
+  - "Numbers are always the same. It is just about memorizing the words."
 standardtime: 700
-
-## Content supports TIME
 
 content:
   - center: 1

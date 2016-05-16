@@ -6,7 +6,6 @@ why:
   - "There are many variations of greetings. Get to know most of them!"
   - "Begin to personalize your new language: focus on what pleases your ears."
   - "Learn day-to-day expressions and you will not sound formal to a speaker."
-principles:
 standardtime: 1000  
 
 content:

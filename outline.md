@@ -2,6 +2,7 @@
 layout: doc
 permalink: /outline/
 ---
+
 # Presentation Outline
 
 {: class="post-title"}

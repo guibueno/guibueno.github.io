@@ -4,9 +4,8 @@ layout: revealjs-exercise
 goal: "Say how you are, what you are doing, how you feel, etc."
 why:
   - "You can learn present, past, and future, all at once."
-  - "Grammar rules are not necessary to communicate."
+  - "It is possible to communicate without knowing grammar rules."
   - "You will notice this sentence structure everywhere."
-principles:
 standardtime: 700
 
 content:

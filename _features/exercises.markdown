@@ -6,19 +6,28 @@ section: design
 
 ### In a nutshell
 
-**Exercises** are focused practices that prompt and scaffold learners to produce communicative utterances in the target language.
+**Exercises** are focused practices that prompt and scaffold learners to produce communicative utterances in their target language.
 
 ### Within the narrative
+
+Infected learners develop the capacity to also talk to other language bugs. Each bug is interested in one particular topic or action, such as knowing about the family, the house, or the routine of learners.
 
 ### Association with existing resources
 
 In the past, language schools typically used printed materials (Liu, 2009, p. 521) and "audio-cassettes or audio CDs of pre-recorded listening materials" (Kukulska-Hulme; Shield, 2007, p. 2) to engage learners in speaking practice.
 
+**LanguageBug** exercises are essentially adaptations of these materials, with a few important improvements:
+
+* The pace of exercises is very fast, in order to make it very challenging,
+* *Exercises* prompt learners with both visual/written and audio clues, and
+* *Principles* will scaffold learners prior to practicing through exercises.
+
 ### Functions
 
-* Engage learners in speaking practice,
-* Help learners build relevant and personal vocabulary,
+* Engage learners in speaking practice from the beginning,
 * Introduce learners to sentence structure without using grammar,
+* Help learners build relevant and personal vocabulary, and
+* Explain to learners why it is relevant to learn the contents in each exercise.
 
 ### Example: **Self-introduction**
 
@@ -61,7 +70,9 @@ By completing sentences with personal information, such as the color of their ey
 
 Within the scope of this thesis project, **LanguageBug** only covers basic Novice-level content, but there are certainly more words and sentences that could be integrated to the exercises. In addition to that, it is always possible to keep improving the selection of words and expressions based on feedback from learners and user observation.
 
-Finally, there could be many other ways to foster speaking practice, besides the ones that **LanguageBug** features at this moment. Other approaches may provide insights on the creation of new exercises, which can easily be integrated to the core of the app.
+There could also be many other ways to foster speaking practice, besides the ones that **LanguageBug** features at this moment. Getting to know other approaches to language learning and teaching may provide insights on the creation of new exercises. The architecture of **LanguageBug** would make it easy to integrate them.
+
+Finally, bugs could be further developed as characters with particular interests, so that learners could have different conversations with different bugs based on their interests. For example, a learner wishing to speak Portuguese in professional settings could learn relevant content by interacting with a "*Business Bug*" character.
 
 ### Current exercises
 

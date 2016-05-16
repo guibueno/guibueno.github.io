@@ -6,7 +6,6 @@ why:
   - "You will notice that these adjectives are everywhere."
   - "It is easy to memorize pair of words, such as antonyms."
   - "Your descriptions become richer with more adjectives."
-principles:
 permalink: adjectives
 standardtime: 700
 

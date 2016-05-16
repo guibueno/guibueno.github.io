@@ -72,12 +72,17 @@ $on-laptop:        800px;
     	display: none;
     }
 
-    .post-content, .page-content {
-    	width: 8.27in;
+    .post-content, .page-content, .post, .wrapper {
+    	width: 9in;
     	padding: 0;
         margin: 0;
     	float: none;
     }
+
+    /*.page-content {
+        border: 5px solid #000;
+        width: 9.27in;
+    }*/
 
     .post-title {
     	/*text-align: center;*/
@@ -95,7 +100,10 @@ $on-laptop:        800px;
 	}
 
 	@page {
-		margin: 1.1in 1.1in 1.1in 0.85in;
+		margin-top: 1.1in;
+        margin-right: 1.1in;
+        margin-bottom: 1.1in;
+        margin-left: 1.1in;
 	}
 
 	.highlighter-rouge, .highlight {

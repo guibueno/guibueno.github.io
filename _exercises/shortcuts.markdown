@@ -1,12 +1,11 @@
 ---
-title: Suffixes
+title: Shortcuts
 layout: revealjs-exercise
-goal: ""
+goal: "Learn suffixes and increase your vocabulary with cognates."
 why:
-  - Explanation 1
-  - Explanation 2
-  - Explanation 3
-principles:
+  - "Study/Studying = Estudar/Estudando: 'ando' is the Portuguese 'ing'."
+  - "Learn how to conjugate verbs without ever seeing a table of conjugations."
+  - "Long words are usually very similar (cognates) in most languages."
 standardtime: 700
 
 content:

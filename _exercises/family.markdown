@@ -3,9 +3,9 @@ title: Family
 layout: revealjs-exercise
 goal: "Talk about your family and people will know better who you are."
 why:
+  - "Talking about your family makes people know better who you are."
   - "Learn relevant vocabulary: family members, professions, etc."
   - "Ready-made sentences will get you started to describe people."
-principles:
 standardtime: 700
 
 content:

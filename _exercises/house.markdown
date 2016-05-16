@@ -5,8 +5,7 @@ goal: ""
 why:
   - "Learn relevant vocabulary: rooms, places, positions, etc."
   - "This is your first step to learn how to ask for directions."
-  - ""
-principles:
+  - "Get comfortable with using 'there is/are' constructions."
 standardtime: 700
 
 content:
