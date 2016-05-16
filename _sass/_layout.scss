@@ -241,6 +241,10 @@
     }
 }
 
+/*
+** ADD BY GUI FROM NOW ON
+*/
+
 /**
 * Navigation side-bar
 **/
@@ -379,9 +383,19 @@ h2.role {
     text-align: center;
     font-size: $small-font-size;
 }
-.positive, .negative {
-    list-style: none;
+.positive, {
     margin-bottom: 5px;
+    list-style-image: url(/images/bullets/check.png);/*no-repeat left top*/
+    height: 54px;
+    padding-left: 44px;
+    padding-top: 3px;
+}
+.negative {
+    margin-bottom: 5px;
+    list-style-image: url(/images/bullets/check-no.png);/*no-repeat left top*/
+    height: 54px;
+    padding-left: 44px;
+    padding-top: 3px;
 }
 .noindent {
     margin-left: 0;
