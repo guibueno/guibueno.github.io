@@ -3,41 +3,27 @@ layout: page
 permalink: /bisca/
 ---
 
-### LanguageBug's speak-first approach to language learning
+Main Menu
+* List of available exercise practices
+* Different contents, different bugs
 
-#### Reflect
+Exercise: Front Page
+* Describes the goal of the exercise
+* Allow learners to:
+	- Start the practice
+	- Learn more about it
 
-Help users get to know the specific superpowers they have.
+Exercise: Why?
+* Explains why the exercise is relevant
+* Briefly pitches the exercise
 
-Conducted in English
+Content-box: words/sentences in Portuguese
 
-These "superpowers" are:
+Instruction area:
+* Provides learners with explanations
+* Displays action prompts
 
-* language learning strategies,
-* prompts to engage in metacognitive reflection,
-* walk-through mechanisms of the app, and
-* prompts to growth mindset and positive attitude.
-
-#### Speak
-
-Training those superpowers
-talking to other bugs about different topics
-
-Portuguese content.
-
-Soeak-first, prompts to speak.
-Designed so that this is the only goal of learners.
-
-#### Record
-
-Self-assessment tool
-
-Learners record videos after each practice.
-
-Progress becomes evident practice after practice.
-
-Videos can be shared through social media.
-
-#### Cycle
-
-Repetition
+Audio:
+* What users should repeat or translate
+* Plays automatically
+* Moves to next slide when audio is over

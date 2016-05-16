@@ -24,4 +24,12 @@ content:
   instruction: "Yes, keep going..."
 - center: "Fast and loud, just like that"
   instruction: "Great, let's keep that sweet spot!"
+description: ""
 ---
+**LanguageBug** 
+
+People do *not* speak in real life as they do in most language classes. L-I-K-E. T-H-A-T.
+
+
+  - "It's harder to speak faster, so you'll have to fully concentrate."
+  - "Spend less time in each exercise and so you'll do <em>more</em> exercises"
