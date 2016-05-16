@@ -6,6 +6,10 @@ section: fut
 
 This projects has significant gaps, some of which are listed on this page. Some of these gaps could easily be addressed, while others would require much more research and user testing. Some great design features are still to be prototyped, planned, or even imagined.
 
+#### Scientific rationale
+
+Over the course of only one year, I was not able to find scientific evidence and develop a valid rationale to support all *Principles*. Therefore, these *Principles* remain as my strong beliefs, taken from my professional experience as a language teacher. 
+
 #### Feedback
 
 Currently, *self-assessment videos* are the only form of assessment available for learners. Without affecting the key principles of the **LanguageBug** approach, other forms of feedback could be imagined and/or developed.

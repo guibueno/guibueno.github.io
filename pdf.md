@@ -80,6 +80,9 @@ title: PDF
 ![How it works - record]({{site.baseurl}}/images/how-it-works/record.png)
 {: class="storyboard"}
 
+![How it works - hi-fi]({{site.baseurl}}/images/how-it-works/hi-fi.png)
+{: class="storyboard"}
+
 {% for item in site.rationale %}
 
 	{{ item.output }}

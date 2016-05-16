@@ -1,5 +1,5 @@
 ---
-layout: revealjs-principle
+layout: doc
 title:  "You will not remember"
 ---
 It would be nice if we all had photographic memory, but that's not the case. That being said, do not worry about memorizing every single word you see in the exercises. This will happen naturally and at your own pace as you keep practicing. 

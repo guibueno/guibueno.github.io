@@ -1,5 +1,5 @@
 ---
-layout: revealjs-principle
+layout: doc
 title:  "Avoid writing"
 ---
 It is very common to associate writing with studying. That's because most times we are taking lessons, there is a notebook with us. This is actually a great habit that most people have since school time. Writing things down can definitely be helpful.

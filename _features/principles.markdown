@@ -30,6 +30,7 @@ Similarly, **Principles** within the **LanguageBug** app are sections that walk 
 
 * Scaffold learners to use the **LanguageBug** appropriately.
 * Make language learners aware of their own learning processes.
+* Use informal language engage learners in metacognitive thinking.
 * Question widely accepted assumptions in language learning.
 
 ### Example: **Speak Fast**
@@ -77,12 +78,14 @@ Creating an exhaustive list of good language learning principles is both impossi
 * different strategies may work better/worse with different learners,
 * new research and publications may challenge current assumptions,
 
-For those reasons, it is likely that principles will be added/removed as I develop my general understanding of how people learn languages.
+As I develop my general understanding of how people learn languages, some of the current principles may become outdated or invalid. In other words, it is very likely that principles will be added, removed, and expanded over time.
 
 ### Current principles
 
+Currently, there is not a scientific rationale with evidences to validate each of the following principles. Strategies that I have learned as a language teacher are the current **LanguageBug** principles, as it follows:
+
 {% for principle in site.principles %}
-* {{ principle.title }}{% endfor %}
+* [{{ principle.title }}]({{ principle.url | prepend: site.baseurl }}){:target="blank"}{% endfor %}
 
 ### Related FAQ
 
