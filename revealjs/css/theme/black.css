@@ -121,16 +121,6 @@ body {
 .reveal blockquote {
   quotes: none; }
 
-.reveal blockquote {
-  display: block;
-  position: relative;
-  width: 70%;
-  margin: 20px auto;
-  padding: 5px;
-  font-style: italic;
-  background: rgba(255, 255, 255, 0.05);
-  box-shadow: 0px 0px 2px rgba(0, 0, 0, 0.2); }
-
 .reveal blockquote p:first-child,
 .reveal blockquote p:last-child {
   display: inline-block; }
@@ -284,3 +274,20 @@ body {
   -webkit-transition: width 800ms cubic-bezier(0.26, 0.86, 0.44, 0.985);
   -moz-transition: width 800ms cubic-bezier(0.26, 0.86, 0.44, 0.985);
   transition: width 800ms cubic-bezier(0.26, 0.86, 0.44, 0.985); }
+
+/*********************************************
+ * ADDED/CHANGED BY GUI
+ *********************************************/
+
+.reveal blockquote {
+  display: block;
+  position: relative;
+  width: 70%;
+  margin: 20px auto;
+  padding: 5px;
+  font-family: Georgia;
+  text-transform: uppercase;
+  font-size: 30px;
+  color: #000;
+  background: #FDFDFD;
+  box-shadow: 0px 0px 2px rgba(0, 0, 0, 0.2); }

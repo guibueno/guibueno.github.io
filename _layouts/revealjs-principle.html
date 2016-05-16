@@ -1,0 +1,13 @@
+---
+layout: revealjs-default
+---
+{% for item in page.content %}
+<section>
+	<section>
+		<blockquote>
+		{{ item.center }}
+		</blockquote>
+		<p>{{ item.translation }}</p>
+	</section>
+</section>
+{% endfor%}

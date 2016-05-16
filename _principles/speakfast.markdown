@@ -1,5 +1,5 @@
 ---
-layout: principle
+layout: revealjs-principle
 title:  "Speak Fast"
 ---
 Here we're going to need you to say things out loud... and fast! Here's a quick walk through it.
@@ -29,3 +29,4 @@ Fast and loud, just like that
 Great, let's keep that sweet spot
 
 Keep reading
+

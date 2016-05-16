@@ -81,12 +81,8 @@ For those reasons, it is likely that principles will be added/removed as I devel
 
 ### Current principles
 
-* Speak fast
-* Speak out loud
-* Keep focused
-* Take risks
-* Avoid writing
-* You won't remember
+{% for principle in site.principles %}
+* [{{ principle.title }}]({{ principle.url | prepend: site.baseurl }}){:target="blank"}{% endfor %}
 
 ### Related FAQ
 

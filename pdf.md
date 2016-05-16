@@ -71,6 +71,15 @@ title: PDF
 ![Rationale]({{site.baseurl}}/images/sections/rationale.png)
 {: class="storyboard"}
 
+![How it works - reflect]({{site.baseurl}}/images/how-it-works/reflect.png)
+{: class="storyboard"}
+
+![How it works - speak]({{site.baseurl}}/images/how-it-works/speak.png)
+{: class="storyboard"}
+
+![How it works - record]({{site.baseurl}}/images/how-it-works/record.png)
+{: class="storyboard"}
+
 {% for item in site.rationale %}
 
 	{{ item.output }}
