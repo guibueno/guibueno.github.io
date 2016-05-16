@@ -69,7 +69,7 @@ A few days after the test session, I sent the **self-assessment videos** to each
 
 ### Recruitment strategy 
 
-Since **LanguageBug** targets adults learners who do not speak Portuguese, there were many eligible user testers in the DMDL/G4L programs. I selected user testers based on responses on a quick online [survey](https://docs.google.com/forms/d/12VRYNiSausPkOfFtaqPWu12kPYB-qwK0PhMY_1JBxTU/edit?usp=sharing_eid&ts=57116ed1) (see: Appendix 3 - Survey), which assessed:
+Since **LanguageBug** targets adults learners who do not speak Portuguese, there were many eligible user testers in the DMDL/G4L programs. I selected user testers based on responses on a quick online [survey](https://docs.google.com/forms/d/12VRYNiSausPkOfFtaqPWu12kPYB-qwK0PhMY_1JBxTU/edit?usp=sharing_eid&ts=57116ed1) (see: Appendix 2 - Survey), which assessed:
 
 - prior experience with or exposure to the Portuguese languge,
 - interest in learning Portuguese, and

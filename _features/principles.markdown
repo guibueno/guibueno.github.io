@@ -82,7 +82,7 @@ For those reasons, it is likely that principles will be added/removed as I devel
 ### Current principles
 
 {% for principle in site.principles %}
-* [{{ principle.title }}]({{ principle.url | prepend: site.baseurl }}){:target="blank"}{% endfor %}
+* {{ principle.title }}{% endfor %}
 
 ### Related FAQ
 
