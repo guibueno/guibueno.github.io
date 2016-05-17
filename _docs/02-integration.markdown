@@ -19,10 +19,10 @@ Warschauer & Healey (1998) roughly divide the history of **Computer-Assisted Lan
 
 In this period, computers were seen as “mechanical tutors which never grew tired” (Warschauer; Healey, 1998, p. 57). They served to prompt some automated, linear, fixed exercises to learners.
 
-Most of these exercises were "repetitive language drills, referred to as drill-and-practice (or, pejoratively, as 'drill-and-kill')" (Warschauer; Healey, 1998, p. 57), as illustrated on *Image 2*. 
+Most of these exercises were "repetitive language drills, referred to as drill-and-practice (or, pejoratively, as 'drill-and-kill')" (Warschauer; Healey, 1998, p. 57), as illustrated on *Image 1*. 
 
 [![Image 2 - Drill & Kill](/images/doc1-intro-drills.jpg)](/images/doc1-intro-drills.jpg)
-_Image 2 - Drill & Kill_
+_**Image 1** - Drill & Kill_
 {: style="text-align: center"}
 
 #### 2. Communicative CALL (late 1970s)

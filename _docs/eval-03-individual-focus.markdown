@@ -19,7 +19,7 @@ At that time, I was building a solid landscape audit of language learning mobile
 
 ![Landscape Audit](/images/eval-ipf-la.png)
 {: style="text-align: center"}
-**Image** - _Most language learning apps work on very similar ways_
+**Image 17** - _Most language learning apps work on very similar ways_
 {: style="text-align: center"}
 
 In addition to that, I was able to identify that some language learning apps were relying on *speech recognition* as a way to give feedback to learners. In my analysis of those speech recognition features, I noticed that:
@@ -30,7 +30,7 @@ In addition to that, I was able to identify that some language learning apps wer
 
 ![Landscape Audit](/images/eval-ipf-sr.png)
 {: style="text-align: center"}
-**Image** - _Speech recognition may cause errors_
+**Image 18** - _Speech recognition may cause errors_
 {: style="text-align: center"}
 
 ### My questions
@@ -57,14 +57,14 @@ In attempting to get valuable insights on this question, I had first to explain 
 
 ![Teaching Experience](/images/eval-ipf-eg.png)
 {: style="text-align: center"}
-**Image** - _These are now my strong beliefs on language learning_
+**Image 19** - _These are now my strong beliefs on language learning_
 {: style="text-align: center"}
 
 Then, since the approach used at that school was very unusual, I conducted a quick demonstration of how my classes used to happen. 
 
 ![Teaching Experience](/images/eval-ipf-opi.png)
 {: style="text-align: center"}
-**Image** - _Content covered during the brief demonstration_
+**Image 20** - _Content covered during the brief demonstration_
 {: style="text-align: center"}
 
 The way I conducted those classes is still what most guides of my design decisions. Also, having tested that particular approach with hundreds of students over many months really simplifies the process of evaluating the design of **LanguageBug**.
@@ -73,7 +73,7 @@ Then, I presented some quantitative data on the learning that had just occurred 
 
 ![Teaching Experience](/images/eval-ipf-data.png)
 {: style="text-align: center"}
-**Image** - _Quantitative data on the brief demonstration_
+**Image 21** - _Quantitative data on the brief demonstration_
 {: style="text-align: center"}
 
 The following step was to help them realize that I had not provided any actual feedback or performed any assessment. No matter how they were speaking Portuguese, I would praise their effort and encourage them to perform other actions in sequence.
@@ -82,7 +82,7 @@ After this entire contextualization, I introduced my peers to the actual design 
 
 ![Teaching Experience](/images/eval-ipf-question.png)
 {: style="text-align: center"}
-**Image** - _The design challenge I was posing_
+**Image 22** - _The design challenge I was posing_
 {: style="text-align: center"}
 
 This entire presentation can be accessed on [Individual Project Focus](/presentations/individual-project-focus/index.html).

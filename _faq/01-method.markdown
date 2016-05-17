@@ -70,8 +70,8 @@ Galante (2014) defines this as a “shift from using methods in the purist sense
 
 An approach, therefore, is a consistent body of knowledge (strategies, best practices, ...) that supports a particular path to language teaching and learning. It does so without being too restrictive or normative.
 
-*Image 1* summarizes this whole trajectory from the designer methods to the post-method era. It ends with the acknowledgment that "*there is no single right way to learn languages*".
+*Image 3* summarizes this whole trajectory from the designer methods to the post-method era. It ends with the acknowledgment that "*there is no single right way to learn languages*".
 
 [![Image 1 - The Post-Method Era](/images/doc1-intro-methods.jpg)](/images/doc1-intro-methods.jpg)
-_Image 1 - Methods & The Post-Method Era_
+_**Image 3** - Methods & The Post-Method Era_
 {: style="text-align: center"}

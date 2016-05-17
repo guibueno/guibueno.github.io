@@ -32,7 +32,7 @@ The following table was built based on guidelines from the American Council on t
     <td>Example: pronunciation, syntax, and vocabulary understandable by sympathetic interlocutors.</td>
   </tr>
 </table>
-**Table 3** - Specific Learning Objectives
+**Table 4** - Specific Learning Objectives
 {: style="text-align: center"}
 
 Ultimately, **LanguageBug** users will also understand better how to structure an effective, focused language learning practice.

@@ -16,7 +16,7 @@ At that point, I had just chosen *Reveal.js* as my prototyping platform. In its 
 
 [![*Reveal.js*]({{site.baseurl}}/images/eval-ux-reveal.png)]({{site.baseurl}}/images/eval-ux-reveal.png)
 {: style="text-align: center"}
-**Image** - _Prototyping through Reveal.js_
+**Image 11** - _Prototyping through Reveal.js_
 {: style="text-align: center"}
 
 On the other hand, *Reveal.js* offers some valuable affordances, which is why I had chosen it as my primary tool for the moment:
@@ -52,21 +52,21 @@ The particular purpose of *Speak Fast* is to make learners speak aloud at a chal
 
 ![reveal1.PNG](/images/prototype/image04.png)
 {: style="text-align: center" class="reveal"}
-**Image** - _Initial screen on Reveal.js: a statement without instructions_
+**Image 12** - _Initial screen on Reveal.js: a statement without instructions_
 {: style="text-align: center"}
 
 My peers, who have never seen me teaching using those strategies, opened this prototype and immediately began to follow its instructions. Quickly, they began to respond to the prompts by speaking.
 
 ![reveal1.PNG](/images/prototype/image08.png)
 {: style="text-align: center" class="reveal"}
-**Image** - _2nd screen on Reveal.js: first command instruction_
+**Image 13** - _2nd screen on Reveal.js: first command instruction_
 {: style="text-align: center"}
 
 As the principle practice continued, they reacted appropriately to the new prompts and began to speak all those words louder and faster. The whole test lasted only about 30 seconds, but was extremely effective.
 
 ![reveal1.PNG](/images/prototype/image02.png)
 {: style="text-align: center" class="reveal"}
-**Image** - _3rd screen on Reveal.js: reinforcing instructions_
+**Image 14** - _3rd screen on Reveal.js: reinforcing instructions_
 {: style="text-align: center"}
 
 ### Feedback
@@ -89,12 +89,12 @@ The participants of that workshop highlighted a few design issues and made some 
 
 [![*Reveal.js*]({{site.baseurl}}/images/eval-ux-pre.jpg)]({{site.baseurl}}/images/eval-ux-pre.jpg)
 {: style="text-align: center"}
-**Image** - _Before workshop: content/instructions distinction_
+**Image 15** - _Before workshop: content/instructions distinction_
 {: style="text-align: center"}
 
 [![*Reveal.js*]({{site.baseurl}}/images/eval-ux-post.jpg)]({{site.baseurl}}/images/eval-ux-post.jpg)
 {: style="text-align: center"}
-**Image** - _After workshop: content/instructions distinction_
+**Image 16** - _After workshop: content/instructions distinction_
 {: style="text-align: center"}
 
 These and other suggestions were really helpful and guided the next steps of UX development. On the other hand, these issues seemed to have minor importance in comparison to how happy I was feeling after having my design intentions approved by my peers.

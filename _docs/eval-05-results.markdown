@@ -22,7 +22,7 @@ Both users seemed relaxed, joyful and often laughed during most of the test. In 
 
 [![Behaviors]({{site.baseurl}}/images/eval-results-behaviors.png)]({{site.baseurl}}/images/eval-results-behaviors.png)
 {: style="text-align: center"}
-**Image** - _Indicators of focus/concentration_
+**Image 24** - _Indicators of focus/concentration_
 {: style="text-align: center"}
 
 But when asked to perform tasks by themselves (during the **Practicing** and **Recording** sections of the test), they also showed clear signs being focused or challenged: 
@@ -47,7 +47,7 @@ On Nissa's sketch page, he wrote the word "castanho" intuitively as "casteño", 
 
 [![*Nissa's notes*]({{site.baseurl}}/images/eval-results-notes.jpg)]({{site.baseurl}}/images/eval-results-notes.jpg)
 {: style="text-align: center"}
-**Image** - _Nissa's notes_
+**Image 25** - _Nissa's notes_
 {: style="text-align: center"}
 
 Nicole did not ask or attempted to write down her answers at any point. One of the reasons was that, besides the new vocabulary in Portuguese, Nissa was also introduced to his weight and height in the metric system, while Nicole already knew these values.
@@ -77,7 +77,7 @@ It called my attention that Nissa and Nicole have both declared that their inter
 
 [![*Nissa's notes*]({{site.baseurl}}/images/eval-results-learning.png)]({{site.baseurl}}/images/eval-results-learning.png)
 {: style="text-align: center"}
-**Image** - _Both users feel they have learned during tests_
+**Image 26** - _Both users feel they have learned during tests_
 {: style="text-align: center"}
 
 #### Self-consciousness
@@ -96,7 +96,7 @@ It is interesting to observe that although Nissa's and Nicole's performance were
 
 [![*Nissa's notes*]({{site.baseurl}}/images/eval-results-howwell.png)]({{site.baseurl}}/images/eval-results-howwell.png)
 {: style="text-align: center"}
-**Image** - _Both users feel they have learned during tests_
+**Image 27** - _Both users feel they could have performed even better_
 {: style="text-align: center"}
 
 One logical explanation for that could be that Nissa and Nicole had noticed that their speech was not perfect at all times. Indeed, the two users spoke Portuguese with very clear traces of a non-native, beginner speaker (hard-to-understand accents, slow pace, unusual rhythm, etc.). 
@@ -105,7 +105,7 @@ This might have made Nissa and Nicole compare their speech with the perfect and 
 
 [![*Nissa's notes*]({{site.baseurl}}/images/eval-results-kaizen.png)]({{site.baseurl}}/images/eval-results-kaizen.png)
 {: style="text-align: center"}
-**Image** - _Confidence in their own language learning skills_
+**Image 28** - _Confidence in their own language learning skills_
 {: style="text-align: center"}
 
 On the other hand, they believe that their performance could be improved by using **LanguageBug** a few more times, which indicates that they trust their language learning abilities and feel capable of reaching even better results (that they would probably qualify as *great*).

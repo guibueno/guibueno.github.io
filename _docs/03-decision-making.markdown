@@ -104,10 +104,10 @@ By informing people why they're doing a certain thing they will be empowered to 
 
 #### Choosing among resources
 
-*Image 1* illustrates the challenge of choosing one path among a sea of resources. As information gets more prominent and distributed, it becomes harder for individuals to make a **informed decision**.
+*Image 2* illustrates the challenge of choosing one path among a sea of resources. As information gets more prominent and distributed, it becomes harder for individuals to make a **informed decision**.
 
 [![Image 1 - So many tools out there!](/images/doc-somanytools.jpg)](/images/doc-somanytools.jpg)
-_Image 1 - So many tools out there!_
+_**Image 2** - So many tools out there!_
 {: style="text-align: center"}
 
 #### Using the chosen resources

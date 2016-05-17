@@ -89,7 +89,7 @@ A low-fidelity prototype built on Google Slides was used during the user tests. 
 
 ![Landscape Audit](/images/eval-plan-prototype.png)
 {: style="text-align: center"}
-**Image** - _Screen-shot of the material used on the user tests_
+**Image 23** - _Screen-shot of the material used on the user tests_
 {: style="text-align: center"}
 
 ### Script
