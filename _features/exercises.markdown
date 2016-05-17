@@ -10,17 +10,17 @@ section: design
 
 ### Within the narrative
 
-Infected learners develop the capacity to also talk to other language bugs. Each bug is interested in one particular topic or action, such as knowing about the family, the house, or the routine of learners.
+Infected learners also develop the capacity to talk to other language bugs. Each bug is interested in one particular topic or action, such as knowing about the family, the house, or the routine of learners.
 
 ### Association with existing resources
 
 In the past, language schools typically used printed materials (Liu, 2009, p. 521) and "audio-cassettes or audio CDs of pre-recorded listening materials" (Kukulska-Hulme; Shield, 2007, p. 2) to engage learners in speaking practice.
 
-**LanguageBug** exercises are essentially adaptations of these materials, with a few important improvements:
+**LanguageBug** exercises are essentially adaptations of these materials, with a few significant improvements:
 
-* The pace of exercises is very fast, in order to make it very challenging,
+* The pace of activities is very fast, to make it very challenging,
 * *Exercises* prompt learners with both visual/written and audio clues, and
-* *Principles* will scaffold learners prior to practicing through exercises.
+* *Principles* will scaffold learners before practicing through activities.
 
 ### Functions
 
@@ -35,13 +35,13 @@ In the past, language schools typically used printed materials (Liu, 2009, p. 52
 
 "*Self-introduction*" is the most important exercise within LanguageBug. It introduces learners to multiple sentences that are extremely relevant to any language speaker, such as "*My name is _____*"  and "*I live in ____*". 
 
-By completing sentences with personal information, such as the color of their eyes ("*My eyes are ____*"), learners will also acquire vocabulary that is relevant to their own individual background and experiences.
+By completing sentences with personal information, such as the color of their eyes ("*My eyes are ____*"), learners will also acquire vocabulary that is relevant to their individual background and experiences.
 
 #### Why?
 
 * Essential sentences for communication and survival,
 * Introduces learner to relevant, conversational vocabulary,
-* Help learners become comfortable introducing themselves, and
+* Help learners become comfortable presenting themselves, and
 * Implicitly teaches learners different sentence structures.
 
 #### Script
@@ -51,9 +51,9 @@ By completing sentences with personal information, such as the color of their ey
 * Show the translation of that sentence in English.
 * *Audio*: play audio of this incomplete sentence in Portuguese.
 * *Audio*: play audio of the whole sentence (with sample answer).
-* (If new vocabulary) Introduce learner to possible answers.
+* (If new vocabulary) Introduce learner to possible responses.
 * Ask learner to repeat after the audio, with his/her information.
-* Play complete audio again, and ask learners to repeat again.
+* Play complete audio again, and ask learners to repeat.
 * Repeat all steps with the following sentence.
 * Show and play the audio of the two sentences in Portuguese.
 * Ask learner to repeat those two sentences with his/her info.
@@ -61,7 +61,7 @@ By completing sentences with personal information, such as the color of their ey
 
 ### Scalability
 
-Within the scope of this thesis project, **LanguageBug** only covers basic Novice-level content, but there are certainly more words and sentences that could be integrated to the exercises. In addition to that, it is always possible to keep improving the selection of words and expressions based on feedback from learners and user observation.
+Within the scope of this thesis project, **LanguageBug** only covers basic Novice-level content, but there are certainly more words and phrases that could be integrated to the exercises. In addition to that, it is always possible to keep improving the selection of words and expressions based on feedback from learners and user observation.
 
 There could also be many other ways to foster speaking practice, besides the ones that **LanguageBug** features at this moment. Getting to know other approaches to language learning and teaching may provide insights on the creation of new exercises. The architecture of **LanguageBug** would make it easy to integrate them.
 
@@ -74,24 +74,24 @@ Finally, bugs could be further developed as characters with particular interests
 
 ### Related FAQ
 
-* No crrections?
+* No corrections?
 * What about accuracy?
 
 ### Theoretical foundation
 
 #### Constructivism
 
-The constructvist notion that knowledge is constructed, not transmited (Smith; Ragan, 2005) supports the design of *Exercises*. Learners interact with the same *Exercises* several times and keep updating their perceptions and mental models.
+The constructivist notion that knowledge is constructed, not transmitted (Smith; Ragan, 2005) supports the design of *Exercises*. Learners interact with the same *Exercises* several times and keep updating their perceptions and mental models.
 
 This is part of what Piaget describes as *disequilibrium* and *accommodation* (Martinez, 2010). Rather than being a passive receiver, learners have an "active position of trying to make sense of the world” (Martinez, 2010, p. 198).
 
-*Exercises* help learners "regulate the sequence of relevant actions" (Reiser; Tabak, 2014, p. 47). The goal is to gradually reduce guidance, so that "learners appropriate this guidance and begin to regulate their own actions" (Reiser; Tabak, 2014). 
+*Exercises* help learners "regulate the sequence of relevant actions" (Reiser; Tabak, 2014, p. 47). The goal is to reduce guidance gradually, so that "learners appropriate this guidance and begin to regulate their own actions" (Reiser; Tabak, 2014). 
 
 #### Embodied Cognition
 
 LanguageBug assumes the embodied perspective on learning and instruction:
 
-> Simply stated, the embodied perspective takes seriously that our physical bodies actually play a very important and, until quite recently, overlooked role in how we think and act in the world” (Lee, 2014, p. 6)
+> "Simply stated, the embodied perspective takes seriously that our physical bodies actually play a very important and, until quite recently, overlooked role in how we think and act in the world” (Lee, 2014, p. 6)
 
 The body plays a crucial role in the process of trying to speak words/sentences in a foreign language. It does so by:
 
@@ -101,7 +101,7 @@ The body plays a crucial role in the process of trying to speak words/sentences 
 
 The goal of *Exercises* is to provide learners with a safe environment to embody their cognitive process. 
 
-The fast-paced sequence of words does not allow learners to "think for too long", in the traditional sense of the word. On the contrary, it understands that “manipulating the body manipulates how we think” (Lee, 2014, p. 10), therefore it foster actions.
+The fast-paced sequence of words does not allow learners to "think for too long," in the traditional sense of the word. On the contrary, it understands that “manipulating the body manipulates how we think” (Lee, 2014, p. 10), therefore, it foster actions.
 
 #### Cognitive Load
 

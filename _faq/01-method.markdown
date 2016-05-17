@@ -15,17 +15,17 @@ Brown (2002, p. 10) lists several reasons to give up with such "obsession" with 
 * Methods are usually too prescriptive and overgeneralized,
 * Methods become indistinguishable as learners reach advanced levels.
 
-An unified approach has been substituting individual methods. This shift begins with the *Designer Methods* and results in the *Post-method Era*.
+A unified approach has been substituting individual methods. This shift begins with the *Designer Methods* and results in the *Post-method Era*.
 
 ### Designer methods
 
 In the 1970s, "in a burst of innovation" (Brown, 2000, p. 10), several language teaching learning methods were created. Nunan (1989) calls these **the designer methods**.
 
-The designer methods consisted of: *Community Language Learning*, *the Silent Way*, *Suggestopedia*, *Total Physical Response*, and a few others.
+The designer methods consisted of *Community Language Learning*, *the Silent Way*, *Suggestopedia*, *Total Physical Response*, and a few others.
 
 ### EXAMPLE: Total Physical Response
 
-In order to understand what these methods meant and still mean, and how to approach them, let's analyze the **Total Physical Response** method, also widely known as the **TPR method**.
+To understand what these methods meant and still mean, and how to approach them, let's analyze the **Total Physical Response** method, also widely known as the **TPR method**.
 
 #### Functioning
 
@@ -50,7 +50,7 @@ In the field of **embodied cognition** (Lee, 2014), TPR might offer an interesti
 
 Would it be possible to teach an abstract word, such as "socialism", through TPR? What about idioms, such as "Bite off more than one can chew" or "Elephant in the room"? Probably not.
 
-TPR is notably limited in terms of what can be taught through it (Widodo, 2005, p. 240). There is obviously not one body movement associated with every word or phrase in a language. 
+TPR is notably limited regarding what can be taught through it (Widodo, 2005, p. 240). There is obviously not one body movement associated with every word or phrase in a language. 
 
 #### Balance
 
@@ -58,7 +58,7 @@ Today, it has become rare to find an exclusive TPR classroom, where speaking, wr
 
 ### The post-method Era
 
-Designer methods such as TPR should be applauded “for their innovative flair” and have certainly left behind their own legacy of findings, achievements, and teaching strategies. However, we now acknowledge that they were “not the godsend that their inventors and marketers hoped they would be” (Brown, 2000, p. 25) in light of their limitations.
+Designer methods such as TPR should be applauded “for their innovative flair” and have indeed left behind their legacy of findings, achievements, and teaching strategies. However, we now acknowledge that they were “not the godsend that their inventors and marketers hoped they would be” (Brown, 2000, p. 25) in light of their limitations.
 
 Brown (2002) coined the expression **Post-Method Era** (p. 9) to refer to the moment in which practices that come from different, fundamentalist methods can be integrated into a single approach.
 
@@ -70,7 +70,7 @@ Galante (2014) defines this as a “shift from using methods in the purist sense
 
 An approach, therefore, is a consistent body of knowledge (strategies, best practices, ...) that supports a particular path to language teaching and learning. It does so without being too restrictive or normative.
 
-*Image 1* summarizes this whole trajectory from the designer methods to the post-method era. It ends with the acknowledgement that "*there is no single right way to learn languages*".
+*Image 1* summarizes this whole trajectory from the designer methods to the post-method era. It ends with the acknowledgment that "*there is no single right way to learn languages*".
 
 [![Image 1 - The Post-Method Era](/images/doc1-intro-methods.jpg)](/images/doc1-intro-methods.jpg)
 _Image 1 - Methods & The Post-Method Era_

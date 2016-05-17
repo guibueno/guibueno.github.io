@@ -4,7 +4,7 @@ layout: doc
 section: eval
 ---
 
-I conducted the user tests with two of my peers and committee members who agreed to be recorded and identified: Nissa and Nicole. Both tests occured as prodicted on the script (see: User Tests) and I here present my reflections on the results.
+I conducted the user tests with two of my peers and committee members who agreed to be recorded and identified: Nissa and Nicole. Both tests occurred as predicted on the script (see: User Tests) and I here present my reflections on the results.
 
 ### User Observation
 
@@ -18,7 +18,7 @@ Indeed, their performance was above the average, compared to any other Portugues
 
 Both users seemed relaxed, joyful and often laughed during most of the test. In fact, on the post-test questionnaire, Nicole has mentioned:
 
-> **Nicole**: "I remember having a lot of fun (although I don't look it in that video o.0)""
+> **Nicole**: "I remember having a lot of fun (although I don't look it in that video o.0)"
 
 [![Behaviors]({{site.baseurl}}/images/eval-results-behaviors.png)]({{site.baseurl}}/images/eval-results-behaviors.png)
 {: style="text-align: center"}
@@ -33,7 +33,7 @@ But when asked to perform tasks by themselves (during the **Practicing** and **R
 
 #### Recording
 
-Beggining to record the Nissa's and Nicole's speeches did not seem to affect their performances. In other words, they kept having an excellent performance after I turning on the camera. 
+Beginning to record Nissa's and Nicole's speeches did not seem to affect the excellent quality of their performances.
 
 #### Notes
 
@@ -56,7 +56,7 @@ Nicole did not ask or attempted to write down her answers at any point. One of t
 
 In brief and informal conversations after the user tests, Nissa and Nicole have stated that they enjoyed their experiences. They both shared that they were happy with how much progress was accomplished in such a short time-frame.
 
-In addition to that, Nissa shared that it would had been nice if he had reviewed all the content after the **Pacticing** and **Recording** sessions. According to him, when he was speaking and translating by himself, he had many questions (such as "*Am I pronouncing this correctly?*" and "*Is this the appropriate translation?*"). However, since after one content practice to another we have moved to another content practice, he did not have a chance to have those questions answered.
+In addition to that, Nissa shared that it would have been nice if he had reviewed all the content after the **Practicing** and **Recording** sessions. According to him, when he was speaking and translating by himself, he had many questions (such as "*Am I pronouncing this correctly?*" and "*Is this the appropriate translation?*"). However, since after one content practice to another we have moved to another content practice, he did not have a chance to have those questions answered.
 
 ### Upload of videos
 
@@ -65,15 +65,15 @@ On the day of the tests, I uploaded the recorded videos on Youtube and shared th
 * Nissa: [http://tinyurl.com/Nissa-LBug](http://tinyurl.com/Nissa-LBug)
 * Nicole: [http://tinyurl.com/Nicole-LBug](http://tinyurl.com/Nicole-LBug)
 
-In order to protect the privacy of the users (who agreed to be recorded), users are only identified by their first name and the videos were shared as "*unlisted*" (a direct URL link is necessary to access them).
+To protect the privacy of the users (who agreed to be recorded), users are only identified by their first name and the videos were shared as "*unlisted*" (a direct URL link is necessary to access them).
 
 ### Questionnaire
 
-The questionnaire was sent 2 days after the user tests. 
+The questionnaire was sent two days after the user tests. 
 
 #### Interest
 
-It called my attention that Nissa and Nicole have both declared that their interest in learning Portuguese had increased after the tests. This may indicate that the approach used by **LanguageBug** can be very effective in motivating learners.
+It called my attention that Nissa and Nicole have both declared that their interest in learning Portuguese had increased after the tests. This may indicate that the approach used by **LanguageBug** can be very effective for motivating learners.
 
 [![*Nissa's notes*]({{site.baseurl}}/images/eval-results-learning.png)]({{site.baseurl}}/images/eval-results-learning.png)
 {: style="text-align: center"}
@@ -88,7 +88,7 @@ When prompted to describe how they felt when watching themselves speaking Portug
 
 > **Nissa**: I felt sort of self-conscious, kind of embarrassed to watch myself, but also kind of proud of the actual language work
 
-This embarrassement was expected, due to the fact that it was a complete new language for both users. 
+This embarrassment was expected, since it was a completely new language for both users. 
 
 #### Not great... yet
 
@@ -99,7 +99,7 @@ It is interesting to observe that although Nissa's and Nicole's performance were
 **Image** - _Both users feel they have learned during tests_
 {: style="text-align: center"}
 
-One logical explanation for that could be that Nissa and Nicole had noticed that their speech was not perfect at all times. Indeed, the two users spoke Portuguese with very clear traces of a non-native, beginner speaker (hard-to-understand accents, slow pace, unusual rhythm, etc). 
+One logical explanation for that could be that Nissa and Nicole had noticed that their speech was not perfect at all times. Indeed, the two users spoke Portuguese with very clear traces of a non-native, beginner speaker (hard-to-understand accents, slow pace, unusual rhythm, etc.). 
 
 This might have made Nissa and Nicole compare their speech with the perfect and desired speech, that is, a native speaker's speech (e.g. my speech). By doing so, they became aware of their shortcomings, rather than extremely proud of their outstanding progress.
 
@@ -108,7 +108,7 @@ This might have made Nissa and Nicole compare their speech with the perfect and 
 **Image** - _Confidence in their own language learning skills_
 {: style="text-align: center"}
 
-On the other hand, they believe that their performance could be improved by using **LanguageBug** a few more times, which indicates that they trust their languge learning abilities and feel capable of reaching even better results (that they would probably qualify as *great*).
+On the other hand, they believe that their performance could be improved by using **LanguageBug** a few more times, which indicates that they trust their language learning abilities and feel capable of reaching even better results (that they would probably qualify as *great*).
 
 #### Sharing videos
 

@@ -4,7 +4,7 @@ layout: doc
 section: eval
 ---
 
-Another special moment of formative feedback on my project was the *Individual Project Focus* workshop I conducted on April 5th. This event was also part of the thesis course schedule, therefore my thesis instructor and some of my peers attended it. 
+Another special moment of formative feedback on my project was the *Individual Project Focus* workshop I conducted on April 5th. This event was also part of the thesis course schedule, therefore, my thesis instructor and some of my peers attended it. 
 
 Presenting and discussing my design challenges with them provided me with insights on how to structure my user testing.
 
@@ -37,7 +37,7 @@ In addition to that, I was able to identify that some language learning apps wer
 
 Since the beginning of my development process, it was evident to me that I wanted to distance **LanguageBug** from these specific common practices. It seemed to me that they were overly complicated and did not help learners achieve their goals.
 
-However, Maaike Bouwmeester, my thesis instructor, made an interesting point about feedback and responsiveness. She made me realize that if I neglect both the *speech recognition* and the *matching mini-games*, it means that I was conceiving **LanguageBug** as a completely non-responsive app.
+However, Maaike Bouwmeester, my thesis instructor, made an interesting point about feedback and responsiveness. She made me realize that if I neglect both the *speech recognition* and the *matching mini-games*, it means that I was conceiving **LanguageBug** as an entirely non-responsive app.
 
 In other words, **LanguageBug** would never be providing actual feedback, because it would never be listening or receiving any information from the learners. 
 
@@ -53,7 +53,7 @@ After realizing that, I was left with one important question: *"Is it possible t
 
 ### My presentation
 
-In attempting to get valuable insights on this question, I had to first explain the origin of my strong beliefs on how language learning could work best. I began by sharing my experience as a language teacher at a school in which there was not any grammar, any testing, any correction and any homework.
+In attempting to get valuable insights on this question, I had first to explain the origin of my strong beliefs on how language learning could work best. I began by sharing my experience as a language teacher at a school in which there was not any grammar, any testing, any correction and any homework.
 
 ![Teaching Experience](/images/eval-ipf-eg.png)
 {: style="text-align: center"}
@@ -67,9 +67,9 @@ Then, since the approach used at that school was very unusual, I conducted a qui
 **Image** - _Content covered during the brief demonstration_
 {: style="text-align: center"}
 
-The way I conducted those classes is still what most guides of my design decisions. Also, having tested that specific approach with hundreds of students over many months really simplifies the process of evaluating the design of **LanguageBug**.
+The way I conducted those classes is still what most guides of my design decisions. Also, having tested that particular approach with hundreds of students over many months really simplifies the process of evaluating the design of **LanguageBug**.
 
-Then, I presented some quantitative data on the learning that had just occured and collected general feedback from my peers. They seemed to have enjoyed the experience and most of them agreed it was fairly challenging.
+Then, I presented some quantitative data on the learning that had just occurred and collected general feedback from my peers. They seemed to have enjoyed the experience, and most of them agreed it was fairly challenging.
 
 ![Teaching Experience](/images/eval-ipf-data.png)
 {: style="text-align: center"}
@@ -78,7 +78,7 @@ Then, I presented some quantitative data on the learning that had just occured a
 
 The following step was to help them realize that I had not provided any actual feedback or performed any assessment. No matter how they were speaking Portuguese, I would praise their effort and encourage them to perform other actions in sequence.
 
-After this entire contextualization, I intruduced my peers to the actual design challenge and began to moderate a class discussion.
+After this entire contextualization, I introduced my peers to the actual design challenge and began to moderate a class discussion.
 
 ![Teaching Experience](/images/eval-ipf-question.png)
 {: style="text-align: center"}
@@ -89,26 +89,26 @@ This entire presentation can be accessed on [Individual Project Focus](/presenta
 
 ### Feedback
 
-Most of the initial feedback I received actually consisted of questions to clarify that approach or comments on the demonstration in which they have participated. My peers and instructor shared that:
+Most of the initial feedback I received consisted of questions to clarify that approach or comments on the demonstration in which they have participated. My peers and instructor shared that:
 
 * Written clues were either considered helpful or distracting,
 * Longer sentences would sometimes make them feel anxious, 
 * The demonstration had required most of their focus, and
 * It was nice to speak Portuguese at the same time other learners were also speaking.
 
-Regarding my specific design challenge, everyone seemed to be unsure of ways to foster design responsiveness without making the learning approach be corrective. 
+Regarding my specific design challenge, everyone seemed to be unsure of ways to foster design responsiveness without making the learning approach corrective. 
 
-Therefore, I decided to propose a solution: *self-assessment videos*, which the user would record within the app and use to constanly evaluate their own performance and development.
+Therefore, I decided to propose a solution: *self-assessment videos*, which the user would record within the app and use to constantly evaluate their own performance and development.
 
 Comments and questions gravitated around those main points:
 
-* How would leaners correct pronunciation mistakes of specific words?
-* I should to create a logic model around this self-recording idea.
+* How would learners correct pronunciation mistakes of specific words?
+* I should create a logic model around this self-recording idea.
 * What assumptions am I making when I suggest this feature?
 * Would that kind of video really be motivating to learners?
-* Could these videos make learners feel shy and embarassed?
+* Could these videos make learners feel shy and embarrassed?
 * How about forcing learners to watch their latest performance before initiating another lesson practice?
 
-All these helpful questions and comments have significantly impacted my design process. They made me realize that I had a solid suggestion for a design feature, for which I still needed a more solid justification. 
+All these helpful questions and comments have significantly impacted my design process. They made me realize that I had a solid suggestion for a design feature, for which I still needed a more substantial justification. 
 
-It became evident that in order to fill in such theoretical gaps, I could benefit from planning and performing some user testing with those questions in mind.
+It became evident that to fill in such theoretical gaps, I could benefit from planning and performing some user testing with those questions in mind.
