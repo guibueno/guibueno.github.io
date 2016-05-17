@@ -74,7 +74,7 @@ Finally, bugs could be further developed as characters with particular interests
 
 ### Related FAQ
 
-* No corrections?
+* No corrections!?
 * What about accuracy?
 
 ### Theoretical foundation
