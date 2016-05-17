@@ -21,17 +21,17 @@ layout: doc
 
 [4] **LanguageBug** focuses on helping language learners build up their speaking skills. *Exercises* are intensive speaking practices that prompt learners to produce utterances in the target language.
 
-[5] Learners can access the rationale behind each *Principle* and each *Exercise* within **LanguageBug**. This metacognitive information helps them reflect on their own approach to language learning.
+[5] Learners can access the rationale behind each *Principle* and each *Exercise* within **LanguageBug**. This metacognitive information helps them reflect on their approach to language learning.
 
-[6] The *self-asessment video* feature is designed to help learners notice their own progress. As their speaking skills increase after each practice, they are able to see their evolution video after video.
+[6] The *self-assessment video* feature is designed to help learners notice their progress. As their speaking skills increase after each practice, they can see their evolution video after video.
 
 #### As described in the *Landscape Audit* section:
 
-[7] *Speaking*: most language learning applications rarely prompt learners to speak. Speech prompts are also limited to simplistic sentences or even single words, resulting in reduced progress in speaking.
+[7] *Speaking*: most language learning applications rarely prompt learners to speak. Speech prompts are also limited to simple sentences or even single words, resulting in reduced progress in speaking.
 
 [8] Rather than prompting users to speak, these language learning apps are mostly based on matching mini-games. Learners merely tap on words to find appropriate translations for (usually irrelevant) sentences.
 
-[9] *Right/Wrong*: after each wrong answer, learners lose a few seconds correcting and re-submiting their answers. Their working memories stop dealing with language learning and begin to operate the app.
+[9] *Right/Wrong*: after each wrong answer, learners lose a few seconds correcting and re-submitting their answers. Their working memories stop dealing with language learning and begin to operate the app.
 
 #### Expected results
 
@@ -39,4 +39,4 @@ layout: doc
 
 [11] Learners using other apps build up skills that mostly useful within those apps. In a social context, it will be hard for them to express what they have learned in a timely way to engage in a conversation.
 
-[12] *Self-assessment videos* make learners aware of their progress. As a result, they will become more motivated (Halvorson, 2013, p. 23) and are likely to remain learning their target languages on **LanguageBug**.
+[12] *Self-assessment videos* make learners aware of their progress. As a result, they will become more motivated (Halvorson, 2013, p. 23) and are likely to continue learning their target languages on **LanguageBug**.
