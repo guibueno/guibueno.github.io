@@ -4,7 +4,7 @@ title: Target Learners
 section: needs
 ---
 
-**LanguageBug** targets specifically **adult language learners **. 
+**LanguageBug** targets specifically **adult language learners**. 
 
 This population has typically a complex profile when it comes to language learning. Here, adults learners are going to be characterized as **self-motivated**, but **discouraged**, **distrustful**, and maybe **too serious**.
 

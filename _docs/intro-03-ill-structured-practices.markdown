@@ -1,6 +1,6 @@
 ---
 layout: doc
-title: Practice
+title: Ill-structured practices
 section: intro
 incomplete: no
 ---
@@ -170,8 +170,6 @@ As a result, not only could those simple tasks become very hard to execute, they
 
 On the other hand, task *4* is where the **intrinsic cognitive load** occurs. In other words, it is the only task that is relevant to the goal of "schema acquisition and automation" (Sweller, 2010, p. 43).
 
-(XXX)Add definition of Extraneous Cognitive Load
-
 Devoting most of the learner's attention to task *4* is, therefore, crucial to making this whole practice time an efficient learning experience. As Sweller puts it,
 
 > "working memory resources should be devoted to dealing with intrinsic cognitive load rather than extraneous cognitive load because schema acquisition is directed to the interacting elements associated with intrinsic cognitive load." (Sweller, 2010, p. 43)
@@ -180,6 +178,4 @@ Devoting most of the learner's attention to task *4* is, therefore, crucial to m
 
 This section highlights that language learners may need to **reduce the extraneous cognitive load** in their language learning practices, while also **increasing the intrinsic cognitive load**.
 
-Practice environments can be designed explicitly to address these needs.
-
-By doing so, when a language learner engages in a practice activity, his/her complete focus will be devoted to language learning, rather than any decision-making or operating other tools.
+Practice environments can be designed explicitly to address these needs. By doing so, when a language learner engages in a practice activity, his/her complete focus will be devoted to language learning, rather than any decision-making or operating other tools.

@@ -1,15 +1,13 @@
 ---
 layout: doc
-title: Integration
+title: From CALL to MALL
 section: intro
 incomplete: no
 ---
 
-But when it comes to language learning technology, are we shifting towards a Post-Method era with approaches, rather than methods? 
+What is the current landscape and the history of language learning technology? Can we say that the language learning websites, applications, and services recognize that language learning is complex and nonlinear?
 
-Can we say that the language learning websites, applications, and services recognize that language learning is complex and nonlinear? 
-
-It is relevant to analyze how computer software for language learning have evolved over the decades.
+It is relevant to analyze how computer software for language learning have evolved over the decades to identify its gaps.
 
 ### The history of CALL
 
@@ -63,8 +61,8 @@ Notably, the acronym **MALL** (Mobile Assisted Language Learning) has become wid
 
 ### Conclusion
 
-By analyzing the history of CALL and the current perspectives of MALL, we are left with no evidence that language learning software are shifting towards the Post-Method era (with approaches, rather than methods).
+By analyzing the history of CALL and the current perspectives of MALL, we may think that the notion of a computer as a mechanical tutor (as seen in the Behaviouristic CALL period) is mainly in the DNA of language learning software.
 
-On the contrary, the notion of a computer as a mechanical tutor (as seen in the Behaviouristic CALL period) is mainly in the DNA of language learning software. Most services incorporate a single particular method and attempt to guide learners through the whole language learning experience as if they were enough to all learners (see: <a href="/docs/06-landscape-audit.markdown">Landscape Audit</a>).
+Most services incorporate a single particular method and attempt to guide learners through the whole language learning experience as if they were enough to all learners (see: <a href="/docs/06-landscape-audit.markdown">Landscape Audit</a>).
 
-As a result, rather than helping language learners integrate the **endless resources** that are now available, the "networked computer" now offers a sea of distributed, individualized options that compete to be the best.
+As a result, most language learning software does not help learners understand how to engage in effective practice. The "networked computer" now offers a sea of distributed, individualized resources that compete to be the best.

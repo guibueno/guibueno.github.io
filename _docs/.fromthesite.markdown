@@ -1,5 +1,0 @@
-Development Section - describe and provide screen shots (if applicable) of the major areas of your project. Discuss the rationale for your design decisions based on your understanding of the learning theories, instructional  strategies, interaction and multimedia design principles and anything else relevant to your program of study at DMDL/G4L.  You may choose to include user scenarios, storyboards, workflow diagrams or other design documents that help depict the full scope of your work.
-
-Conclusions & Reflections- Based on what you know about your problem, learners, and learning goals, how well do you feel your project addresses these goals? Where might it have been improved? What other insights did you encounter along the way? (this may be related to your design process, your final project, or specifics about your problem or learners).
-
-Future Directions (optional)- Where might you take this project next to make it even more effective?

@@ -1,6 +1,6 @@
 ---
 layout: doc
-title: Deciding among language tools
+title: A sea of resources
 section: intro
 incomplete: no
 ---
@@ -85,7 +85,7 @@ Language-based resources for language learners are extremely abundant on the Int
     <td>Forvo, howjsay.com, inogolo</td>
   </tr>
 </table>
-***Table 1** - Language-based services divided into functional categories*
+**Table 1** - *Language-based services divided into functional categories*
 {: style="text-align: center"}
 
 Due to many overlaps, such categories may look slightly arbitrary. For example, some blogs may also have YouTube channels, just like some products may offer more than one service. 
@@ -96,11 +96,7 @@ It is important to state that this list is not exhaustive. Besides the few examp
 
 After analyzing such an overwhelming availability of language-related resources, we should ask: how is all this information being used? When does one begin to actually learn a language? 
 
-These questions are usually taken for granted and, as a result, language learners may face challenges and/or dilemmas without any assistance.
-
-##########################################
-
-By informing people why they're doing a certain thing they will be empowered to make decisions on what and how to use the services.
+These questions are usually taken for granted and, as a result, language learners may face challenges and/or dilemmas without any assistance. By informing people why they're doing a certain thing they will be empowered to make decisions on what and how to use the services.
 
 #### Choosing among resources
 
