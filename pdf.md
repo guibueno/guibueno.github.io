@@ -29,6 +29,16 @@ title: PDF
 ![Cover]({{site.baseurl}}/images/doc-cover.png)
 {: class="storyboard"}
 
+{% for item in site.docs %}
+
+	{% if item.section == "pre" %}
+
+		{{ item.output }}
+
+	{% endif %}
+
+{% endfor %}
+
 ![Needs]({{site.baseurl}}/images/sections/needs.png)
 {: class="storyboard"}
 
