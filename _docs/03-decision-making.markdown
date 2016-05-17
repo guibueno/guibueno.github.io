@@ -5,9 +5,9 @@ section: intro
 incomplete: no
 ---
 
-If your target language is widely spoken, it is likely that you will **not** have any problems finding learning resources on the Internet. Still, learning this language may oftentimes be challenging and even demotivating.
+If your target language is widely spoken, it is likely that you will **not** have any problems finding learning resources on the Internet. Still, learning this language may often be challenging and even demotivating.
 
-Why? What is missing? How might we be able to fill this gap? In order to answer these questions, we should first try to understand the broad landscape of resources that are currently available.
+Why? What is missing? How might we be able to fill this gap? To answer these questions, we should first try to understand the broad landscape of resources that are currently available.
 
 Let's begin by distinguishing these services and materials between two categories: **authentic resources** and **language-based resources**.
 
@@ -15,11 +15,11 @@ Let's begin by distinguishing these services and materials between two categorie
 
 #### Definition
 
-Materials that have a primary purpose other than helping people learn languages or providing any sort of language assistance. 
+Materials that have a primary purpose other than helping people learn languages or providing any language assistance. 
 
 #### Example
 
-An English learner may watch *Citizen Kane* or read *The New York Times* in order to build up reading and listening skills. However, neither the film nor the newspaper were produced with the primary purpose of instructing language learners.
+An English learner may watch *Citizen Kane* or read *The New York Times* to build up reading and listening skills. However, neither the film nor the newspaper was produced with the primary purpose of instructing language learners.
 
 #### Availability
 
@@ -29,7 +29,7 @@ The realm of authentic resources for language learners is essentially endless. I
 
 #### Definition
 
-Materials created with the primary purpose of helping people learn languages or providing any sort of language assistance.
+Materials created with the primary purpose of helping people learn languages or providing any language assistance.
 
 #### Example
 
@@ -100,11 +100,11 @@ These questions are usually taken for granted and, as a result, language learner
 
 ##########################################
 
-By informing people why they're doing a certain thing they will be empowerent to make decisions on what and how to use the services.
+By informing people why they're doing a certain thing they will be empowered to make decisions on what and how to use the services.
 
 #### Choosing among resources
 
-*Image 1* illustrates the challenge of choosing one path among a sea of resources. As information gets more prominent and distributed, it becomes harder for individuals to make an **informed decision**.
+*Image 1* illustrates the challenge of choosing one path among a sea of resources. As information gets more prominent and distributed, it becomes harder for individuals to make a **informed decision**.
 
 [![Image 1 - So many tools out there!](/images/doc-somanytools.jpg)](/images/doc-somanytools.jpg)
 _Image 1 - So many tools out there!_
@@ -124,4 +124,4 @@ This section has indicated that language learners who are relying on online reso
 
 Even though the amount and diversity of language learning resources on the Internet is vast, users are usually left alone to make these important decisions without any formal assistance.
 
-Therefore, this section highlights a need for providing users with information to make **informed decisions** on how to use the available resources in order to learn languages in a more efficient way.
+Therefore, this section highlights a need for providing users with information to make **informed decisions** on how to use the available resources to learn languages in a more efficient way.

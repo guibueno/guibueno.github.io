@@ -7,9 +7,9 @@ workon:
   - "Add a video of a recent Portuguese learner speaking a few sentences"
 ---
 
-The main goal of this project is to help learners that do not know any (or close to any) Portuguese to become **novice-level Portuguese speakers**. It targets specifically the building of speaking skills.
+The primary goal of this project is to help learners that do not know any (or close to any) Portuguese to become **novice-level Portuguese speakers**. It targets specifically the building of speaking skills.
 
-The following table was built based on guidelines from the American Council on the Teaching of Foreign Languages (ACTFL, 2012). It lists and exemplifies the specific liguistic objectives of **LanguageBug**.
+The following table was built based on guidelines from the American Council on the Teaching of Foreign Languages (ACTFL, 2012). It lists and exemplifies the specific linguistic objectives of **LanguageBug**.
 
 <table>
   <tr class="diff title">
@@ -37,4 +37,4 @@ The following table was built based on guidelines from the American Council on t
 
 Ultimately, **LanguageBug** users will also understand better how to structure an effective, focused language learning practice.
 
-Therefore, they will be better prepared to build up their language sills using other resources (both language-based and authentic).
+Therefore, they will be better prepared to build up their language skills using other resources (both language-based and authentic).

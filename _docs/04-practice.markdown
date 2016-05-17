@@ -7,7 +7,7 @@ incomplete: no
 
 When language learners want to make use of the available information on the Internet, what should they do? In other words, how do people train or practice their foreign/second language skills?
 
-This section shows that structuring a practice/training time can be challenging to most people. Also, the quality of this practice can impact the results that language learners will obtain.
+This section shows that structuring a practice/training time can be challenging to most people. Also, the quality of this training can impact the results that language learners will obtain.
 
 ### The challenge of performance
 
@@ -17,7 +17,7 @@ Two examples (among many others) make it simple to understand the challenge of l
 
 Imagine an individual who is willing to learn to play a given musical instrument, for example, the acoustic guitar. This person can surely find a lot of information about that instrument on the Internet, such as:
 
-* how to play all notes and chords usign the acoust guitar, 
+* how to play all notes and chords using the acoustic guitar, 
 * the history of the acoustic guitar, 
 * song tabs and chords for acoustic guitars, etc.
 
@@ -25,17 +25,17 @@ However, merely accessing, reading, and understanding all that material will not
 
 #### Sports
 
-Similarly, picture a person who wants to become good at a certain sport or type of exercise. Let's say, the target sport is weight-lifting. Uncountable sources of information will provide this person with:
+Similarly, picture a person who wants to become good at a certain sport or type of exercise. Let's say the target sport is weight-lifting. Uncountable sources of information will provide this person with:
 
 * good techniques and best practices on weight-lifting, 
 * an array of different exercises to strength each body muscle,
 * slow-motion videos of athletes lifting weights, etc.
 
-Still, this person will need to actually go to the gym and lift weights in order to become stronger or better at weight-lifting.
+Still, this person will need to actually go to the gym and lift weights to become stronger or better at weight-lifting.
 
 ### Deliberate Practice
 
-Scott and Ghinea (2014) argue that engaging in **deliberate practice** is an important way to foster language expertise. They primarily discuss computer programing, but also refer to many other areas.
+Scott and Ghinea (2014) argue that engaging in **deliberate practice** is an important way to foster language expertise. They primarily discuss computer programming, but also refer to many other areas.
 
 According to them, it is crucial that learners be in control of their own practice. The acquisition of expertise happens best when maintaining "an ongoing, reflexive, and self-regulated learning process" (p. 169).
 
@@ -104,7 +104,7 @@ In *Table 2*, we can see many other examples of typical, self-regulated language
 
 Each option in *Table 2* brings up new questions to the language learner. If, for example, he/she decides to *sing-along to a song*, the immediate question that arises is: "which song?".
 
-In order to make this decision, the learner will have to think about songs in that target language. Even if we assume this is an easy task for this particular learner, other questions may keep coming up.
+To make this decision, the learner will have to think about songs in that target language. Even if we assume this is an easy task for this particular learner, other questions may keep coming up.
 
 <table>
   <tr class="diff title">
@@ -156,15 +156,15 @@ Also, rather than focusing exclusively on the language training, this language l
 
 ### Focused Practice
 
-From the perspective of the **Cognitive Load Theory**, human working memory resources are limited. Therefore, instructional designs should attempt to make learners focus on the specific learning processes.
+From the perspective of the **Cognitive Load Theory**, human working memory resources are limited. Therefore, instructional designs should attempt to make learners concentrate on the specific learning processes.
 
 #### Extraneous Cognitive Load
 
 In the present scenario, tasks *1*, *2*, and *3* are not directly linked to language learning. They are called **extraneous cognitive load**.
 
-This extraneous cognitive load uses too much of the learner’s working memory resources, in lieu of productive learning (Sweller, 2010, p. 43).
+This extraneous cognitive load uses too much of the learner’s working memory resources, instead of productive learning (Sweller, 2010, p. 43).
 
-As a result, not only could those simple tasks become very hard to execute, they would also become much less effective and less pleasant.
+As a result, not only could those simple tasks become very hard to execute, they would also become much less efficient and less pleasant.
 
 #### Intrinsic Cognitive Load
 
@@ -172,7 +172,7 @@ On the other hand, task *4* is where the **intrinsic cognitive load** occurs. In
 
 (XXX)Add definition of Extraneous Cognitive Load
 
-Devoting most of the learner's attention to task *4* is, therefore, crucial to make this whole practice time an effective learning experience. As Sweller puts it,
+Devoting most of the learner's attention to task *4* is, therefore, crucial to making this whole practice time an efficient learning experience. As Sweller puts it,
 
 > "working memory resources should be devoted to dealing with intrinsic cognitive load rather than extraneous cognitive load because schema acquisition is directed to the interacting elements associated with intrinsic cognitive load." (Sweller, 2010, p. 43)
 
@@ -182,4 +182,4 @@ This section highlights that language learners may need to **reduce the extraneo
 
 Practice environments can be designed explicitly to address these needs.
 
-By doing so, when a language leaner engages in a practice activity, his/her complete focus will be devoted to language learning, rather than any decision-making or operating other tools.
+By doing so, when a language learner engages in a practice activity, his/her complete focus will be devoted to language learning, rather than any decision-making or operating other tools.
