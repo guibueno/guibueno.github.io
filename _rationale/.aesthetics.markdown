@@ -1,4 +1,4 @@
----
+/*---
 title: Aesthetics
 layout: doc
 hide: yes
@@ -7,4 +7,4 @@ hide: yes
 Aesthetics
   Draft
   Self-improvement
-  Kaizen
+  Kaizen*/

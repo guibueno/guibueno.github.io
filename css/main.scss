@@ -189,6 +189,13 @@ $on-laptop:        800px;
         }
     }
 
+    .comics { /* It is targeting the right element, but the page-break avoid does not work*/
+        & + p.bugs {
+            page-break-before: avoid;
+            break-before: avoid-page;
+        }
+    }
+
     blockquote {
         border-left: 3px dotted $text-color;
         font-size: $print-blocquote;

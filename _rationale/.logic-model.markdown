@@ -1,4 +1,4 @@
----
+/*---
 title: Logic Model
 layout: default
 ---
@@ -22,4 +22,4 @@ Metacognition   Goals and reasons Motivation
 
 Foreign Language Anxiety reduction
 
-Fast-paced      Increase concentration
+Fast-paced      Increase concentration*/

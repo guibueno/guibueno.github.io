@@ -1,43 +1,25 @@
 ---
 title: Outcomes
 layout: doc
-hide: yes
 section: conc
 ---
 
-Experiences from ECT Design Expo
-* Not social
+Although this is the end of the thesis course, it is still the beginning of **LanguageBug**. As a result, it is challenging to evaluate the outcomes of this project at this moment. The fully working prototype was just released and it would be necessary to conduct many user tests before making any conclusive statement.  
 
-How well do you feel your project addresses these goals?
+Therefore, I here draw personal conclusions based on my experience presenting this project at the *ECT Design Expo - Spring 2016*.
 
-* Simple technology
-* Not too much resources
-* Short time-frame for research and development
+### Working Prototype
 
-* Working prototype
-* A lot of engagement
-* Received with sympathy
+Prototypying an actual learning technology was one of my main goals since the beginning of the thesis course. With the help of committee members, I manage to develop a fully working prototype and display it at the expo. People who visited my booth were not only informed about my project, they were also able to *use* it, and even *learn* a few sentences in Portuguese using it.
 
-* It does make learners speak
-* However, lack of other features
-* Makes people speak
+### Simple and limited
 
-* Principles are cool,
-* But do not convince learners
-* With me by their side, this can happen
+Most people who visited my booth received the prototype with empathy and engagement. However, this prototype was very limited at the same time. Lacking some social component and looking like an automated slide presentation, learners seem to lose interest and engagement after only a few seconds. This highlights a need to implement more interaction, so that users would remain engaged.
 
-* Training for the use of other platforms
+### It got them speaking
 
-* Seems to be very disengaging
-* Lack of interaction, power point-ish
+Even at this early stage, **LanguageBug** has efficiently addressed the goal of making learners speak. All visitors who tried the prototype managed to speak at least a few sentences in Portuguese. It is unclear how they would react if they were using the app by themselves. Still, this highlights that a speak-first approach may be an efficient way to address the problem of foreign language anxiety.
 
-* Addresses foreign language anxiety efficiently
+### Metacognitive discussion
 
-* Is an efficient tool, but not by itself yet
-* Need for an instructor to accompany learner
-
-* It does provide learners with tools and strategies to learn languages
-
-* Lack of interaction was a problem
-* Mechanism to keep users engaged and focused
-
+Finally, most of the people to whom I interacted (booth visitors, user testers, and those who saw me presenting) seemed convinced that the speak-first approach could be effective. Even more importantly, they seemes interested in learning and discussing further. Therefore, the goal of engaging people in metacognitive conversations about language learning was also accomplished.
