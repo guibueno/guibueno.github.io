@@ -6,11 +6,11 @@ section: design
 
 ### In a nutshell
 
-**Principles** are mini-lessons that walk learners through guidelines, good strategies, best practices, or hints that could increase their efficacy in learning languages. 
+**Principles** are mini-lessons that walk learners through guidelines, useful strategies, best practices, or hints that could increase their efficacy in learning languages. 
 
 ### Within the narrative
 
-Language-Bug infection causes leaners to develop "language learning superpowers", which they cannot manage well at first. Principles train users to use these superpowers to learn languages.
+Language-Bug infection causes learners to develop "language learning superpowers", which they cannot manage well at first. Principles train users to use these superpowers to learn languages.
 
 ### Association with existing resources
 
@@ -22,14 +22,14 @@ There are a few TED Talks about language learning. For example:
 * Sid Efromovich: [*5 techniques to speak any language*](https://www.youtube.com/watch?v=-WLHr1_EVtQ)
 * Chris Lonsdale: [*How to learn any language in six months](https://www.youtube.com/watch?v=d0yGdNEWdn0)
 
-In each of these talks, the lecturers do not teach any actual content in a specific language (i.e.: vocabulary in Portuguese), but present their own strategies to help language learners become better language learners.
+In each of these talks, the lecturers do not teach any actual content in a particular language (i.e.: vocabulary in Portuguese), but present their strategies to help language learners become better language learners.
 
 Similarly, **Principles** within the **LanguageBug** app are sections that walk learners through practical strategies to learn languages without necessarily using the Portuguese language whatsoever.
 
 ### Functions
 
 * Scaffold learners to use the **LanguageBug** appropriately.
-* Make language learners aware of their own learning processes.
+* Make language learners aware of their learning processes.
 * Use informal language engage learners in metacognitive thinking.
 * Question widely accepted assumptions in language learning.
 
@@ -43,7 +43,7 @@ Similarly, **Principles** within the **LanguageBug** app are sections that walk 
 
 *Speak Fast* may be an efficient strategy for a language learning practice for several reasons, such as:
 
-* It is harder to speak faster, so leaners need to fully focus.
+* It is harder to speak faster, so learners need to fully focus.
 * Real life or native speech is fast and compacted.
 * Less time doing each exercise means doing more exercises.
 
@@ -52,13 +52,13 @@ Similarly, **Principles** within the **LanguageBug** app are sections that walk 
 Users will be introduced to the principle of *Speak Fast* through timed instructions combined with action prompts, following this script:
 
 1. Show user a simple sentence in English for a few seconds.
-2. Ask user to read this sentence aloud.
-3. (User reads sentence aloud in a natural pace)
-4. *Fast transition*: ask user to perform **3** again, but faster.
+2. Ask the user to read this sentence aloud.
+3. (User reads sentence aloud at a natural pace)
+4. *Fast transition*: ask the user to perform **3** again, but faster.
 5. *Fast transition*: reinforce that reading should be fast.
-6. Ask user to keep reading sentences in the same fast pace.
+6. Ask the user to keep reading sentences at the same fast pace.
 7. Show other sentences in English.
-8. *Instruction*: "Now, repeat after the audio"
+8. *Instruction*: "Now, repeat after the audio."
 9. Show/play a few more sentences in English.
 10. Transition to words and sentences in Portuguese.
 11. *Instruction*: "Keep that sweet spot!"
@@ -71,7 +71,7 @@ Creating an exhaustive list of good language learning principles is both impossi
 * different strategies may work better/worse with different learners,
 * new research and publications may challenge current assumptions,
 
-As I develop my general understanding of how people learn languages, some of the current principles may become outdated or invalid. In other words, it is very likely that principles will be added, removed, and expanded over time.
+As I develop my general understanding of how people learn languages, some of the present principles may become outdated or invalid. In other words, it is very likely that principles will be added, removed, and expanded over time.
 
 ### Current principles
 
@@ -89,17 +89,17 @@ Currently, there is not a scientific rationale with evidences to validate each o
 
 #### Growth Mindset
 
-> A language learning mindset reflects the extent to which a person believes that language learning ability is dependent on some immutable, innate talent or is the result of controllable factors such as effort and conscious hard work.” (Mercer, 2012, p. 22)
+> "A language learning mindset reflects the extent to which a person believes that language learning ability is dependent on some immutable, innate talent or is the result of controllable factors such as effort and conscious hard work.” (Mercer, 2012, p. 22)
 
 There is little research integrating Growth Mindset with language learning (Noels; Lou, 2015). Despite that, it is clear that there are many benefits in having a Growth Mindset, that is, believing that anyone can develop skills and abilities over time.
 
 According to Halvorson (2010), "psychologists refer to the desire to get better - to develop or enhance your skills and abilities - as a *mastery goal*." (p. 61). When learners have a mastery goal, they take action when facing a challenge (p. 62).
 
-One of the main goals of *Principles* is help learners frame their practices within *Growth Mindset* or *mastery goal*. Noels & Lou (2015) show that fostering such attitude may be quite simple using electronically delivered messages (p. 49).
+One of the primary goals of *Principles* is help learners frame their practices within *Growth Mindset* or *mastery goal*. Noels & Lou (2015) show that fostering such attitude may be quite simple using electronically delivered messages (p. 49).
 
 #### Metacognition
 
-> "At the simplest level, metacognition is thinking about the contents and processes of one’s mind” (Winne; Azevedo, 2014, p. 63)".
+> "At the simplest level, metacognition is thinking about the contents and processes of one’s mind” (Winne; Azevedo, 2014, p. 63).
 
 Mercer & Ryan (2012) advocate for a Growth Mindset in language teaching and learning. The authors also state that
 
@@ -109,4 +109,4 @@ Nesbitt (2013) also state that language learners should have "access to activiti
 
 In a small-scale study, Bozorgian (2014) has found that "less-skilled learners benefit more from metacognitive instruction to develop listening comprehension" (p. 3) than more-skilled learners. The target audience of **LanguageBug** is Novice speakers, so that addressing metacognitive strategies within the app is even more appropriated.
 
-Bransford, Brown & Cocking highlight that metacognitive knowledge is one of the distinctive characteristics of experts (Bransford; Brown; Cocking, 2000, p. 47). Therefore, metacognitive *Principles* may also contribute with learner's long-term expertise building.
+Bransford, Brown & Cocking highlight that metacognitive knowledge is one of the distinctive characteristics of experts (Bransford; Brown; Cocking, 2000, p. 47). Therefore, metacognitive *Principles* may also contribute to learner's long-term expertise building.

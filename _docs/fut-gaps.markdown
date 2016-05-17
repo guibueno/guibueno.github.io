@@ -4,7 +4,7 @@ layout: doc
 section: fut
 ---
 
-This projects has significant gaps, some of which are listed on this page. Some of these gaps could easily be addressed, while others would require much more research and user testing. Some great design features are still to be prototyped, planned, or even imagined.
+This project has significant gaps, some of which are listed on this page. Some of these gaps could easily be addressed, while others would require much more research and user testing. Some great design features are still to be prototyped, planned, or even imagined.
 
 #### Scientific rationale
 
@@ -12,7 +12,7 @@ Over the course of only one year, I was not able to find scientific evidence and
 
 #### Feedback
 
-Currently, *self-assessment videos* are the only form of assessment available for learners. Without affecting the key principles of the **LanguageBug** approach, other forms of feedback could be imagined and/or developed.
+Currently, *self-assessment videos* are the only form of assessment available for learners. Without affecting the fundamental principles of the **LanguageBug** approach, other forms of feedback could be imagined and/or developed.
 
 #### Peer interaction
 
@@ -28,7 +28,7 @@ In other words, clever designs are delightful, while the current so-called "dumb
 
 #### Personalization
 
-There is a simple way to optimize the experience of **LanguageBug**: removing of blank spaces ("______") from exercises. The app could prompt learners to answer some basic question and fill those blanks by itself.
+There is an easy way to optimize the experience of **LanguageBug**: removing of blank spaces ("______") from exercises. The app could prompt learners to answer some basic question and fill those blanks by itself.
 
 #### Levels
 

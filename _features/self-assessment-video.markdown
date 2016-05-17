@@ -10,21 +10,21 @@ At the end of each practice, learners can record their own speech in a **self-as
 
 ### Association with existing resources
 
-In the professional and academic domains, foreign language speakers are often required to take oral proficiency tests. These tests may be administered in-person or thrugh videoconferencing tools.
+In the professional and academic domains, foreign language speakers are often required to take oral proficiency tests. These tests may be administered in-person or through video conferencing tools.
 
 For example, the New York University (NYU) may require its prospective international students to take *language placement tests*, offered by the American Language Institute (NYU ALI, n.d.).
 
-Similartly, the American Council on the Teaching of Foreign Languages (ACTFL) has been offering a popular test called the *ACTFL Oral Proficiency Interview* (ACTFL OPI) for over 20 years (ACTFL, n.d.).
+Similarly, the American Council on the Teaching of Foreign Languages (ACTFL) has been offering a popular test called the *ACTFL Oral Proficiency Interview* (ACTFL OPI) for over 20 years (ACTFL, n.d.).
 
 Certified test takers analyze and rate the performance of test takers in both examples. Within **LanguageBug** learners are their own test takers: not trained to look for accuracy, but certainly able to identify their own progress.
 
 ### Functions
 
-The main function of the *Self-assessment video* tool is to allow learners to perform their own formative assessment. A few other functions are also highly relevant: 
+The main function of the *Self-assessment video* tool is to allow learners to perform their own formative assessment. A few other features are also highly relevant: 
 
 * Register speech samples continuously.
 * Compare current and past speech samples to assess progress.
-* Help learners become comfortable hearing their own FL speech.
+* Help learners become comfortable hearing their FL speech.
 * Allow learners to share their speech samples with their contacts.
 
 ### Example: **User Test**
@@ -37,9 +37,9 @@ Nicole's "Yourself" exercise self-assessment video can be accessed at the follow
 
 #### Regular assessment: Standard framework
 
-If a group of proficiency test takers analyze this video, they will certainly notice that Nicole's performance is marked by evident traces of beginner speech, such as: strong accent, slow pace, unusual rhythm, etc.
+If a group of proficiency test takers analyzes this video, they will certainly notice that Nicole's performance is marked by evident traces of beginner speech, such as strong accent, slow pace, unusual rhythm, etc.
 
-As a consequence, Nicole would be labeled a "Novice" speaker and her performance would probably receive a low grade. In this case, Nicole's speech was compared to a certain (so-called) **standard speech**.
+As a consequence, Nicole would be labeled a "Novice" speaker, and her performance would probably receive a low grade. In this case, Nicole's speech was compared to a certain (so-called) **standard speech**.
 
 #### Self-assessment: Progress framework
 
@@ -54,7 +54,7 @@ In this case, Nicole is comparing her current self to herself before the practic
 User-generated videos bring several new affordances to the design of **LanguageBug**. As a result, there could be several enhancements to the *self-assessment video* feature, such as the following:
 
 * Integrate multiple videos into a single "timeline of progress" video, 
-* Allow users to follow the videos with their network of learners, and
+* Allow users to follow the videos on their network of learners, and
 * Measure/identify the time and content of each video to generate data.
 
 None of these features has been tested our outlined at the moment.
@@ -82,16 +82,16 @@ When it comes specifically to languages, the same report suggests that
 
 > "students learn more when they are allowed and encouraged to use the variety of language resources available to them.” (p. 22).
 
-Initially, **LanguageBug** learners have very limited language resources. Despite that, they should be provided with a chance to experimentat with their new language and reflect about the results. *Self-assessment videos* is the safe space to do that.
+Initially, **LanguageBug** learners have very limited language resources. Despite that, they should be provided with a chance to experiment with their new language and to observe the results. *Self-assessment videos* is the safe space to do that.
 
 #### Self-directed Learning
 
-In a self-directed learning experience, "students fully determine their own schedule and pace" (Oberg & Daniels, 2013, p. 179). The purely self-paced and independent studies are naturally challenging and may involve burdens for the leaner.
+In a self-directed learning experience, "students fully determine their own schedule and pace" (Oberg & Daniels, 2013, p. 179). The purely self-paced and independent studies are naturally challenging and may involve burdens for the learner.
 
 As a result, motivation is one of the keywords in self-regulated learning. Research shows that conducting independent studies may produce high levels of cognitive engagement, meaningful connections and increased motivation (Kinzie, 1990).
 
 Halvorson (2010) states that
 
-> people are motivated to do anything as a function of (1) how likely they are to be successful and (2) how much they think they will benefit from it. And of course the more motivated you are, the more likely you are to reach your goal. (p. 23)
+> people are motivated to do anything as a function of (1) how likely they are to be successful and (2) how much they think they will benefit from it. And of course, the more motivated you are, the more likely you are to reach your goal. (p. 23)
 
 *Self-assessment videos* show learners that their investments of time and effort result in concrete improvement. As a result, these learners are likely to remain self-motivated.

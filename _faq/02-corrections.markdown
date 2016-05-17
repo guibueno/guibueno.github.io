@@ -15,7 +15,7 @@ Research has found links between perfectionism and high foreign language anxiety
 
 When it comes to speaking only, it may be hard to define what is right and what is wrong. Variations in speech are common even among native speakers of the same language, as a result of:
 
-* same language in different countries,
+* the same language in different countries,
 * regional differences and dialects,
 * accents in different social groups,
 * formal/informal speech practices, etc.
@@ -30,10 +30,10 @@ Some learners prefer to keep their foreign language accent. Others may struggle 
 
 ### Corrective Feedack
 
-Correction is not commonsense among researchers in the field of language learning and teaching. In fact, Corrective Feedback (CF) is the center of several debates. Sung & Tsai (2014, p. 38) have listed some of the fundamental questions around CF:
+Correction is not common-sense among researchers in the field of language learning and teaching. In fact, Corrective Feedback (CF) is the center of several debates. Sung & Tsai (2014, p. 38) have listed some of the fundamental questions around CF:
 
 * does CF assist in language acquisition?
-* what types of CF are the most effective?
+* what types of CF are the most efficient?
 * what factors can influence the effectiveness of CF?
 
 Language learners may also prefer "clarifications and elicitations" over corrections (Sung; Tsai, 2014, p. 39). Such types of feedback help them "find correct answers themselves" (p. 39).
