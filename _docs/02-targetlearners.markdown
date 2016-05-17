@@ -2,11 +2,6 @@
 layout: doc
 title: Target Learners
 section: needs
-incomplete: yes
-problem: "it should be a little more specific and include more research"
-workon:
-  - "Add research citations to back up some of my assumptions"
-  - "Create a persona that synthesizes my target audience"
 ---
 
 **LanguageBug** targets specifically **adult language learners **. 
