@@ -1,4 +1,4 @@
----
+/*---
 layout: doc
 title: Acknowledgements
 section: pre
@@ -29,4 +29,4 @@ helping me figure out that I was thinking about the
 
 CAPES
 
-Family
+Family*/
