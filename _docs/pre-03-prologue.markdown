@@ -1,9 +1,7 @@
 ---
 layout: doc
 title: Prologue
-incomplete: no
-problem: no
-workon: no
+section: pre
 ---
 
 ### The outsider's challenge

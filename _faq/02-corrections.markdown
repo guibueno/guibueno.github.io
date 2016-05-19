@@ -20,7 +20,7 @@ When it comes to speaking only, it may be hard to define what is right and what 
 * accents in different social groups,
 * formal/informal speech practices, etc.
 
-Samal & Larraza state (2015) that accepting "wrong pronunciation" is not an error. It may actually be a useful adaptation to an environment of linguistic variations (p. 51).
+Samuel & Larraza state (2015) that accepting "wrong pronunciation" is not an error. It may actually be a useful adaptation to an environment of linguistic variations (p. 51).
 
 ### Accents
 

@@ -32,7 +32,7 @@ Noels et al. (2000) explain these classes of orientations:
 > 4. is problem-centered and interested in immediate application of knowledge, and 
 > 5. is motivated to learn by internal rather than external factors." (Merriam, 2001, p. 5)
 
-"Knowles himself came to concur that andragogy is less a theory of adult learning than 'a model of assumptions about learning or a conceptual framework that serves as a basis for an emergent theory' (1989, p. 112)" (p. 5)
+Knowles himself has stated that andragogy is less a learning theory of adult learning and more of "a model of assumptions about learning or a conceptual framework that serves as a basis for an emergent theory" (1989, p. 112)" (p. 5)
 
 ### Self-motivation
 

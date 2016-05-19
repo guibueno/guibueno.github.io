@@ -2,11 +2,6 @@
 layout: doc
 title: Context / Settings
 section: needs
-incomplete: yes
-problem: "it could and will be expanded"
-workon:
-  - "Add more research references to support my claims"
-  - "Create a scenario to illustrate these context/settings"
 ---
 
 These are the ideal conditions for which **LanguageBug** is designed to work best: private environment, unaccompanied, mostly mobile, distraction-free, optimized time.

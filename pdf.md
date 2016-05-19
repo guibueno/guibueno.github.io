@@ -29,6 +29,15 @@ title: PDF
 ![Cover]({{site.baseurl}}/images/doc-cover.png)
 {: class="storyboard"}
 
+![Table of Contents - 1]({{site.baseurl}}/images/toc/table-of-content-1.png)
+{: class="storyboard"}
+
+![Table of Contents - 2]({{site.baseurl}}/images/toc/table-of-content-2.png)
+{: class="storyboard"}
+
+![Table of Contents - 3]({{site.baseurl}}/images/toc/table-of-content-3.png)
+{: class="storyboard"}
+
 {% for item in site.docs %}
 
 	{% if item.section == "pre" %}

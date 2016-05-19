@@ -182,6 +182,10 @@ $on-laptop:        800px;
         }
     }
     
+    p .lasimple {
+        display: none;
+    }
+
     div.post-content h3 { /* It is targeting the right element, but the page-break avoid does not work*/
         & + p {
             page-break-after: avoid;
