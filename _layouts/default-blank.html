@@ -1,0 +1,29 @@
+<!DOCTYPE html>
+<html>
+
+  {% include head.html %}
+
+  <body>
+    <div class="page-content">
+
+      <div class="wrapper">
+
+        {% if layout.sidebar or page.sidebar %}
+
+          {% include sidebar.html %}
+
+        {% else %}
+
+          <!-- UNCOMMENT WHEN TESTING 
+          <h1>Sidebar NOT being called</h1>
+          <! END OF TESTING COMMENT -->
+
+        {% endif %}
+
+        {{ content | extlinks }}
+      </div>
+    </div>
+    
+  </body>
+
+</html>
