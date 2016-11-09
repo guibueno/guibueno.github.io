@@ -23,8 +23,6 @@ permalink: /index.html
         /
         <a class="page-link" href="https://www.youtube.com/watch?v=MjxNSXzIDiM">Mimic</a>
         /
-        <a class="page-link" href="http://guibueno.me">Me</a>
-        /
         <a class="page-link" href="https://github.com/guibueno/id-level-easy">Id-PUC</a></p>
 
         <p style="margin-top:20px"><em>Em breve, em português.</em></p>
